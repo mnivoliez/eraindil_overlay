@@ -1,0 +1,31 @@
+#!/bin/sh
+exec tail -n +3 $0
+# This file provides an easy way to add custom menu entries.  Simply type the
+# menu entries you want to add after this comment.  Be careful not to change
+# the 'exec tail' line above.
+  
+menuentry "Gentoo Kira plain - vmlinuz-3.4.5" {
+  root=hd0,1
+  linux /vmlinuz-3.4.5 root=/dev/sda3
+}
+
+
+menuentry "Gentoo Kira load_video - vmlinuz-3.4.5" {
+        load_video
+        insmod gzio
+        insmod part_gpt
+        insmod ext2
+  root=hd0,1
+  linux /vmlinuz-3.4.5 root=/dev/sda3
+}
+
+menuentry "Gentoo Kira gfx - vmlinuz-3.4.5" {
+        load_video
+        insmod gzio
+        insmod part_gpt
+        insmod ext2
+        set gfxmode=auto
+  root=hd0,1
+  linux /vmlinuz-3.4.5 root=/dev/sda3
+}
+
