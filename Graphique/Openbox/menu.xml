@@ -1,0 +1,202 @@
+<?xml version="1.0" encoding="utf-8"?>
+<openbox_menu xmlns="http://openbox.org/3.4/menu">
+	<menu execute="/usr/bin/openbox-menu /etc/xdg/menus/gnome-applications.menu" id="Gnome-app-menu" label="Application"/>
+	<menu id="apps-term-menu" label="Terminals">
+		<item label="Terminator">
+			<action name="Execute">
+				<command>
+					terminator
+				</command>
+			</action>
+		</item>
+		<item label="Xterm">
+			<action name="Execute">
+				<command>
+					xterm
+				</command>
+			</action>
+		</item>
+	</menu>
+	<menu id="apps-net-menu" label="Internet">
+		<item label="Chromium">
+			<action name="Execute">
+				<execute>
+					chromium
+				</execute>
+			</action>
+		</item>
+		<item label="Teamspeak">
+			<action name="Execute">
+				<execute>/usr/bin/teamspeak3</execute>
+			</action>
+		</item>
+		<item label="Mumble">
+			<action name="Execute">
+				<execute>
+					mumble
+				</execute>
+			</action>
+		</item>
+	</menu>
+	<menu id="app-record" label="Record">
+		<item label="Audacity">
+			<action name="Execute">
+				<execute>
+					audacity
+				</execute>
+			</action>
+		</item>
+		<item label="Gtk-RecordMyDesktop">
+			<action name="Execute">
+				<execute>
+					gtk-recordMyDesktop
+				</execute>
+			</action>
+		</item>
+		<item label="Cheese">
+			<action name="Execute">
+				<execute>
+					cheese
+				</execute>
+			</action>
+		</item>
+	</menu>
+	<menu id="apps-multimedia-menu" label="Multimedia">
+		<item label="Ario">
+			<action name="Execute">
+				<execute>ario</execute>
+			</action>
+		</item>
+		<item label="Nightingale">
+			<action name="Execute">
+				<execute>alltray /media/utilitaire/Install/Programme/nightingale/nightingale</execute>
+			</action>
+		</item>
+		<item label="VLC">
+			<action name="Execute">
+				<execute>
+					vlc
+				</execute>
+			</action>
+		</item>
+	</menu>
+	<menu id="apps-fileman-menu" label="File Managers">
+		<item label="Thunar">
+			<action name="Execute">
+				<command>
+					Thunar
+				</command>
+				<startupnotify>
+					<enabled>
+						yes
+					</enabled>
+				</startupnotify>
+			</action>
+		</item>
+	</menu>
+	<menu id="system-menu" label="System">
+		<item label="Openbox Configuration Manager">
+			<action name="Execute">
+				<command>
+					obconf
+				</command>
+				<startupnotify>
+					<enabled>
+						yes
+					</enabled>
+				</startupnotify>
+			</action>
+		</item>
+		<item label="LXappearance">
+			<action name="Execute">
+				<execute>
+					lxappearance
+				</execute>
+			</action>
+		</item>
+		<item label="Nitrogen">
+			<action name="Execute">
+				<execute>
+					nitrogen
+				</execute>
+			</action>
+		</item>
+		<item label="Obmenu">
+			<action name="Execute">
+				<execute>
+					obmenu
+				</execute>
+			</action>
+		</item>
+		<separator/>
+		<item label="Reconfigure Openbox">
+			<action name="Reconfigure"/>
+		</item>
+	</menu>
+	<menu id="root-menu" label="Openbox 3">
+		<separator label="Favori"/>
+		<menu id="apps-accessories-menu"/>
+		<menu id="apps-editors-menu"/>
+		<menu id="apps-graphics-menu"/>
+		<menu id="apps-net-menu"/>
+		<menu id="app-record"/>
+		<menu id="apps-office-menu"/>
+		<menu id="apps-multimedia-menu"/>
+		<menu id="apps-term-menu"/>
+		<menu id="apps-fileman-menu"/>
+		<separator label="Application"/>
+		<menu id="Gnome-app-menu"/>
+		<separator label="Nightingale"/>
+		<item label="Play">
+			<action name="Execute">
+				<execute>/media/utilitaire/Install/Programme/nightingale/nightingale -play</execute>
+			</action>
+		</item>
+		<item label="Pause">
+			<action name="Execute">
+				<execute>/media/utilitaire/Install/Programme/nightingale/nightingale -pause</execute>
+			</action>
+		</item>
+		<item label="Next">
+			<action name="Execute">
+				<execute>/media/utilitaire/Install/Programme/nightingale/nightingale -next</execute>
+			</action>
+		</item>
+		<item label="Previous">
+			<action name="Execute">
+				<execute>/media/utilitaire/Install/Programme/nightingale/nightingale -previous</execute>
+			</action>
+		</item>
+		<separator label="System"/>
+		<menu id="system-menu"/>
+		<separator/>
+		<item label="Lock session">
+			<action name="Execute">
+				<execute>
+					xscreensaver-command --lock
+				</execute>
+			</action>
+		</item>
+		<item label="Log Out">
+			<action name="Exit">
+				<prompt>
+					yes
+				</prompt>
+			</action>
+		</item>
+		<item label="Reboot">
+			<action name="Execute">
+				<execute>
+					sudo shutdown -r now
+				</execute>
+			</action>
+		</item>
+		<item label="Arret">
+			<action name="Execute">
+				<execute>
+					sudo shutdown -h now
+				</execute>
+			</action>
+		</item>
+	</menu>
+</openbox_menu>

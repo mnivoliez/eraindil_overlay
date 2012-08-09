@@ -1,0 +1,7 @@
+#required by dev-util/eclipse-sdk (argument)
+# /usr/portage/profiles/package.mask:
+# Ralph Sennhauser <sera@gentoo.org> (18 Jul 2012)
+# Unmaintained, multiple vulnarabilities. #351626
+# A more recent source build maintained by the community is available in the
+# seden overlay. A more recent binary is available in the java-overlay.
+=dev-util/eclipse-sdk-3.5.1-r1

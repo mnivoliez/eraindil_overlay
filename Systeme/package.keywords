@@ -1,0 +1,8 @@
+x11-misc/cairo-dock **
+x11-misc/cairo-dock-plugins **
+#required by cairo-dock-plugins (argument)
+=x11-plugins/cairo-dock-plugins-9999-r1 **
+gnome-extra/avant-window-navigator **
+gnome-extra/avant-window-navigator-extras **
+#required by =x11-misc/tint2-9999 (argument)
+=x11-misc/tint2-9999 **

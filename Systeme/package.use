@@ -1,0 +1,31 @@
+#required by x11-misc/notification-daemon-0.7.4, required by virtual/notification-daemon-0[-gnome], required by x11-libs/libnotify-0.7.5, required by xfce-base/thunar-1.4.0[libnotify], required by xfce-extra/thunar-archive-plugin-0.3.0, required by thunar-archive-plugin (argument)
+>=media-libs/libcanberra-0.29 gtk3
+#required by x11-terms/terminator-0.96-r1, required by terminator (argument)
+>=dev-libs/keybinder-0.3.0-r200:0 python
+#required by x11-terms/terminator-0.96-r1, required by terminator (argument)
+>=x11-libs/vte-0.28.2-r203:0 python
+#required by www-client/chromium-21.0.1180.49, required by chromium (argument)
+>=dev-libs/libxml2-2.8.0-r1 icu
+app-portage/layman subversion git
+#VLC
+media-video/vlc X a52 aac aalib alsa altivec atmo audioqueue avahi avcodec avformat bidi bluray cdda cddb dbus dc1394 debug dirac direct2d directfb directx dshow dts dvb dvbpsi dvd dxva2 egl elibc_glibc encode fbcon fbosd ffmpeg flac fluidsynth fontconfig gcrypt ggi gme -gnome gnutls growl httpd id3tag ieee1394 ios-vout -jack kate -kde libass libcaca libnotify libproxy libsamplerate libtar libtiger libv4l libv4l2 linsys lirc live lua -macosx -macosx-audio -macosx-dialog-provider -macosx-eyetv -macosx-qtkit -macosx-quartztext -macosx-vout matroska media-library mmx modplug mp3 mpeg mtp musepack ncurses neon ogg omxil opengl optimisememory oss png portaudio postproc projectm -pulseaudio pvr qt4 remoteosd rtsp -run-as-root -samba schroedinger sdl sdl-image shine shout sid skins speex sqlite sse stream svg svga switcher swscale taglib theora truetype twolame udev upnp v4l vaapi vcdx vlm vorbis waveout win32codecs wingdi wma-fixed x264 xcb xml xosd xv zvbi
+#required by media-video/vlc-2.0.3, required by vlc (argument)
+>=sys-libs/zlib-1.2.7 minizip
+#required by sys-devel/prelink-20111012, required by app-emulation/wine-1.5.9[-hardened], required by wine (argument)
+>=dev-libs/elfutils-0.154-r1 static-libs
+app-admin/conky X ncurses portmon truetype apcupsd audacious -curl -debug -eve hddtemp -imlib -iostats lua lua-cairo lua-imlib -math -moc mpd nano-syntax nvidia rss thinkpad -vim-syntax weather-metar weather-xoap -wifi -xmms2
+sys-block/gparted gtk btrfs -dmraid fat -hfs -jfs -kde -mdadm ntfs -reiser4 -reiserfs -xfs
+net-libs/webkit-gtk -introspection
+#required by x11-libs/qt-core-4.8.2[qt3support], required by x11-libs/qt-qt3support-4.8.2, required by kde-base/kdesu-4.8.4, required by kde-base/khelpcenter-4.8.4, required by kde-base/kdelibs-4.8.4-r1[handbook], required by sys-auth/polkit-kde-agent-0.99.0, required by kde-misc/polkit-kde-kcmodules-0.98_pre20101127
+>=x11-libs/qt-gui-4.8.2 qt3support
+#required by x11-libs/qt-webkit-4.8.2[gstreamer], required by kde-base/kdesu-4.8.4, required by kde-base/khelpcenter-4.8.4, required by kde-base/kdelibs-4.8.4-r1[handbook], required by sys-auth/polkit-kde-agent-0.99.0, required by kde-misc/polkit-kde-kcmodules-0.98_pre20101127
+>=dev-libs/libxml2-2.8.0-r1 -icu
+#required by x11-libs/qt-qt3support-4.8.2, required by kde-base/kdesu-4.8.4, required by kde-base/khelpcenter-4.8.4, required by kde-base/kdelibs-4.8.4-r1[handbook], required by sys-auth/polkit-kde-agent-0.99.0, required by kde-misc/polkit-kde-kcmodules-0.98_pre20101127
+>=x11-libs/qt-sql-4.8.2 qt3support
+#required by x11-libs/qt-gui-4.8.2, required by x11-libs/qt-qt3support-4.8.2, required by kde-base/kdesu-4.8.4, required by kde-base/khelpcenter-4.8.4, required by kde-base/kdelibs-4.8.4-r1[handbook], required by sys-auth/polkit-kde-agent-0.99.0, required by kde-misc/polkit-kde-kcmodules-0.98_pre20101127
+>=x11-libs/qt-core-4.8.2 qt3support
+app-cdr/k3b dvd flac handbook mad vorbis emovix ffmpeg lame musepack taglib
+#required by net-print/cups-1.6.0, required by net-print/cups-filters-1.0.19
+>=app-text/ghostscript-gpl-9.05-r2 cups
+media-sound/mpd aac alsa bzip2 curl ffmpeg fifo flac id3tag ipv6 mad network ogg tcpd unicode vorbis -ao audiofile -cdio -debug -fluidsynth -gme -inotify -jack -lame lastfmradio -libsamplerate -mikmod -mms -modplug mpg123 -musepack -openal -oss -pipe -pulseaudio -recorder -sid -sndfile -soundcloud -soup -sqlite -systemd -twolame -wavpack -wildmidi -zeroconf -zip
+dev-lang/python tk

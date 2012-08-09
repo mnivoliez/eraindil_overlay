@@ -1,0 +1,15 @@
+#!/bin/bash
+xcompmgr &
+guake &
+avant-window-navigator &
+parcellite &
+tint2 &
+nitrogen --restore &
+claws-mail &
+pidgin &
+thunar --daemon &
+dropbox &
+volti &
+xscreensaver &
+skype &
+sh /home/eraindil/.config/conky/Conky.sh &

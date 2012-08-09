@@ -1,0 +1,8 @@
+#required by skype (argument)
+>=net-im/skype-4.0.0.8 skype-4.0.0.7-copyright
+#required by www-plugins/adobe-flash (argument)
+>=www-plugins/adobe-flash-11.2.202.236 AdobeFlash-10.3
+#required by virtual/jre-1.6.0, required by dev-java/java-config-2.1.12
+>=dev-java/sun-jre-bin-1.6.0.33-r1 Oracle-BCLA-JavaSE
+#required by app-emulation/virtualbox-4.1.18-r1[additions], required by virtualbox (argument)
+>=app-emulation/virtualbox-additions-4.1.18 PUEL

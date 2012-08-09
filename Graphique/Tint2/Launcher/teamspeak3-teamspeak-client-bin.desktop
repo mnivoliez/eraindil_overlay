@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=TeamSpeak3
+Type=Application
+Comment=TeamSpeak Client - Voice Communication Software
+Exec=teamspeak3
+TryExec=teamspeak3
+Icon=/opt/teamspeak3-client/gfx/default/24x24_connect.png
+Categories=Network;

@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=Skype VoIP
+Type=Application
+Comment=An P2P Internet Telephony (VoiceIP) client
+Exec=skype
+TryExec=skype
+Icon=skype
+Categories=Network;InstantMessaging;Telephony;
