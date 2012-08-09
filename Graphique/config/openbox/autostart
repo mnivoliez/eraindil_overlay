@@ -12,4 +12,4 @@ dropbox &
 volti &
 xscreensaver &
 skype &
-sh /home/eraindil/.config/conky/Conky.sh &
+conky -c /home/eraindil/.conky/conkyrc &

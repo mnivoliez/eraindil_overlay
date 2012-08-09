@@ -46,7 +46,7 @@ ${voffset 25}
 ${goto 135}${color4}${font ubuntu:size=22}${time %e}${color1}${offset -55}${font ubuntu:size=10}${time %A}
 ${goto 95}${color2}${voffset -0}${font ubuntu:size=9}${time %b}${voffset -2} ${color3}${font ubuntu:size=12}${time %Y}${font}
 
-${voffset 110}
+${voffset 140}
 ${goto 90}${font Ubuntu:size=7,weight:bold}${color}CPU
 ${goto 90}${font Ubuntu:size=7,weight:normal}${color1}${top name 1}${alignr}${top cpu 1}%
 ${goto 90}${font Ubuntu:size=7,weight:normal}${color2}${top name 2}${alignr}${top cpu 2}%
@@ -54,7 +54,7 @@ ${goto 90}${font Ubuntu:size=7,weight:normal}${color3}${top name 3}${alignr}${to
 ${goto 90}${font Ubuntu:size=7,weight:normal}${color3}${top name 4}${alignr}${top cpu 4}%
 ${goto 90}${font Ubuntu:size=7,weight:normal}${color3}${top name 5}${alignr}${top cpu 5}%
 
-${voffset 15}
+${voffset 5}
 ${goto 90}${font Ubuntu:size=7,weight:bold}${color}MEM
 ${goto 90}${font Ubuntu:size=7,weight:normal}${color1}${top_mem name 1}${alignr}${top_mem mem 1}%
 ${goto 90}${font Ubuntu:size=7,weight:normal}${color2}${top_mem name 2}${alignr}${top_mem mem 2}%
