@@ -1,0 +1,5 @@
+[Desktop Entry]
+Type=Application
+Name=Stalker: Shadow Of Chernobyl
+Icon=/media/multimedia/Images/Jeu_video/stalkersoc.png
+Exec=sh /media/utilitaire/Install/ScripLancement/Stalker_SOC.sh

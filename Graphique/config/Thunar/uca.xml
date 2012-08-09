@@ -1,0 +1,35 @@
+<?xml encoding="UTF-8" version="1.0"?>
+<actions>
+<action>
+	<icon>Terminal</icon>
+	<name>Ouvrir un terminal ici</name>
+	<command>exo-open --working-directory %f --launch TerminalEmulator</command>
+	<description>Exemple d&apos;une action personnalisée</description>
+	<patterns>*</patterns>
+	<directories/>
+</action>
+<action>
+	<icon></icon>
+	<name>Monter l&apos;image</name>
+	<command>fuseiso -p %f ~/iso</command>
+	<description>Monter l&apos;image iso dans ~/iso</description>
+	<patterns>*.iso;*.nrg;*.bin;*mdf;*.img;*.ISO</patterns>
+	<other-files/>
+</action>
+<action>
+	<icon></icon>
+	<name>Démonter l&apos;image</name>
+	<command>fusermount -u %f</command>
+	<description>Démonter l&apos;image montée avec fuseiso</description>
+	<patterns>iso</patterns>
+	<directories/>
+</action>
+<action>
+	<icon></icon>
+	<name>Rechercher </name>
+	<command>/usr/bin/catfish --fileman=thunar --path=%f --hidden --method=find</command>
+	<description></description>
+	<patterns>*</patterns>
+	<directories/>
+</action>
+</actions>

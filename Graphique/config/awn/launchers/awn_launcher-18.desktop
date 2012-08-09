@@ -1,0 +1,6 @@
+
+[Desktop Entry]
+Type=Application
+Name=Half Life
+Icon=97E6_hl.0
+Exec=sh /media/utilitaire/Install/ScripLancement/halflife.sh

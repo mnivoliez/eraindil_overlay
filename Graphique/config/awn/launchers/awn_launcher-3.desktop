@@ -1,0 +1,5 @@
+[Desktop Entry]
+Type=Application
+Name=Steam
+Exec=sh /media/utilitaire/Install/ScripLancement/steam.sh
+Icon=10B4_steam.0

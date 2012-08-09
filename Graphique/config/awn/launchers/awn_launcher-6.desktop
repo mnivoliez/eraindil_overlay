@@ -1,0 +1,6 @@
+
+[Desktop Entry]
+Type=Application
+Name=FarCry
+Exec=sh /media/utilitaire/Install/ScripLancement/FarCry.sh
+Icon=/media/multimedia/Images/Jeu_video/far_cry_icon_3.png

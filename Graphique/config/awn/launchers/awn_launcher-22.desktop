@@ -1,0 +1,6 @@
+
+[Desktop Entry]
+Type=Application
+Name=TrackMania
+Icon=/media/utilitaire/Install/Jeux/TrackMania/drive_c/Program Files/TmNationsForever/LaunchIcon.png
+Exec=sh /media/utilitaire/Install/ScripLancement/trackmania.sh

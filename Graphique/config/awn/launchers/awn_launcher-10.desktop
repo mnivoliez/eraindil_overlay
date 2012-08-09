@@ -1,0 +1,6 @@
+[Desktop Entry]
+Type=Application
+Name=MultiMc
+Exec=sh /media/utilitaire/Install/ScripLancement/MultiMc.sh
+Icon=/media/multimedia/Images/Jeu_video/minecraft_icon_by_gimilkhor-d36xhh8.png
+Terminal=false

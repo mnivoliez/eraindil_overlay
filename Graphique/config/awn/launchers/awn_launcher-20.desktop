@@ -1,0 +1,6 @@
+
+[Desktop Entry]
+Type=Application
+Name=Opposing Force
+Icon=4D9D_game.0
+Exec=sh /media/utilitaire/Install/ScripLancement/opposingforce.sh

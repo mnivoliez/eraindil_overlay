@@ -1,0 +1,6 @@
+
+[Desktop Entry]
+Type=Application
+Name=Blue Shift
+Icon=DAC3_game.0
+Exec=sh /media/utilitaire/Install/ScripLancement/blueshift.sh

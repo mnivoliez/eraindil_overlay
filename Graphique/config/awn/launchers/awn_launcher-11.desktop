@@ -1,0 +1,6 @@
+
+[Desktop Entry]
+Type=Application
+Name=WoW
+Exec=wine /media/utilitaire/Jeu/World_Of_Ysera_BC/World_Of_Ysera_BC/Wow.exe
+Icon=/media/multimedia/Images/Jeu_video/wow-icon.png
