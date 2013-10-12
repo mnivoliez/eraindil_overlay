@@ -1,0 +1,82 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <title>Troll Emoticons Menubar</title>
+
+  <link href="/assets/css/style.css" rel="stylesheet" type="text/css">
+  <link href="/assets/css/tooltip.css" rel="stylesheet" type="text/css">
+
+  <style>
+    body { overflow-x:hidden; }
+  </style>
+
+  <script type="text/javascript" src="/lib/vendor/au.min.js"></script>
+  <script type="text/javascript" src="/lib/vendor/jquery.min.js"></script>
+  <script type="text/javascript" src="/lib/vendor/jquery.jscrollpane.min.js"></script>
+  <script type="text/javascript" src="/lib/mappings.js"></script>
+  <script type="text/javascript" src="/lib/popup.js"></script>
+
+</head>
+
+<body>
+<input id="copy" style="display:none">
+<section id="container">
+
+    <div id="notification" style="display:none;"></div>
+    <section id="emotbox">
+    <section class="boxtop"></section>
+    <section class="boxmiddle">
+
+        <section id="wrapper">
+
+            <div id="content">
+              <article></article>
+              <article></article>
+              <article></article>
+            </div>
+            <footer>
+			  <input id="search" style="color:#680b14;" />
+            <ul>
+              <li>
+                <a href="/pages/options.html" target="_blank">
+                  <img src="/assets/img/settings.png" alt="Gear">
+                </a>
+                <span class="dropdown settings">
+                  <a href="/pages/options.html"></a>
+                </span>
+              </li>
+              <li>
+                <a href="https://www.facebook.com/trollemoticonz" target="_blank">
+                 <img src="/assets/img/fbpage.png" alt="Facebook page">
+                </a>
+                <span class="dropdown facebook">
+                  <a href="https://www.facebook.com/trollemoticonz" target="_blank"></a>
+                </span>
+              </li>
+              <li><!-- THIS IS THE CODE WE NEED TO WORK WITH THE menu_bookmarks_click FUNCTION -->
+                  <a href="/pages/bookmarks.html"><img id="button" src="/assets/img/favs.png" alt="Medical"></a>
+                <span class="dropdown bookmark">
+                  <a href="#"></a>
+                </span>
+              </li>
+			  <li>
+                <a href="/pages/newemotes.html">
+                  <img src="/assets/img/new.png" alt="New">
+                </a>
+                <span class="dropdown award">
+                  <a href="#"></a>
+                </span>
+              </li>
+            </ul>
+            </footer>
+        </section><!-- wrapper -->
+
+    </section>
+    <section class="boxbottom"></section>
+    </section>
+
+</section><!-- container -->
+
+</body>
+</html>

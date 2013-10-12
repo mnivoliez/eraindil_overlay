@@ -1,6 +1,5 @@
-
 [Desktop Entry]
 Type=Application
-Name=Half-life 2: Episode 1
-Exec=sh /media/utilitaire/Install/ScripLancement/hl2ep1.sh
-Icon=/media/multimedia/Images/Jeu_video/rsz_half-life_2-1afdbf5.png
+Name=Fallout New Vegas
+Exec=sh /media/utilitaire/Install/ScripLancement/Fallout_New_Vegas.sh
+Icon=/media/multimedia/Images/Jeu_video/Fallout-New-Vegas-2-icon.png

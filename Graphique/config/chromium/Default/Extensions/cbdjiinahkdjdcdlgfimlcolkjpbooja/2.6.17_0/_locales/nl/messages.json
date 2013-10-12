@@ -1,0 +1,80 @@
+{
+   "available1080": {
+      "message": "Toon 1080p videos, indien beschikbaar"
+   },
+   "available240": {
+      "message": "Toon 240p videos, indien beschikbaar"
+   },
+   "available2k": {
+      "message": "Toon 2k videos, indien beschikbaar"
+   },
+   "available360": {
+      "message": "Toon 360p videos, indien beschikbaar"
+   },
+   "available480": {
+      "message": "Toon 480p videos, indien beschikbaar"
+   },
+   "available720": {
+      "message": "Toon 720p videos, indien beschikbaar"
+   },
+   "availablemp3": {
+      "message": "Toon MP3"
+   },
+   "availablewebm": {
+      "message": "Toon WebM videos, indien beschikbaar"
+   },
+   "buttonstyle": {
+      "message": "Button Style"
+   },
+   "clasicdownload": {
+      "message": "Klassieke Download"
+   },
+   "description": {
+      "message": "Download makkelijk videos van YouTube!"
+   },
+   "disableflv": {
+      "message": "Schakel FLV uit"
+   },
+   "includenick": {
+      "message": "Voeg gebruikersnaam van de uploader v\u00F3\u00F3r de titel"
+   },
+   "includequality": {
+      "message": "Voeg kwaliteit na de titel"
+   },
+   "installmessage": {
+      "message": "Chrome YouTube Downloader is geinstalleerd!"
+   },
+   "language": {
+      "message": "nl"
+   },
+   "loadingsettings": {
+      "message": "Instellingen laden..."
+   },
+   "nickname": {
+      "message": "Jouw gebruiksersnaam"
+   },
+   "oneclickdownload": {
+      "message": "One-Click-Download"
+   },
+   "oneclicktext": {
+      "message": "Als een video beschikbaar is in een bepaalde resolutie, word die automatisch  als download aangeboden, maar als die niet beschikbaar is, word het in de eerst volgende (lagere) resolutie aangeboden."
+   },
+   "saved": {
+      "message": "Opties opgeslagen"
+   },
+   "settingspagetitle": {
+      "message": "Chrome YouTube downloader - Instellingen"
+   },
+   "translated": {
+      "message": "Vertaald door:"
+   },
+   "updatemessage": {
+      "message": "Chrome YouTube Downloader is ge\u00FCpdate!"
+   },
+   "videoformats": {
+      "message": "Video Formaten"
+   },
+   "videotitle": {
+      "message": "Video Titel"
+   }
+}

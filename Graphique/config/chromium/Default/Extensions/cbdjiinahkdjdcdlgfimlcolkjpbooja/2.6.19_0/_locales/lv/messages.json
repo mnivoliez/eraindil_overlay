@@ -1,0 +1,65 @@
+{
+   "available1080": {
+      "message": "R\u0101d\u012Bt 1080p video, ja pieejams"
+   },
+   "available240": {
+      "message": "R\u0101d\u012Bt 240p video, ja pieejams"
+   },
+   "available2k": {
+      "message": "R\u0101d\u012Bt 2k video, ja pieejams"
+   },
+   "available360": {
+      "message": "R\u0101d\u012Bt 360p video, ja pieejams"
+   },
+   "available480": {
+      "message": "R\u0101d\u012Bt 480p video, ja pieejams"
+   },
+   "available720": {
+      "message": "R\u0101d\u012Bt 720p video, ja pieejams"
+   },
+   "availablemp3": {
+      "message": "R\u0101d\u012Bt MP3"
+   },
+   "availablewebm": {
+      "message": "R\u0101d\u012Bt WebM video, ja pieejams"
+   },
+   "buttonstyle": {
+      "message": "Pogu Stils"
+   },
+   "clasicdownload": {
+      "message": "Klasisk\u0101 Lejupl\u0101de"
+   },
+   "description": {
+      "message": "Lejupl\u0101d\u0113 video no youtube! Tas ir vienk\u0101r\u0161i..."
+   },
+   "disableflv": {
+      "message": "Atsl\u0113gt FLV video"
+   },
+   "includenick": {
+      "message": "Iek\u013Caut aug\u0161upl\u0101d\u0113t\u0101ja lietot\u0101jv\u0101rdu pirms nosaukuma"
+   },
+   "includequality": {
+      "message": "Iek\u013Caut kvalit\u0101ti p\u0113c nosaukuma"
+   },
+   "nickname": {
+      "message": "Tulkojis: NorKais"
+   },
+   "oneclickdownload": {
+      "message": "Lejupl\u0101d\u0113t Ar Vienu Klik\u0161\u0137i"
+   },
+   "oneclicktext": {
+      "message": "Ja video ir pieejams izv\u0113l\u0113taj\u0101 iz\u0161\u0137irtsp\u0113j\u0101, tad t\u0101 tiks pied\u0101v\u0101ta autom\u0101tiski, bet ja n\u0113, tad tiks pied\u0101v\u0101ta n\u0101kam\u0101 zem\u0101k\u0101 video iz\u0161\u0137irtsp\u0113ja."
+   },
+   "saved": {
+      "message": "Uzst\u0101d\u012Bjumi Saglab\u0101ti"
+   },
+   "settingspagetitle": {
+      "message": "Chrome YouTube Downloader - Uzst\u0101d\u012Bjumi"
+   },
+   "videoformats": {
+      "message": "Video Form\u0101ti"
+   },
+   "videotitle": {
+      "message": "Video Nosaukums"
+   }
+}

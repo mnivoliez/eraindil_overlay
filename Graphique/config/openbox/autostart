@@ -2,14 +2,17 @@
 xcompmgr &
 guake &
 avant-window-navigator &
+volti &
 parcellite &
+pasystray &
 tint2 &
+nm-applet &
 nitrogen --restore &
 claws-mail &
 pidgin &
 thunar --daemon &
 dropbox &
-volti &
+qbittorrent &
 xscreensaver &
 skype &
 conky -c /home/eraindil/.conky/conkyrc &

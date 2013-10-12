@@ -1,6 +1,27 @@
 <?xml version="1.0" encoding="utf-8"?>
 <openbox_menu xmlns="http://openbox.org/3.4/menu">
-	<menu execute="/usr/bin/openbox-menu /etc/xdg/menus/gnome-applications.menu" id="Gnome-app-menu" label="Application"/>
+	<menu id="prog" label="Programmation">
+		<item label="Eclipse">
+			<action name="Execute">
+				<execute>/usr/bin/eclipse-3.5</execute>
+			</action>
+		</item>
+		<item label="Qt Creator">
+			<action name="Execute">
+				<execute>/usr/bin/qtcreator</execute>
+			</action>
+		</item>
+		<item label="Geany">
+			<action name="Execute">
+				<execute>geany</execute>
+			</action>
+		</item>
+		<item label="GVim">
+			<action name="Execute">
+				<execute>gvim</execute>
+			</action>
+		</item>
+	</menu>
 	<menu id="apps-term-menu" label="Terminals">
 		<item label="Terminator">
 			<action name="Execute">
@@ -23,11 +44,6 @@
 				<execute>
 					chromium
 				</execute>
-			</action>
-		</item>
-		<item label="Teamspeak">
-			<action name="Execute">
-				<execute>/usr/bin/teamspeak3</execute>
 			</action>
 		</item>
 		<item label="Mumble">
@@ -62,14 +78,19 @@
 		</item>
 	</menu>
 	<menu id="apps-multimedia-menu" label="Multimedia">
-		<item label="Ario">
-			<action name="Execute">
-				<execute>ario</execute>
-			</action>
-		</item>
 		<item label="Nightingale">
 			<action name="Execute">
 				<execute>alltray /media/utilitaire/Install/Programme/nightingale/nightingale</execute>
+			</action>
+		</item>
+		<item label="Spotify">
+			<action name="Execute">
+				<execute>/usr/bin/spotify</execute>
+			</action>
+		</item>
+		<item label="Steam">
+			<action name="Execute">
+				<execute>sh /media/utilitaire/Install/ScripLancement/steam_linux.sh</execute>
 			</action>
 		</item>
 		<item label="VLC">
@@ -77,6 +98,16 @@
 				<execute>
 					vlc
 				</execute>
+			</action>
+		</item>
+		<item label="arandr">
+			<action name="Execute">
+				<execute>alltray arandr</execute>
+			</action>
+		</item>
+		<item label="Ario">
+			<action name="Execute">
+				<execute>ario</execute>
 			</action>
 		</item>
 	</menu>
@@ -142,10 +173,11 @@
 		<menu id="app-record"/>
 		<menu id="apps-office-menu"/>
 		<menu id="apps-multimedia-menu"/>
+		<menu id="prog"/>
 		<menu id="apps-term-menu"/>
 		<menu id="apps-fileman-menu"/>
 		<separator label="Application"/>
-		<menu id="Gnome-app-menu"/>
+		<menu execute="/usr/bin/obm-xdg /etc/xdg/menus/gnome-applications.menu" id="xdg-menu" label="Menu"/>
 		<separator label="Nightingale"/>
 		<item label="Play">
 			<action name="Execute">

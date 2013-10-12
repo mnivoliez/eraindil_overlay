@@ -1,0 +1,80 @@
+{
+   "available1080": {
+      "message": "1080p vide\u00F3t aj\u00E1nlani, ha l\u00E9tezik"
+   },
+   "available240": {
+      "message": "240p vide\u00F3t aj\u00E1nlani, ha l\u00E9tezik"
+   },
+   "available2k": {
+      "message": "2k vide\u00F3t aj\u00E1nlani, ha l\u00E9tezik"
+   },
+   "available360": {
+      "message": "360p vide\u00F3t aj\u00E1nlani, ha l\u00E9tezik"
+   },
+   "available480": {
+      "message": "480p vide\u00F3t aj\u00E1nlani, ha l\u00E9tezik"
+   },
+   "available720": {
+      "message": "720p vide\u00F3t aj\u00E1nlani, ha l\u00E9tezik"
+   },
+   "availablemp3": {
+      "message": "MP3-at aj\u00E1nlani"
+   },
+   "availablewebm": {
+      "message": "WebM vide\u00F3t aj\u00E1nlani, ha l\u00E9tezik"
+   },
+   "buttonstyle": {
+      "message": "Gomb st\u00EDlusa"
+   },
+   "clasicdownload": {
+      "message": "Klasszikus let\u00F6lt\u00E9s"
+   },
+   "description": {
+      "message": "T\u00F6lts\u00E9l le k\u00F6nnyen YouTube vide\u00F3kat!"
+   },
+   "disableflv": {
+      "message": "FLV vide\u00F3kat kiz\u00E1rni"
+   },
+   "includenick": {
+      "message": "C\u00EDm el\u0151tt tartalmazza felhaszn\u00E1l\u00F3 nev\u00E9t"
+   },
+   "includequality": {
+      "message": "C\u00EDm ut\u00E1n tartalmazza min\u0151s\u00E9get"
+   },
+   "installmessage": {
+      "message": "Chrome YouTube let\u00F6lt\u0151 sikeresen lett telep\u00EDtve!"
+   },
+   "language": {
+      "message": "hu"
+   },
+   "loadingsettings": {
+      "message": "Be\u00E1ll\u00EDt\u00E1sok t\u00F6lt\u00E9se\u2026"
+   },
+   "nickname": {
+      "message": "patrick_m"
+   },
+   "oneclickdownload": {
+      "message": "\u201EEgy klikk\u201D let\u00F6lt\u00E9s"
+   },
+   "oneclicktext": {
+      "message": "Ha a vide\u00F3 megtekinthet\u0151 a v\u00E1lasztott felbont\u00E1sban, automatikusan le lesz t\u00F6ltve. Viszont ha a vide\u00F3 nincs a kiv\u00E1lasztott felbont\u00E1sban, a k\u00F6vetkez\u0151 alacsonyabb felbont\u00E1s\u00FA vide\u00F3 lesz let\u00F6ltve."
+   },
+   "saved": {
+      "message": "Be\u00E1ll\u00EDt\u00E1sok mentve"
+   },
+   "settingspagetitle": {
+      "message": "Chrome YouTube let\u00F6lt\u0151 \u2013 Be\u00E1ll\u00EDt\u00E1sok"
+   },
+   "translated": {
+      "message": "Leford\u00EDtotta: "
+   },
+   "updatemessage": {
+      "message": "Chrome YouTube let\u00F6lt\u0151 sikeresen lett friss\u00EDtve!"
+   },
+   "videoformats": {
+      "message": "Vide\u00F3 form\u00E1tumok"
+   },
+   "videotitle": {
+      "message": "Vide\u00F3 c\u00EDme"
+   }
+}

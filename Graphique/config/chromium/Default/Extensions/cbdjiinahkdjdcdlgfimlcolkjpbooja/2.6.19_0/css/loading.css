@@ -1,0 +1,164 @@
+﻿/* CSS Document */
+/* position the bars and balls correctly (rotate them and translate them outward)*/
+.spinner div {
+	-webkit-animation: fade 1s linear infinite;
+	-opacity: 0;
+}
+@-webkit-keyframes fade {
+from {
+	opacity: 1;
+}
+to {
+	opacity: 0;
+}
+}
+.spinner div.bar1 {
+	-moz-transform: rotate(0deg) translate(0, -40px);
+	-webkit-transform: rotate(0deg) translate(0, -40px);
+	-webkit-animation-delay: 0s;
+}
+.spinner div.bar2 {
+	-moz-transform: rotate(45deg) translate(0, -40px);
+	-webkit-transform: rotate(45deg) translate(0, -40px);
+	-webkit-animation-delay: -0.875s;
+}
+.spinner div.bar3 {
+	-moz-transform: rotate(90deg) translate(0, -40px);
+	-webkit-transform: rotate(90deg) translate(0, -40px);
+	-webkit-animation-delay: -0.75s;
+}
+.spinner div.bar4 {
+	-moz-transform: rotate(135deg) translate(0, -40px);
+	-webkit-transform: rotate(135deg) translate(0, -40px);
+	-webkit-animation-delay: -0.625s;
+}
+.spinner div.bar5 {
+	-moz-transform: rotate(180deg) translate(0, -40px);
+	-webkit-transform: rotate(180deg) translate(0, -40px);
+	-webkit-animation-delay: -0.5s;
+}
+.spinner div.bar6 {
+	-moz-transform: rotate(225deg) translate(0, -40px);
+	-webkit-transform: rotate(225deg) translate(0, -40px);
+	-webkit-animation-delay: -0.375s;
+}
+.spinner div.bar7 {
+	-moz-transform: rotate(270deg) translate(0, -40px);
+	-webkit-transform: rotate(270deg) translate(0, -40px);
+	-webkit-animation-delay: -0.25s;
+}
+.spinner div.bar8 {
+	-moz-transform: rotate(315deg) translate(0, -40px);
+	-webkit-transform: rotate(315deg) translate(0, -40px);
+	-webkit-animation-delay: -0.125s;
+}
+/* set up the three bar spinners */
+.spinner {
+	position: absolute;
+  left:50%;
+  top:55%;
+	margin-left: -50px;
+  margin-top: -50px;
+	width: 100px;
+	height: 100px;
+	-moz-border-radius: 100px;
+	-moz-transform: scale(0.5);
+	-webkit-transform: scale(0.5);
+/* not used right now: */
+}
+.spinner div {
+	width: 10px;
+	height: 30px;
+	background: #000;
+	position: absolute;
+	top: 35px;
+	left: 45px;
+}
+#fakebody {
+	position: fixed;
+	top: 0;
+	left: 0;
+	width: 100%;
+	height: 100%;
+	background: url(../images/overlay.png) center top repeat-x, url(../images/bgxy.png) center repeat;
+	z-index: 3;
+	opacity: 1;
+	/*-webkit-animation: fadeout 3s 1 forwards;*/
+
+}
+.jsloading {
+	-webkit-animation: fadeout 2.5s 1 forwards;
+	opacity: 0;
+	
+}
+.jsloaded {
+	opacity: 1;
+	-webkit-animation: opacity 2.5s 1 forwards;
+}
+@-webkit-keyframes fadeout
+/*Safari and Chrome*/
+ {
+	0%		{opacity: 1;}
+	85%		{opacity: 1;}
+	100%	{opacity: 0;}
+}
+
+@-webkit-keyframes opacity
+/*Safari and Chrome*/
+ {
+	0%		{opacity: 0}
+	85%		{opacity: 0}
+	100%	{opacity: 1}
+}
+/* shadows for the first spinner */
+#div1 div {
+	-moz-box-shadow: black 0 0 4px;
+	-webkit-box-shadow: black 0 0 4px
+}
+/* rounded outer corners for the second */
+#div2 div {
+	-moz-border-radius-topleft: 10px;
+	-moz-border-radius-topright: 10px;
+	-webkit-border-top-left-radius: 10px;
+	-webkit-border-top-right-radius: 10px;
+}
+/* full rounded corners and partially hidden for the third */
+#div3 div {
+	-moz-border-radius: 20px;
+	-webkit-border-radius: 20px;
+	border-radius: 20px;
+}
+.content {
+	background: rgba(255,255,255, 0.5);
+	position: relative;
+	z-index: 2;
+	width: 730px;
+	min-height: 480px;
+	padding: 10px;	
+	margin: 0px auto;
+	margin-top: 20px;
+	-webkit-border-radius: 2px;
+	-webkit-box-shadow: 0px 1px 5px rgba(0,0,0,0.3);
+	box-shadow: 0px 1px 5px rgba(0,0,0,0.3);
+}
+
+.content > h1 {
+	margin-left:150px;
+	min-height: 100px;
+	font-size: 35px;
+	font-weight: bold;
+	text-shadow: 0px 0px 1px #000;
+}
+#loadtext {
+  margin-top:30%;
+  font-size:18px;
+  font-weight:bold;
+  position:absolute;
+  left:50%;
+	width: 200px;
+  text-align:center;
+  margin-left:-100px;
+	color: rgba(0, 0, 0, 0.50);
+	text-shadow: 2px 2px 5px #ccc;
+             
+} 

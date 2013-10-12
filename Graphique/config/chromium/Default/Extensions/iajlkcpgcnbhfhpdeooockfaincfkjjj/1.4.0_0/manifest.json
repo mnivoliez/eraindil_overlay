@@ -1,0 +1,18 @@
+{
+   "app": {
+      "launch": {
+         "web_url": "http://www.isoball3game.com/"
+      },
+      "urls": [ "http://www.isoball3game.com/" ]
+   },
+   "default_locale": "en",
+   "description": "__MSG_appDesc__",
+   "icons": {
+      "128": "icon128.png"
+   },
+   "key": "MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQCZ+jaUeIs+wUMAFCL0sMHsUXw2A3ynzVoBzs46LrDObSsQ3a1iN/fbAjOMFUye8TQKUHFttN7MRZFwW+6EvpyjCLNg4o+WRSfNkSx5WdIa8Q4JyR5hTWPDdbEqOFXCHVlGq0/JsWJMfJach1C/0feUlmn+0t0DKxTgYhirsifKdwIDAQAB",
+   "manifest_version": 2,
+   "name": "__MSG_appName__",
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "1.4.0"
+}

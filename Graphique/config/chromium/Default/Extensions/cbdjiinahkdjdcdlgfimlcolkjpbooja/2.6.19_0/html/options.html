@@ -1,0 +1,128 @@
+﻿<!doctype html>
+<html>
+<head>
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+<meta name="description" content="Download videos from YouTube! It´s easy...">
+<meta name="keywords" content="video, download, youtube, free, chrome youtube downloader, chrome">
+<link type="text/css" rel="stylesheet" href="../css/style.css" />
+<link type="text/css" rel="stylesheet" href="../css/widgets.css" />
+<script type="text/javascript" src="../script/settings.js"></script>
+<link rel="shortcut icon" href="http://www.mandel-design.xf.cz/Chrome-Youtube-Downloader/images/favicon.ico" />
+<title>Chrome YouTube Downloader - Settings</title>
+</head>
+<body>
+<div id="content">
+<strong style="float:right;"><b id="version"></b></strong>
+<a style="float:left; width:100px; height:100px;" href="http://www.mandel-design.xf.cz/Chrome-Youtube-Downloader/"><img style="width:100px; height:100px;"src="../images/icon.png"></a><h1>Chrome YouTube Downloader</h1>
+<p id="description">Download videos from YouTube! It´s easy...</p>
+<b><p class="okmsg" id="greenmsg">Chrome YouTube Downloader is now installed.<br>Please change settings, and <a target="_blank" href="http://www.youtube.com/watch?v=U5B137TvvDA">Browse YouTube Now!</a></p></b>
+<b><p class="okmsg" id="update">Chrome YouTube Downloader is Updated!</p></b>
+<div style="float:right; width:358px;">
+
+<section id="ad_s">
+</section>
+
+<section>
+<h3 id="buttonstyle">Button Style</h3>
+<label>
+<input type="radio" name="button_style" id="nstyle"/> 
+<span id="oneclickdownload">One Click Download</span>
+</label>
+<select style="float:right;" id="udr" name="udr">
+<option id="ud2k">MP4 2k video</option>
+<option id="ud1080p">MP4 1080p video</option>
+<option id="ud720p">MP4 720p video</option>
+<option id="ud480p">FLV 480p video</option>
+<option id="ud360p">MP4 360p video</option>
+<option id="ud240p">FLV 240p video</option>
+</select>
+<br>
+<div style="padding-left:20px;">
+<small id="oneclicktext">
+If a video is available at the selected resolution is automatically offered for download, but if the video is not available for download to offer the nearest lower resolution video.
+</small>
+</div>
+<br>
+<label>
+<input type="radio" name="button_style" id="cstyle"/> 
+<span id="clasicdownload">Classic Download</span>
+</label><br>
+</section>
+<section>
+<h3 id="videoformats">Video Formats</h3>
+<input type="checkbox" id="disflv"/>
+<span id="disableflv">Disable FLV videos</span>
+<br>
+<input type="checkbox" id="webm"/>
+<span id="availablewebm">Show WebM videos if available</span>
+<br>
+<input type="checkbox" id="v2k"/> 
+<span id="available2k">Show 2K video if available</span>
+<br>
+<input type="checkbox" id="v1080p"/> 
+<span id="available1080">Show 1080p video if available</span>
+<br>
+<input type="checkbox" id="v720p"/> 
+<span id="available720">Show 720p video if available</span>
+<br>
+<input type="checkbox" id="v480p"/> 
+<span id="available480">Show 480p video if available</span>
+<br>
+<input type="checkbox" id="v360p"/> 
+<span id="available360">Show 360p video if available</span>
+<br>
+<input type="checkbox" id="v240p"/> 
+<span id="available240">Show 240p video if available</span>
+<br>
+<input type="checkbox" id="ytmp3"/> 
+<span id="availableytmp3">Show MP3</span><span> (Flvto mp3)</span>
+<br>
+<input type="checkbox" id="v2mp3"/> 
+<span id="availablev2mp3">Show MP3</span><span> (Video2mp3)</span>
+</section>
+<section>
+<h3 id="videotitle">Video Title</h3>
+<input type="checkbox" id="username"/> 
+<span id="includenick">Include uploader nick before the title</span>
+<br>
+<input type="checkbox" id="quality"/> 
+<span id="includequality">Include quality behind the title</span>
+</section>
+<section id="dir" style="white-space: nowrap;">
+<div id="translated"></div><div id="nickname"></div>
+</section>
+<section>
+<div id="status" style="height:10px; text-size:150%; font-weight: bold;text-align:center;margin: 0 auto;padding:5px;"></div>
+</div>
+</section>
+
+<embed src="https://www.youtube.com/v/DE3y2XReoCQ?version=3&amp;hl=cs_CZ" type="application/x-shockwave-flash" width="542" height="335" wmode="transparent" allowscriptaccess="always" allowfullscreen="true"></embed>
+<div style="position:relative; width:542px; -webkit-filter: invert(1); margin-top:-3px;"><img style="margin:0 auto; padding:0; display:block;" src="../images/buttons.png"><img style="left:217px; top:73px; position:absolute;" id="down1" src="../images/download1.png"><img style="left:217px; top:73px; position:absolute;" id="down2" src="../images/download2.png">
+<div style="top:100px; left:217px; width:146px; height:auto; position:absolute;">
+<div style="width:146px; height:7px; background: url('../images/fbuttons.png');" ></div>
+<img style="width:18px; height:18px;position:absolute; z-index:2; left:128px; top:0;" src="../images/icon_options.png">
+<div id="b2k" class="imgposition" style="background-position: 0px -7px; " ></div>
+<div id="b1080" class="imgposition" style="background-position: 0 -32px; " ></div>
+<div id="bwebm720" class="imgposition" style="background-position: 0 -57px; " ></div>
+<div id="b720" class="imgposition" style="background-position: 0 -82px; " ></div>
+<div id="bwebm480" class="imgposition" style="background-position: 0 -107px; " ></div>
+<div id="b480" class="imgposition" style="background-position: 0 -132px; " ></div>
+<div id="bwebm360" class="imgposition" style="background-position: 0 -157px; " ></div>
+<div id="b360" class="imgposition" style="background-position: 0 -182px; " ></div>
+<div id="b240" class="imgposition" style="background-position: 0 -207px; " ></div>
+<div id="bmp31" class="imgposition" style="background-position: 0 -232px; " ></div>
+<div id="bmp32" class="imgposition" style="background-position: 0 -257px; " ></div>
+<div style="width:146px; height:7px; background: url('../images/fbuttons.png'); background-position: 0 -282px; " ></div>
+</div>
+</div>
+</div>
+<p class="designed">Chrome YouTube Downloader - designed for Google Chrome.<br>
+  Thank you for download this extension © 2010 - 2012 mandel99<br>
+  <a href="mailto:mandel99@seznam.cz">Contact</a> | 
+  <a target="_blank" href="http://www.facebook.com/pages/Chrome-YouTube-Downloader/183909048293997">Facebook</a> | 
+  <a target="_blank" href="https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=mandel99%40seznam%2ecz&lc=CZ&item_name=Chrome%20YouTube%20Downloader&currency_code=USD&bn=PP%2dDonationsBF%3abtn_donate_LG%2egif%3aNonHosted">Donate</a> | 
+  <a target="_blank" href="http://mandel-design.xf.cz/Chrome-Youtube-Downloader/translate.php">Translate</a> 
+</p>
+
+</body>
+<html>

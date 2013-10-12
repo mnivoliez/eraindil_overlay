@@ -1,0 +1,10 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=Guild Wars 2
+GenericName=Game
+Comment=PlayOnLinux
+Type=Application
+Exec=/usr/share/games/playonlinux/playonlinux --run "Guild Wars 2"
+Icon=/home/eraindil/.PlayOnLinux//icones/full_size/Guild Wars 2
+Categories=PlayOnLinux;
+Name[fr_FR]=Guild Wars 2

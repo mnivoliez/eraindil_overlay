@@ -1,0 +1,2 @@
+>=dev-libs/gmp-5.1.0
+>=app-editors/vim-7.3.762

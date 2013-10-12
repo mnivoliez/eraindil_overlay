@@ -3,31 +3,45 @@
 <action>
 	<icon>Terminal</icon>
 	<name>Ouvrir un terminal ici</name>
+	<unique-id>1368887274726120-1</unique-id>
 	<command>exo-open --working-directory %f --launch TerminalEmulator</command>
 	<description>Exemple d&apos;une action personnalisée</description>
 	<patterns>*</patterns>
+	<startup-notify/>
 	<directories/>
 </action>
 <action>
 	<icon></icon>
-	<name>Monter l&apos;image</name>
+	<name>Monter l&apos;image.</name>
+	<unique-id>1368887274726136-2</unique-id>
 	<command>fuseiso -p %f ~/iso</command>
-	<description>Monter l&apos;image iso dans ~/iso</description>
-	<patterns>*.iso;*.nrg;*.bin;*mdf;*.img;*.ISO</patterns>
+	<description></description>
+	<patterns>*.iso;*.nrg;*.bin;*.mdf;*.img;*.ISO;*.BIN;*.IMG;*.NRG;*.MDF</patterns>
 	<other-files/>
 </action>
 <action>
 	<icon></icon>
-	<name>Démonter l&apos;image</name>
+	<name>Demonter l&apos;image</name>
+	<unique-id>1368887274726153-3</unique-id>
 	<command>fusermount -u %f</command>
-	<description>Démonter l&apos;image montée avec fuseiso</description>
+	<description></description>
 	<patterns>iso</patterns>
 	<directories/>
 </action>
 <action>
 	<icon></icon>
-	<name>Rechercher </name>
-	<command>/usr/bin/catfish --fileman=thunar --path=%f --hidden --method=find</command>
+	<name>Editer en tant que root.</name>
+	<unique-id>1368887274726163-4</unique-id>
+	<command>gksu geany %f</command>
+	<description></description>
+	<patterns>*</patterns>
+	<text-files/>
+</action>
+<action>
+	<icon></icon>
+	<name>Passer en root.</name>
+	<unique-id>1368887274726171-5</unique-id>
+	<command>gksu thunar %f</command>
 	<description></description>
 	<patterns>*</patterns>
 	<directories/>

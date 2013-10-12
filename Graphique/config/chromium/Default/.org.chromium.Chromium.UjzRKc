@@ -1,0 +1,1460 @@
+{
+   "apps_promo_counter": 11,
+   "autofill": {
+      "negative_upload_rate": 1.0,
+      "positive_upload_rate": 1.0
+   },
+   "backup": {
+      "_signature": "lGXYINVzb5v9dFEtjHAljfGGf60t0w/6gvHMwn+bw3I=",
+      "_version": 2,
+      "browser": {
+         "show_home_button": true
+      },
+      "extensions": {
+         "ids": [ "ahfgeienlihckogmohjhadlkjgocpleb", "bhpchjohhpanbdahcblklicnbfmlldkb", "dcbegflbljflchoahmigblmabofoinkh", "fljajkkfdjhdiioijfgdkkdjofgolcbb", "giffpibkknienblbfdlnljbkelppdnob", "gighmmpiobklfepjocnamgkkbiglidom", "hndllphbhpadfpoikpaofkkkpkpnmjik", "lhkpffmjeodpmligdobfobjjgcmklgeo" ]
+      },
+      "homepage": "http://www.google.com/",
+      "homepage_is_newtabpage": true,
+      "session": {
+         "restore_on_startup": 5
+      }
+   },
+   "bookmark_bar": {
+      "show_on_all_tabs": true
+   },
+   "bookmark_editor": {
+      "expanded_nodes": [ "2", "1" ]
+   },
+   "browser": {
+      "clear_lso_data_enabled": true,
+      "custom_chrome_frame": true,
+      "show_home_button": true,
+      "window_placement": {
+         "bottom": 658,
+         "left": 0,
+         "maximized": true,
+         "right": 1008,
+         "top": 0,
+         "work_area_bottom": 1024,
+         "work_area_left": 0,
+         "work_area_right": 1280,
+         "work_area_top": 30
+      }
+   },
+   "cloud_print": {
+      "email": ""
+   },
+   "countryid_at_install": 18002,
+   "default_apps_install_state": 1,
+   "default_search_provider": {
+      "enabled": true,
+      "encodings": "UTF-8",
+      "icon_url": "http://www.google.com/favicon.ico",
+      "id": "2",
+      "instant_url": "{google:baseURL}webhp?{google:RLZ}sourceid=chrome-instant&{google:instantFieldTrialGroupParameter}ie={inputEncoding}{google:instantEnabledParameter}{searchTerms}",
+      "keyword": "google.fr",
+      "name": "Google",
+      "prepopulate_id": "1",
+      "search_url": "{google:baseURL}search?{google:RLZ}{google:acceptedSuggestion}{google:originalQueryForSuggestion}{google:searchFieldtrialParameter}{google:instantFieldTrialGroupParameter}sourceid=chrome&ie={inputEncoding}&q={searchTerms}",
+      "suggest_url": "{google:baseSuggestURL}search?{google:searchFieldtrialParameter}{google:instantFieldTrialGroupParameter}client=chrome&hl={language}&q={searchTerms}",
+      "synced_guid": "20BFBCED-CBEE-C656-D57D-2AE82548A1C5"
+   },
+   "devtools": {
+      "split_location": 302
+   },
+   "dns_prefetching": {
+      "host_referral_list": [ 2, [ "http://1.static.collegehumor.cvcdn.com/", [ "http://0.media.collegehumor.cvcdn.com/", 0.36669981829254483, "http://2.media.collegehumor.cvcdn.com/", 0.3254157327894106, "http://ad.doubleclick.net/", 0.36669981829254483, "http://audience.visiblemeasures.com/", 0.3254157327894106, "http://cdn.visiblemeasures.com/", 0.28413164728627643, "http://www.collegehumor.com/", 0.3254157327894106 ] ], [ "http://1.static.dorkly.cvcdn.com/", [ "http://0.media.dorkly.cvcdn.com/", 4.364779052201937, "http://1.media.dorkly.cvcdn.com/", 4.364779052201937, "http://2.media.dorkly.cvcdn.com/", 3.099388072701546, "http://audience.visiblemeasures.com/", 4.364779052201937, "http://cdn.visiblemeasures.com/", 3.099388072701546, "http://video.od.visiblemeasures.com/", 5.3001175697345255, "http://www.dorkly.com/", 4.364779052201937 ] ], [ "http://12-infos.nrj12.fr/", [ "http://www.nrj12.fr/", 2.529573049612 ] ], [ "http://192.168.1.254/", [ "http://192.168.1.254/", 3.6370459921898557 ] ], [ "http://2048gamers.com/", [ "http://2048gamers.com/", 1.4613955995619303, "http://www.google-analytics.com/", 0.774019803720548, "https://ajax.googleapis.com/", 0.774019803720548, "https://apis.google.com/", 0.774019803720548, "https://plusone.google.com/", 0.774019803720548, "https://ssl.gstatic.com/", 0.6758232614574935 ] ], [ "http://2nlm8y0lbf.s.ad6media.fr/", [ "http://2nlm8y0lbf.s.ad6media.fr/", 0.10031168768025145, "http://clic.reussissonsensemble.fr/", 0.07504800337559549, "http://www.spartoo.com/", 0.06241616122326757, "http://www.vivastreet.fr/", 0.06241616122326757 ] ], [ "http://4xe6ra1yhz.s.ad6media.fr/", [ "http://4xe6ra1yhz.s.ad6media.fr/", 0.06424522271393325, "http://affiliation.mister-auto.com/", 0.0512432133551611, "http://clic.reussissonsensemble.fr/", 0.0512432133551611 ] ], [ "http://62.75.239.102/", [ "http://62.75.239.102/", 0.10954050276063686, "http://action.metaffiliation.com/", 0.10954050276063686, "http://ad.zanox.com/", 0.15728892704091438, "http://cdn.track.webgains.com/", 0.10954050276063686, "http://img.netaffiliation.com/", 0.10954050276063686, "http://track.webgains.com/", 0.10954050276063686, "http://www.asos.fr/", 0.15728892704091438 ] ], [ "http://9gag.com/", [ "http://partner.googleadservices.com/", 0.6508626755558801, "http://pixel.quantserve.com/", 0.5682905450749104, "http://platform.twitter.com/", 0.73343480603685, "http://pubads.g.doubleclick.net/", 0.8160069365178191, "http://www.facebook.com/", 0.9811511974797591, "http://www.google.com/", 0.5682905450749104, "https://apis.google.com/", 0.5682905450749104, "https://plusone.google.com/", 0.6508626755558801, "https://s-static.ak.fbcdn.net/", 0.6508626755558801, "https://ssl.gstatic.com/", 0.5682905450749104 ] ], [ "http://a.ligatus.com/", [ "http://i.ligatus.com/", 0.06612788355885382, "http://x.ligatus.com/", 0.05274485950527631 ] ], [ "http://a.tribalfusion.com/", [ "http://b.scorecardresearch.com/", 0.18423105787817157 ] ], [ "http://a.vimeocdn.com/", [ "http://b.vimeocdn.com/", 3.036991905088935, "http://player.vimeo.com/", 1.188883122623296 ] ], [ "http://a01.gestionpub.com/", [ "http://a01.gestionpub.com/", 0.3497508160396921, "http://ad.amgdgt.com/", 0.26226834158696094, "http://ad.zanox.com/", 0.6020852653511504, "http://boutique-online.orange.fr/", 0.6020852653511504, "http://cas.criteo.com/", 0.37829821986956513, "http://cdn.amgdgt.com/", 0.26226834158696094, "http://dis.criteo.com/", 0.26226834158696094, "http://display.gestionpub.com/", 0.37829821986956513, "http://elstatic.weborama.fr/", 0.11099156036450261, "http://tag.admeld.com/", 0.26226834158696094 ] ], [ "http://a2a.lockerz.com/", [ "http://pts.lockerz.com/", 0.05420492942974386, "http://www.google-analytics.com/", 0.12646721372923705 ] ], [ "http://acces.direction-x.com/", [ "http://acces.direction-x.com/", 0.09673855779306939, "http://banners.direction-x.com/", 0.3176489957384365, "http://hits.direction-x.com/", 0.0844657556849934, "http://media.direction-x.com/", 0.4035586104949681, "http://www.thumbs-share.com/", 0.09673855779306939 ] ], [ "http://acpublicite.fr/", [ "http://acpublicite.fr/", 0.19348639358921368, "http://www.google-analytics.com/", 0.16893961231297014 ] ], [ "http://action.metaffiliation.com/", [ "http://nibal.spartoo.com/", 0.4116099187875008 ] ], [ "http://actuweb.net/", [ "http://actuweb.net/", 0.9325590917028892, "http://www.google-analytics.com/", 0.19518678663548863 ] ], [ "http://ad-emea.doubleclick.net/", [ "http://www.youtube.com/", 0.1242026086930117 ] ], [ "http://ad.360yield.com/", [ "http://ad.360yield.com/", 0.10642992662204372, "http://ad.yieldmanager.com/", 0.16893961231297014, "http://ad.zanox.com/", 0.07149498511536287, "http://boutique-online.orange.fr/", 0.07149498511536287, "http://cdn.krxd.net/", 0.16893961231297014, "http://content.yieldmanager.edgesuite.net/", 0.16893961231297014, "http://nxtck.com/", 0.10642992662204372, "http://pixel.adsafeprotected.com/", 0.07149498511536287, "http://services.krxd.net/", 0.16893961231297014, "http://t.adbuyer.com/", 0.19348639358921368 ] ], [ "http://ad.adserver01.de/", [ "http://action.metaffiliation.com/", 0.3652697292551332, "http://ad.adserver01.de/", 0.31892953972276555 ] ], [ "http://ad.advertstream.com/", [ "http://ad.advertstream.com/", 0.15096960915387517, "http://d.advertstream.com/", 0.15096960915387517, "http://l.advertstream.com/", 0.2647867413891387, "http://static.anonymousdmp.com/", 0.5849438978466032, "http://www.anonymousdmp.com/", 0.5849438978466032 ] ], [ "http://ad.doubleclick.net/", [ "http://s0.2mdn.net/", 0.30482172991262785 ] ], [ "http://ad.turn.com/", [ "http://cdn.turn.com/", 0.12001158114960436 ] ], [ "http://ad.yieldmanager.com/", [ "http://adopteunmec.solution.weborama.fr/", 1.9116543432291524, "http://cas.criteo.com/", 2.1894160854077476, "http://caw.criteo.com/", 1.9116543432291524, "http://cm.ac3.msn.com/", 0.12376774555790201, "http://dis.eu.criteo.com/", 2.1894160854077476, "http://elstatic.weborama.fr/", 1.9116543432291524, "http://ib.adnxs.com/", 0.19316827801348477, "http://m.adnxs.com/", 0.12376774555790201, "http://view.atdmt.com/", 0.11114004717579225 ] ], [ "http://adb.fling.com/", [ "http://cache.imagehost123.com/", 0.4148734033741162, "http://lg.brandreachsys.com/", 0.13927538240418555, "http://www.google-analytics.com/", 0.3449127316778856 ] ], [ "http://adcast.deviantart.com/", [ "http://cas.fr.eu.criteo.com/", 1.1937374967946544, "http://optimized-by.rubiconproject.com/", 1.0422931874998105, "http://tap-cdn.rubiconproject.com/", 1.1937374967946544, "http://tap2-cdn.rubiconproject.com/", 1.1937374967946544 ] ], [ "http://addons.teamspeak.com/", [ "http://addons.teamspeak.com/", 0.6464196812097409 ] ], [ "http://adf.ly/", [ "http://adf.ly/", 1.258771581639752, "http://marketing.ebinaires.com/", 0.07247058487144431, "http://www.astonforex.com/", 0.1254566441873961, "http://www.buzzmoica.fr/", 0.15784009821947403, "http://www.buzzss.com/", 0.1254566441873961, "http://www.google-analytics.com/", 0.28764114705476684, "http://www.referdia.com/", 0.1254566441873961, "http://www.yu2.it/", 0.1254566441873961, "https://www.referdia.com/", 0.1254566441873961 ] ], [ "http://adopteunmec.solution.weborama.fr/", [ "http://elstatic.weborama.fr/", 0.2299442759561484 ] ], [ "http://ads.contentabc.com/", [ "http://cdn1.ads.contentabc.com/", 0.1376727991708585 ] ], [ "http://ads.crakmedia.com/", [ "http://ads.crakmedia.com/", 0.17482231309609197, "http://static.ads.crakmedia.com/", 0.17482231309609197 ] ], [ "http://ads.fling.com/", [ "http://cache.imagehost123.com/", 0.059724876616478274, "http://lg.brandreachsys.com/", 0.059724876616478274 ] ], [ "http://ads.gmodules.com/", [ "http://csi.gstatic.com/", 0.18423105787817157, "http://www-ads-opensocial.googleusercontent.com/", 0.18423105787817157 ] ], [ "http://ads.heias.com/", [ "http://ads.heias.com/", 0.2244224829551915, "http://premium.hi-mediaserver.com/", 0.2749546976603339 ] ], [ "http://ads.lfstmedia.com/", [ "http://ads.pubmatic.com/", 0.2658471790350317, "http://ajax.googleapis.com/", 0.2658471790350317, "http://cdn.lfstmedia.com/", 0.4344815836468052, "http://fonts.googleapis.com/", 0.23212029811267693, "http://loadm.exelator.com/", 0.23212029811267693, "http://sync.mathtag.com/", 0.23212029811267693, "http://themes.googleusercontent.com/", 0.23212029811267693 ] ], [ "http://ads.msvp.net/", [ "http://ads.msvp.net/", 0.08827189813273068 ] ], [ "http://ads.newgrounds.com/", [ "http://cdn.cpmstar.com/", 0.11945548132733315, "http://cdn2.cpmstar.com/", 0.1541690400036522, "http://img.ngfiles.com/", 0.1541690400036522, "http://server.cpmstar.com/", 0.1541690400036522 ] ], [ "http://ads.trafficjunky.net/", [ "http://as.sexad.net/", 0.16515749315081213, "http://media.trafficjunky.net/", 0.25178881065041636 ] ], [ "http://ads.wicked.com/", [ "http://cdn1.ads.brazzers.com/", 0.1056109329223076, "http://cdn1.ads.contentabc.com/", 0.1056109329223076 ] ], [ "http://ads2.contentabc.com/", [ "http://cdn1.ads.contentabc.com/", 0.10783163064092523 ] ], [ "http://afe2.specificclick.net/", [ "http://afe2.specificclick.net/", 0.19915637560262028, "http://b.scorecardresearch.com/", 0.05950024719955527, "http://cache.adviva.net/", 0.10644899677184631 ] ], [ "http://aimfar.solution.weborama.fr/", [ "http://ad.yieldmanager.com/", 0.48949531216739595, "http://adx.adnxs.com/", 0.4343865684134507, "http://googleads.g.doubleclick.net/", 0.6548215434292314, "http://ib.adnxs.com/", 1.4523418323615311, "http://id.impressiondesk.com/", 1.1439485983738242, "http://pixel.mathtag.com/", 1.8846463794526227, "http://r.turn.com/", 0.7174177238221582, "http://segment-pixel.invitemedia.com/", 0.7131181231606742, "http://uav.tidaltv.com/", 0.37927782465950555, "http://www.googleadservices.com/", 0.7099302871831765 ] ], [ "http://aka-cdn-ns.adtech.de/", [ "http://pagead2.googlesyndication.com/", 0.1583190964214234 ] ], [ "http://all-free-download.com/", [ "http://images.all-free-download.com/", 0.08073910682489495 ] ], [ "http://altfarm.mediaplex.com/", [ "http://img-cdn.mediaplex.com/", 0.30984961572685843 ] ], [ "http://animestoryfr.chatango.com/", [ "http://img.youtube.com/", 16.73513660071688, "http://pst.chatango.com/", 27.669291270739663, "http://st.chatango.com/", 124.53665401141436, "http://st.undefined/", 0.31892953972276555 ] ], [ "http://api.tweetmeme.com/", [ "http://a0.twimg.com/", 1.3517113397826443, "http://tweetmeme.com/", 1.548113842144225 ] ], [ "http://api.twitter.com/", [ "http://api.twitter.com/", 0.05774421803454718 ] ], [ "http://api.zanox.ws/", [ "http://apicit.net/", 0.12993144891497854, "http://static.zanox.com/", 0.08125696226758683 ] ], [ "http://apocalyps-team.over-blog.com/", [ "http://platform.twitter.com/", 0.05948953583017761, "https://plusone.google.com/", 0.05402292983497204 ] ], [ "http://appdb.winehq.org/", [ "http://ajax.googleapis.com/", 0.1419094052517346, "http://appdb.winehq.org/", 1.1332230436309263, "http://www.google.com/", 0.19642951981132337 ] ], [ "http://apps.crazyws.fr/", [ "http://static.crazyws.fr/", 0.05022183257455833, "http://www.google-analytics.com/", 0.05751902192299845 ] ], [ "http://apps.facebook.com/", [ "http://apps.facebook.com/", 0.46820846456916004, "http://creative.ak.fbcdn.net/", 0.23212029811267693, "http://external.ak.fbcdn.net/", 0.23212029811267693, "http://games.mmo2.myfarmvillage.com/", 0.23212029811267693, "http://photos-a.ak.fbcdn.net/", 0.2658471790350317, "http://profile.ak.fbcdn.net/", 0.2658471790350317, "http://static.ak.connect.facebook.com/", 0.2658471790350317, "http://static.ak.fbcdn.net/", 0.4344815836468052, "http://www.facebook.com/", 0.2658471790350317, "https://s-static.ak.fbcdn.net/", 0.2658471790350317 ] ], [ "http://archive.org/", [ "http://archive.org/", 0.2668880129884505 ] ], [ "http://as.casalemedia.com/", [ "http://bluebuddies.com/", 0.36000001650972396 ] ], [ "http://as.sexad.net/", [ "http://as.sexad.net/", 0.26859242893571406, "http://e.sexad.net/", 0.2303466404313067, "http://feeds.videosz.com/", 0.7789847166083567, "http://static.ifa.camads.net/", 0.21344075541104915 ] ], [ "http://assets.tumblr.com/", [ "http://assets.tumblr.com/", 0.0512432133551611 ] ], [ "http://association-alamafa.blogspot.com/", [ "http://association-alamafa.blogspot.fr/", 1.0037975479961505 ] ], [ "http://association-alamafa.blogspot.fr/", [ "http://lh3.ggpht.com/", 1.385839898352894, "http://lh4.ggpht.com/", 1.258492448233979, "http://lh5.ggpht.com/", 1.7678822487096373, "http://lh6.ggpht.com/", 1.131144998115065, "http://www.blogblog.com/", 1.385839898352894, "http://www.blogger.com/", 1.7678822487096373, "http://www.google.com/", 2.2772720491852945, "https://apis.google.com/", 1.0037975479961505, "https://plusone.google.com/", 6.097695552752729, "https://ssl.gstatic.com/", 0.8764500978772359 ] ], [ "http://badge.stumbleupon.com/", [ "http://cdn.stumble-upon.com/", 0.16584391138997198 ] ], [ "http://banners.contentfeed.net/", [ "http://banners.contentfeed.net/", 0.23926195135585923 ] ], [ "http://banners.direction-x.com/", [ "http://banners.direction-x.com/", 0.0844657556849934 ] ], [ "http://bdcraft.net/", [ "http://bdcraft.net/", 1.3669156754746128, "http://connect.facebook.net/", 0.1254566441873961, "http://i.imgur.com/", 0.10954050276063686, "http://pagead2.googlesyndication.com/", 0.10954050276063686, "http://platform.twitter.com/", 0.15728892704091438, "http://s3.amazonaws.com/", 0.10954050276063686, "http://www.facebook.com/", 0.2846180584549878, "http://www.google-analytics.com/", 0.10954050276063686, "https://plusone.google.com/", 0.1114951517221899, "https://ssl.gstatic.com/", 0.10954050276063686 ] ], [ "http://beacon.lijit.com/", [ "http://ad.turn.com/", 0.05274485950527631, "http://ce.lijit.com/", 0.05274485950527631 ] ], [ "http://beyondtrax.com/", [ "http://j.maxmind.com/", 0.07524983205669564 ] ], [ "http://blog.hentai.free.fr/", [ "http://blog.hentai.free.fr/", 0.06612788355885382 ] ], [ "http://blogotakumanga.chatango.com/", [ "http://img.youtube.com/", 0.4510452948431553, "http://pst.chatango.com/", 0.22882876946043892, "http://st.chatango.com/", 1.152057421544622 ] ], [ "http://bluebuddies.com/", [ "http://as.casalemedia.com/", 0.9799132946610762, "http://bluebuddies.com/", 1.4301437273431912, "http://data08.adlooxtracking.com/", 0.7097750350518064, "http://l.advertstream.com/", 1.4301437273431912, "http://r.casalemedia.com/", 0.7998211215882297, "http://s0.2mdn.net/", 0.6197289485153833, "http://services.krxd.net/", 0.6197289485153833, "http://view.atdmt.com/", 0.889867208124652, "http://www.burstnet.com/", 1.6606617088764344, "http://www.google-analytics.com/", 0.7097750350518064 ] ], [ "http://boutique-online.orange.fr/", [ "http://boutique-online.orange.fr/", 1.7953689832682846 ] ], [ "http://brktime.com/", [ "http://brktime.com/", 0.7819117982475408, "http://connect.facebook.net/", 0.24592387202946864, "http://edge.sharethis.com/", 0.2816564004440068, "http://seg.sharethis.com/", 0.2816564004440068, "http://w.sharethis.com/", 0.46031904251669736, "http://wd.sharethis.com/", 0.24592387202946864, "http://www.buzzmuseum.com/", 0.24592387202946864, "http://www.facebook.com/", 0.42458651410215936, "http://www.google-analytics.com/", 0.3531214572730828, "https://apis.google.com/", 0.24592387202946864 ] ], [ "http://broadcast.piximedia.fr/", [ "http://broadcast.piximedia.fr/", 0.05802450937920714 ] ], [ "http://bugs.winehq.org/", [ "http://bugs.winehq.org/", 2.1564171512097716, "http://www.google.com/", 0.4737047512493596 ] ], [ "http://bukkit.org/", [ "http://a0.twimg.com/", 8.378135181719264, "http://b.scorecardresearch.com/", 1.204228275505104, "http://bukkit.org/", 3.653855023968478, "http://cursecom.ivwbox.de/", 1.204228275505104, "http://pixel.quantserve.com/", 1.204228275505104, "http://platform.twitter.com/", 3.4894446328835835, "http://widgets.twimg.com/", 1.379201614681059, "http://www.facebook.com/", 2.7789883280887, "http://www.google-analytics.com/", 1.6054411866848004, "http://www.google.com/", 1.6883527666257296 ] ], [ "http://byou.solution.weborama.fr/", [ "http://elstatic.weborama.fr/", 0.29104518647039973 ] ], [ "http://c.brightcove.com/", [ "http://brightcove01.brightcove.com/", 0.11296846774637533, "http://fr-advideum.cdn.videoplaza.tv/", 0.12635149179995295, "http://fr-advideum.videoplaza.tv/", 0.09289393166600893, "http://goku.brightcove.com/", 0.07951090761243133, "http://inplay-rcv04.tubemogul.com/", 0.05274485950527631, "http://inplay-rcv24.tubemogul.com/", 0.05274485950527631, "http://load.tubemogul.com/", 0.05274485950527631, "http://receive.inplay.tubemogul.com/", 0.06612788355885382, "http://static.inplay.tubemogul.com/", 0.05274485950527631, "http://www.lefigaro.fr/", 0.05274485950527631 ] ], [ "http://c.www.endless.com/", [ "http://s.amazon-adsystem.com/", 0.6197289485153833 ] ], [ "http://cas.criteo.com/", [ "http://dis.eu.criteo.com/", 0.3254157327894106 ] ], [ "http://cas.fr.eu.criteo.com/", [ "http://adopteunmec.solution.weborama.fr/", 0.37239811909284565, "http://at05.alenty.com/", 0.11379392049659448, "http://cas.fr.eu.criteo.com/", 0.37239811909284565, "http://caw.criteo.com/", 0.37239811909284565, "http://dis.eu.criteo.com/", 0.1475779626023674, "http://elstatic.weborama.fr/", 0.38553643230924045, "http://js.alenty.com/", 0.08242370457591168 ] ], [ "http://cdn.blogbang.com/", [ "http://b.scorecardresearch.com/", 0.14422759428921977, "http://cas.fr.eu.criteo.com/", 0.13496707855595594, "http://nxtck.com/", 0.0959723347149026, "http://optimized-by.rubiconproject.com/", 0.1354315382945185, "http://tap2-cdn.rubiconproject.com/", 0.2728155082337404, "http://tracker.blogbang.com/", 0.10096943087507244, "http://view.atdmt.com/", 0.13043444213434882 ] ], [ "http://cdn.statics.live.spongecell.com/", [ "http://analytics.spongecell.com/", 0.22551514338130588, "http://cdn.signal.spongecell.com/", 0.29356784413169545, "http://cdn.statics.live.spongecell.com/", 0.7018840486340349, "http://cdn.widgets.spongecell.com/", 0.42967324563247516 ] ], [ "http://cdn.turn.com/", [ "http://pixel.rubiconproject.com/", 0.37927782465950555 ] ], [ "http://cdn1.ads.brazzers.com/", [ "http://cdn1.ads.brazzers.com/", 0.1896298188199763 ] ], [ "http://cdn1.ads.contentabc.com/", [ "http://cdn1.ads.contentabc.com/", 0.6705108360085862 ] ], [ "http://cdn3.telemetryverification.net/", [ "http://adconion-pubnet.france.telemetryverification.net/", 0.3531214572730828, "http://adconion-pubnet.telemetryaudit.com/", 0.24592387202946864, "http://b.scorecardresearch.com/", 0.24592387202946864, "http://cdn454.telemetryverification.net/", 0.317388928858545 ] ], [ "http://chat.adopteunmec.com:8888/", [ "http://s.adopteunmec.com/", 1.3987292682455468 ] ], [ "http://chromeadblock.com/", [ "http://ajax.googleapis.com/", 0.6758232614574935, "http://chromeadblock.com/", 0.8722163459836026, "https://checkout.google.com/", 0.6758232614574935 ] ], [ "http://ci.onarandombox.com/", [ "http://ci.onarandombox.com/", 5.122033275336539 ] ], [ "http://ci.spout.org/", [ "http://ci.spout.org/", 0.6404985425464024, "http://www.google-analytics.com/", 0.06900398662792741 ] ], [ "http://club.mobifiesta.com/", [ "http://storage14.cellcastmedia.com/", 0.6143301056285497, "http://storage18.cellcastmedia.com/", 0.5363927041682115, "http://storage20.cellcastmedia.com/", 0.5363927041682115, "http://storage22.cellcastmedia.com/", 0.6143301056285497, "http://storage23.cellcastmedia.com/", 0.6143301056285497, "http://storage24.cellcastmedia.com/", 0.5363927041682115, "http://storage26.cellcastmedia.com/", 0.6143301056285497, "http://storage27.cellcastmedia.com/", 0.5363927041682115, "http://storage29.cellcastmedia.com/", 0.5363927041682115, "http://www.google-analytics.com/", 0.6922675070888882 ] ], [ "http://cn.ccebook.org/", [ "http://api-public.addthis.com/", 0.21909151133348162, "http://c0.histats.12mlbe.com/", 0.21909151133348162, "http://clients1.google.com/", 0.21909151133348162, "http://d0.histats.12mlbe.com/", 0.21909151133348162, "http://ecx.images-amazon.com/", 0.21909151133348162, "http://openisbn.com/", 0.21909151133348162, "http://s10.histats.com/", 0.21909151133348162, "http://s7.addthis.com/", 0.8399606018557696, "http://t3.gstatic.com/", 0.2199826906562418, "http://www.google.com/", 0.7366309499891814 ] ], [ "http://cocotiers.curse.com/", [ "http://c5.zedo.com/", 0.18423105787817157, "http://c7.zedo.com/", 0.2913055188671944, "http://cocotiers.curse.com/", 0.44746003513471627, "http://pubads.g.doubleclick.net/", 0.6010510175338601, "http://tag.admeld.com/", 0.3037817245645318 ] ], [ "http://comparacteur.politique.com/", [ "http://comparacteur.politique.com/", 0.21592840007495992, "http://connect.facebook.net/", 0.059724876616478274, "http://platform.twitter.com/", 0.09443677071836312, "http://www.facebook.com/", 0.10311474424383417, "http://www.google-analytics.com/", 0.059724876616478274, "https://s-static.ak.fbcdn.net/", 0.0684028501419495 ] ], [ "http://cti.w55c.net/", [ "http://i.w55c.net/", 0.06424522271393325 ] ], [ "http://cws.ogame.org/", [ "http://jump.be.mmogame.com/", 0.774019803720548, "http://www.ogame.fr/", 0.774019803720548 ] ], [ "http://d.agkn.com/", [ "http://d.agkn.com/", 0.09191145761343607, "http://r.nexac.com/", 0.08025104881173149, "http://rc.rlcdn.com/", 0.09191145761343607, "http://rd.rlcdn.com/", 0.08025104881173149 ] ], [ "http://d1.openx.org/", [ "http://89.107.69.17/", 0.46021837698129037, "http://d1.openx.org/", 0.4018324634836641 ] ], [ "http://d24w6bsrhbeh9d.cloudfront.net/", [ "http://pagead2.googlesyndication.com/", 0.15039526990631874, "http://partner.googleadservices.com/", 0.30076216508627235, "http://pubads.g.doubleclick.net/", 0.15042798200486898 ] ], [ "http://danstonchat.com/", [ "http://audience.netavenir.com/", 0.5655453788901245, "http://cas.criteo.com/", 0.5018747070945475, "http://caw.criteo.com/", 0.4382040352989707, "http://danstonchat.com/", 1.1507719437550084, "http://dis.eu.criteo.com/", 0.5018747070945475, "http://elstatic.weborama.fr/", 0.4382040352989707, "http://engine.espace.netavenir.com/", 1.8944013466480478, "http://s7.addthis.com/", 0.6292160506857007, "http://www.autoplus.fr/", 0.5018747070945475, "http://www.google-analytics.com/", 0.5018747070945475 ] ], [ "http://dap.criteo.com/", [ "http://ad.scanmedios.com/", 0.4510452948431553, "http://ad.yieldmanager.com/", 0.5821182865069782, "http://dp.000.in/", 0.4510452948431553, "http://ib.adnxs.com/", 0.4510452948431553, "http://ib.mookie1.com/", 0.4510452948431553, "http://openad.tf1.fr/", 0.647654782338889, "http://openadext.tf1.fr/", 0.647654782338889, "http://pixel.rubiconproject.com/", 0.5821182865069782, "http://s.openad.tf1.fr/", 0.647654782338889, "http://ww381.smartadserver.com/", 0.647654782338889 ] ], [ "http://dbz-fan.chatango.com/", [ "http://pst.chatango.com/", 36.86234152890698, "http://st.chatango.com/", 42.1551699715516 ] ], [ "http://dbzhome.free.fr/", [ "http://connect.facebook.net/", 0.3955637293046472, "http://dbz-fan.chatango.com/", 0.3955637293046472, "http://dbzhome.free.fr/", 1.4875900931114934, "http://st.chatango.com/", 0.3955637293046472, "http://st.free.fr/", 0.453038801083955, "http://static.ak.facebook.com/", 0.453038801083955, "http://www.blogblog.com/", 0.7404141599804934, "http://www.google-analytics.com/", 0.453038801083955, "https://s-static.ak.facebook.com/", 0.453038801083955 ] ], [ "http://delivery.trafficjunky.net/", [ "http://ads.contentabc.com/", 0.21718286941775067, "http://ads2.contentabc.com/", 0.21718286941775067, "http://ajax.googleapis.com/", 0.1896298188199763, "http://delivery.trafficjunky.net/", 0.1896298188199763, "http://media.trafficjunky.net/", 0.244735920015525 ] ], [ "http://dev.bukkit.org/", [ "http://b.scorecardresearch.com/", 0.505594046612033, "http://dev.bukkit.org/", 4.2789842675820084, "http://dl.dropbox.com/", 0.232586905915778, "http://edge.quantserve.com/", 0.2561748185496993, "http://img15.imageshack.us/", 1.298664854951716, "http://pixel.quantserve.com/", 0.2561748185496993, "http://secure-us.imrworldwide.com/", 0.2724574039001491, "http://www.google-analytics.com/", 0.7538066883068097, "http://www.gravatar.com/", 0.3649185195039845 ] ], [ "http://developer.amd.com/", [ "http://dev.visualwebsiteoptimizer.com/", 0.16412990155041987, "http://developer.amd.com/", 1.1180472780827735, "http://edge.sharethis.com/", 0.18797783596372877, "http://l.sharethis.com/", 0.16412990155041987, "http://metrics.amd.com/", 0.18797783596372877, "http://seg.sharethis.com/", 0.18797783596372877, "http://w.sharethis.com/", 0.21182577037703762, "http://www.amd.com/", 0.23567370479034633, "http://www.google-analytics.com/", 0.18797783596372877 ] ], [ "http://dg.specificclick.net/", [ "http://b.scorecardresearch.com/", 0.3447673369264391, "http://cs.specificclick.net/", 0.3447673369264391, "http://ib.adnxs.com/", 0.3447673369264391, "http://load.s3.amazonaws.com/", 0.3447673369264391, "http://loadm.exelator.com/", 0.3447673369264391 ] ], [ "http://difflhttp.hvsdigital.com/", [ "http://difflhttp.hvsdigital.com/", 0.08329061673177834, "http://stats.hvsdigital.com/", 0.15911556629452375 ] ], [ "http://dis.criteo.com/", [ "http://ad.yieldmanager.com/", 0.5018747070945475, "http://ads.horyzon-media.com/", 0.947569409663586, "http://ads.prisacom.com/", 0.4382040352989707, "http://aidps.atdmt.com/", 0.4382040352989707, "http://pixel.rubiconproject.com/", 0.5018747070945475, "http://securite.01net.com/", 0.5655453788901245, "http://tag.bubblestat.com/", 0.5018747070945475, "http://vu.veoxa.com/", 0.5018747070945475, "http://ww370.smartadserver.com/", 0.5018747070945475, "http://www4.smartadserver.com/", 0.5018747070945475 ] ], [ "http://dis.eu.criteo.com/", [ "http://ad.adserverplus.com/", 1.9116543432291524, "http://ad.foxnetworks.com/", 2.1894160854077476, "http://ad.yieldmanager.com/", 3.0227013119435315, "http://ads.adverline.com/", 1.9116543432291524, "http://ads.horyzon-media.com/", 3.578224796300721, "http://media.fastclick.net/", 1.9116543432291524, "http://r.ad6media.fr/", 1.9116543432291524, "http://securite.01net.com/", 2.1894160854077476, "http://tag.bubblestat.com/", 1.9116543432291524, "http://ww381.smartadserver.com/", 2.467177827586342 ] ], [ "http://dl.bukkit.org/", [ "http://ajax.googleapis.com/", 0.06327655544745509, "http://beacon-1.newrelic.com/", 0.06327655544745509, "http://dl.bukkit.org/", 0.15521684968734709, "http://www.google-analytics.com/", 0.08166461429543348, "https://a248.e.akamai.net/", 0.09085864371942264, "https://d1ros97qkrwjf5.cloudfront.net/", 0.06327655544745509, "https://secure.gravatar.com/", 0.18279893795931448 ] ], [ "http://doc.ubuntu-fr.org/", [ "http://doc.ubuntu-fr.org/", 8.4142569808856, "http://piwik.infra.ubuntu-fr.org/", 0.547095003194523, "http://www-static.ubuntu-fr.org/", 12.070603838311277 ] ], [ "http://dp2.specificclick.net/", [ "http://ads.adviva.net/", 0.07728708868813375, "http://b.scorecardresearch.com/", 0.07728708868813375, "http://td.kectd.com/", 0.07728708868813375 ] ], [ "http://dragonballzone.free.fr/", [ "http://88.190.19.60/", 1.3517113397826443, "http://celd.free.fr/", 1.3517113397826443, "http://dragonballzone.free.fr/", 9.011408931884292, "http://logv26.xiti.com/", 1.3517113397826443, "http://st.free.fr/", 1.548113842144225, "http://www.google-analytics.com/", 1.548113842144225, "http://www.google.fr/", 1.548113842144225, "http://www.i-services.net/", 1.3517113397826443, "http://www.livecount.fr/", 1.3517113397826443 ] ], [ "http://edge.sharethis.com/", [ "http://edge.sharethis.com/", 0.5300843584605306, "http://w.sharethis.com/", 1.5829490441543448 ] ], [ "http://emea-bidder.mathtag.com/", [ "http://ad.doubleclick.net/", 0.37927782465950555, "http://s0.2mdn.net/", 0.37927782465950555 ] ], [ "http://eoliaserveur.jimdo.com/", [ "http://pagead2.googlesyndication.com/", 0.06327655544745509, "http://partner.googleadservices.com/", 0.07247058487144431, "http://pubads.g.doubleclick.net/", 0.06327655544745509, "http://s.jimdo.com/", 0.1184407319913902, "http://u.jimdo.com/", 0.18279893795931448, "http://web44.jimdo.com/", 0.06327655544745509, "http://www.google-analytics.com/", 0.07247058487144431, "https://statoc.splio.com/", 0.06327655544745509 ] ], [ "http://eraindil.skyrock.com/", [ "http://38.img.v4.skyrock.net/", 0.2244224829551915, "http://50.mgl.skyrock.net/", 0.17389026825004902, "http://b.scorecardresearch.com/", 0.2240889703381373, "http://connect.facebook.net/", 0.17389026825004902, "http://eraindil.skyrock.com/", 0.35075301971804734, "http://oas.skyregie.com/", 0.4923008276172099, "http://skyrock.com/", 0.3108932087586309, "http://static.v41.skyrock.net/", 2.6020816323434124, "http://www.facebook.com/", 0.3108932087586309, "http://www.skyrock.com/", 0.2244224829551915 ] ], [ "http://ess.khhq.net/", [ "http://ess.khhq.net/", 1.3631990572988748, "http://essentials3.net/", 3.523522987086076, "http://i.creativecommons.org/", 0.6758232614574935, "http://www.google-analytics.com/", 0.6758232614574935 ] ], [ "http://fe.brandreachsys.com/", [ "http://cache.imagehost123.com/", 0.12159013340570628, "http://lg.brandreachsys.com/", 0.12159013340570628 ] ], [ "http://feeds.videosz.com/", [ "http://ajax.googleapis.com/", 0.5682905450749104, "http://cdn.feeds.videosz.com/", 0.17940494808400603, "http://cdn.niche.videosz.com/", 0.7173452351197895, "http://feeds.videosz.com/", 0.2622211916022279, "http://ts.videosz.com/", 0.17940494808400603 ] ], [ "http://fileml.com/", [ "http://fileml.com/", 1.8730134823616014, "http://sharecash.org/", 6.055547826448736, "http://static.sharecash.org/", 1.603172556936625, "http://www.google-analytics.com/", 1.0634907060866723 ] ], [ "http://firstpersontetris.com/", [ "http://firstpersontetris.com/", 0.6731602374922364, "http://www.google-analytics.com/", 0.48758633418356573 ] ], [ "http://flash.ngfiles.com/", [ "http://audio.ngfiles.com/", 0.11945548132733315 ] ], [ "http://fls.doubleclick.net/", [ "http://ad.doubleclick.net/", 0.06158198541352602, "http://dis.criteo.com/", 0.06851505661902228, "http://tbl.tradedoubler.com/", 0.669935746251665 ] ], [ "http://formation-debian.via.ecp.fr/", [ "http://formation-debian.via.ecp.fr/", 0.09085864371942264 ] ], [ "http://forum.telecharger.01net.com/", [ "http://emploi.01net.com/", 1.6401760358661757, "http://forum.telecharger.01net.com/", 2.264422139068974, "http://logc202.xiti.com/", 1.432094001465243, "http://s7.addthis.com/", 1.8482580702671088, "http://securite.01net.com/", 4.553324517479233, "http://w.estat.com/", 1.6401760358661757, "http://www.01net.com/", 17.662492684737995, "http://www.facebook.com/", 1.6401760358661757, "http://www.google-analytics.com/", 1.432094001465243 ] ], [ "http://forum.ubuntu-fr.org/", [ "http://forum.ubuntu-fr.org/", 1.8482580702671088, "http://piwik.infra.ubuntu-fr.org/", 1.432094001465243, "http://www-static.ubuntu-fr.org/", 5.801816723884829 ] ], [ "http://forums.bukkit.org/", [ "http://connect.facebook.net/", 1.8572295440774185, "http://cursecom.ivwbox.de/", 2.127083409456189, "http://forums.bukkit.org/", 35.06061510155541, "http://pixel.quantserve.com/", 1.8572295440774185, "http://platform.twitter.com/", 4.906787695714371, "http://static.ak.facebook.com/", 2.127083409456189, "http://www.facebook.com/", 3.3593610980691797, "http://www.google-analytics.com/", 8.336232226716785, "http://www.gravatar.com/", 4.638422741635119, "https://s-static.ak.facebook.com/", 2.127083409456189 ] ], [ "http://forums.fedora-fr.org/", [ "http://ajax.googleapis.com/", 1.432094001465243, "http://common.fedora-fr.org/", 2.888668242271772, "http://forums.fedora-fr.org/", 2.888668242271772, "http://s7.addthis.com/", 3.096750276672705, "http://www.google-analytics.com/", 1.8482580702671088 ] ], [ "http://forums.gentoo.org/", [ "http://forums.gentoo.org/", 3.2469884549479917, "http://piwik.gentoo.org/", 0.5968401275213049 ] ], [ "http://forums.spout.org/", [ "http://cdn.spout.org/", 0.24495482997040882, "http://connect.facebook.net/", 0.15491737895425856, "http://dev.spout.org/", 0.42622495788941944, "http://forums.spout.org/", 0.1999361044623337, "http://platform.twitter.com/", 0.17742674170829614, "http://static.ak.fbcdn.net/", 0.15491737895425856, "http://static.spout.org/", 1.3385118411422707, "http://www.facebook.com/", 0.42801476602222094, "http://www.spout.org/", 0.15491737895425856, "https://s-static.ak.fbcdn.net/", 0.2847007243010028 ] ], [ "http://fr.fotolia.com/", [ "http://a.adroll.com/", 0.1254566441873961, "http://beacon-1.newrelic.com/", 0.10954050276063686, "http://d.adroll.com/", 0.10954050276063686, "http://fls.doubleclick.net/", 0.15728892704091438, "http://s.ftcdn.net/", 0.5870247455634129, "http://www.facebook.com/", 0.15728892704091438, "http://www.google-analytics.com/", 0.1254566441873961, "https://d1ros97qkrwjf5.cloudfront.net/", 0.10954050276063686, "https://plusone.google.com/", 0.1254566441873961, "https://ssl.gstatic.com/", 0.10954050276063686 ] ], [ "http://fr.pornhub.com/", [ "http://ajax.googleapis.com/", 0.40715544481863375, "http://cdn1.image.pornhub.phncdn.com/", 0.7621114736348784, "http://cdn1.static.pornhub.phncdn.com/", 1.1762268405871639, "http://cdn1a.static.pornhub.phncdn.com/", 3.4834410278927543, "http://cdn3.image.pornhub.phncdn.com/", 1.5025342923381817, "http://platform.twitter.com/", 0.643792797362797, "http://www.google-analytics.com/", 0.584633459226756, "https://ajax.googleapis.com/", 0.4663147829546746, "https://apis.google.com/", 0.4663147829546746, "https://plusone.google.com/", 0.4663147829546746 ] ], [ "http://fr.ratedview.com/", [ "http://search.gomeo.com/", 0.1254566441873961 ] ], [ "http://fr.smeet.com/", [ "http://files.smeet.com/", 0.3652697292551332, "http://fr.smeet.com/", 0.45795010831986804, "http://webcdn.smeet.com/", 0.5506304873846035 ] ], [ "http://fr.wikipedia.org/", [ "http://bits.wikimedia.org/", 8.306115361574642, "http://fr.wikipedia.org/", 3.06438437083116, "http://geoiplookup.wikimedia.org/", 0.7702285986198542, "http://meta.wikimedia.org/", 0.7702285986198542, "http://upload.wikimedia.org/", 4.611310645916262 ] ], [ "http://freewares-tutos.blogspot.fr/", [ "http://3.bp.blogspot.com/", 0.3885064766857635, "http://ajax.googleapis.com/", 0.3447673369264391, "http://i.imgur.com/", 0.5634630357230606, "http://images.linkwithin.com/", 0.3447673369264391, "http://images2.linkwithin.com/", 0.30102819716711476, "http://map.media6degrees.com/", 0.30102819716711476, "http://widget5.linkwithin.com/", 0.30102819716711476, "http://www.blogger.com/", 0.3885064766857635, "http://www.google-analytics.com/", 0.30102819716711476, "http://www.google.com/", 0.5197238959637364 ] ], [ "http://fw.adsafeprotected.com/", [ "http://fw.adsafeprotected.com/", 0.1522757998106239, "http://static.adsafeprotected.com/", 0.1522757998106239 ] ], [ "http://fyreuk.com/", [ "http://fyreuk.com/", 0.3235360999180866, "http://www.google-analytics.com/", 0.08948870848798138 ] ], [ "http://game.mixmasteronline.fr/", [ "http://d3h8722lqg9akn.cloudfront.net/", 0.2899735554784837, "http://game.mixmasteronline.fr/", 0.3575016437405963, "http://stats.jango-game.com/", 0.17742674170829614, "http://www.google-analytics.com/", 0.17742674170829614 ] ], [ "http://games.mmo2.myfarmvillage.com/", [ "http://ads.lfstmedia.com/", 0.2658471790350317, "http://connect.facebook.net/", 0.23212029811267693, "http://games.mmo2.myfarmvillage.com/", 0.8054772737927071, "http://static.ak.facebook.com/", 0.40075470272445063, "http://www.facebook.com/", 0.2658471790350317, "https://graph.facebook.com/", 0.33330094087974094, "https://rya.kfmads.com:8443/", 0.23212029811267693, "https://s-static.ak.fbcdn.net/", 0.2658471790350317 ] ], [ "http://get.spout.org/", [ "http://ajax.googleapis.com/", 0.29527234717322653, "http://get.spout.org/", 1.6710487259721853, "http://static.spout.org/", 0.29527234717322653 ] ], [ "http://googleads.g.doubleclick.net/", [ "http://pagead2.googlesyndication.com/", 0.6225762769738845 ] ], [ "http://gothazz.skyrock.com/", [ "http://01.wir.skyrock.net/", 0.19915637560262028, "http://02.mgl.skyrock.net/", 0.17389026825004902, "http://26.mgl.skyrock.net/", 0.17389026825004902, "http://8b.img.v4.skyrock.net/", 0.19915637560262028, "http://b.scorecardresearch.com/", 0.19915637560262028, "http://connect.facebook.net/", 0.19915637560262028, "http://oas.skyregie.com/", 0.2244224829551915, "http://sky.estat.com/", 0.19915637560262028, "http://static.v41.skyrock.net/", 0.8530432338871634, "http://www.facebook.com/", 0.24968859030776255 ] ], [ "http://hades.bubblestat.com/", [ "http://ad-emea.doubleclick.net/", 0.6565825732037986, "http://ad.publicidees.com/", 0.26226834158696105, "http://s0.2mdn.net/", 0.6565825732037986, "http://tracking.publicidees.com/", 0.26226834158696105, "http://ttbmanutan.solution.weborama.fr/", 0.1271185392208833 ] ], [ "http://hentaifr.net/", [ "http://hentaifr.net/", 0.10901135990114534, "http://logv143.xiti.com/", 0.0844657556849934, "http://www.allosponsor.com/", 0.09673855779306939, "http://www.hentais-top50.com/", 0.0844657556849934, "http://www.planetehentai.com/", 0.0844657556849934, "http://www.referencement-team.com/", 0.0844657556849934, "http://www.youtube.com/", 0.0844657556849934 ] ], [ "http://hentaitube.tv/", [ "http://hentaitube.tv/", 0.09958544369279776, "http://www.hentaitube.tv/", 0.07951090761243133 ] ], [ "http://i.jeuxactus.com/", [ "http://i.jeuxactus.com/", 1.548113842144225, "http://l.longtailvideo.com/", 1.3517113397826443, "http://plugins.longtailvideo.com/", 1.7445163445058063, "http://www.jeuxactu.com/", 1.9409188468673864 ] ], [ "http://ib.adnxs.com/", [ "http://adopteunmec.solution.weborama.fr/", 0.3549077391220183 ] ], [ "http://images.auchandirect.fr/", [ "http://images.auchandirect.fr/", 0.05610024014710362 ] ], [ "http://imageshack.us/", [ "http://edge.quantserve.com/", 1.1104783740892132, "http://i.po.st/", 1.4739796108434973, "http://imageshack.us/", 11.830624225707364, "http://img638.imageshack.us/", 0.832716631910619, "http://p.po.st/", 0.832716631910619, "http://pixel.quantserve.com/", 1.3882401162678084, "http://static.ak.facebook.com/", 0.9537096468036149, "http://www.google-analytics.com/", 1.9116543432291524, "http://www.imageshack.us/", 3.0227013119435315, "https://s-static.ak.facebook.com/", 0.9537096468036149 ] ], [ "http://img.metaboli.fr/", [ "http://img.metaboli.fr/", 1.3517113397826443 ] ], [ "http://img2.cdn.glispa.com/", [ "http://i1.ytimg.com/", 0.18912120989443276, "http://o-o.preferred.par08s01.v17.lscache7.c.youtube.com/", 0.1413727856141553, "http://o-o.preferred.par08s01.v5.nonxt8.c.youtube.com/", 0.15728892704091438, "http://o-o.preferred.par08s01.v7.nonxt1.c.youtube.com/", 0.2109996731254273, "http://s.youtube.com/", 0.23180596656844765, "http://s.ytimg.com/", 0.3222391475227401, "http://s2.youtube.com/", 0.19997368371492918, "http://www.youtube.com/", 3.0960108900762124 ] ], [ "http://imgext.spartoo.com/", [ "http://imgext.spartoo.com/", 0.195260916690211, "http://webnibal.spartoo.com/", 0.13609560292507056 ] ], [ "http://imgur.com/", [ "http://b.scorecardresearch.com/", 0.06612788355885382, "http://beacon.lijit.com/", 0.05274485950527631, "http://i.imgur.com/", 0.08620241963922015, "http://ping.crowdscience.com/", 0.05274485950527631, "http://s.imgur.com/", 0.09958544369279776, "http://s7.addthis.com/", 0.05274485950527631, "http://static.crowdscience.com/", 0.05274485950527631, "http://www.lijit.com/", 0.06612788355885382 ] ], [ "http://issues.spout.org/", [ "http://issues.spout.org/", 2.784417204447153 ] ], [ "http://jackoneill007.deviantart.com/", [ "http://a.deviantart.net/", 0.5713424330584358, "http://b.scorecardresearch.com/", 0.22650853854979414, "http://e.deviantart.net/", 0.3127170121769546, "http://edge.quantserve.com/", 0.19777238067407402, "http://pixel.quantserve.com/", 0.19777238067407402, "http://s.deviantart.net/", 0.19777238067407402, "http://st.deviantart.net/", 1.8357333795901223, "http://th03.deviantart.net/", 0.22650853854979414, "http://www.google-analytics.com/", 0.22650853854979414, "https://s.deviantart.com/", 0.2552446964255143 ] ], [ "http://jeanviet.info/", [ "http://jeanviet.info/", 0.30102819716711476 ] ], [ "http://jmn.jangonetwork.com/", [ "http://cd32.static.jango.com/", 0.05229408297313396, "http://p.jango.com/", 0.07027743061829919, "http://pagead2.googlesyndication.com/", 0.05229408297313396, "http://partner.googleadservices.com/", 0.13274435021087203, "http://pubads.g.doubleclick.net/", 0.1703107887233392 ] ], [ "http://kangaryu.free.fr/", [ "http://i.creativecommons.org/", 0.20444732973239516, "http://kangaryu.free.fr/", 2.152655353425074, "http://pagead2.googlesyndication.com/", 0.23916088840871405 ] ], [ "http://kangaryu.scantrad.free.fr/", [ "http://kangaryu.scantrad.free.fr/", 18.113967518754986, "http://pagead2.googlesyndication.com/", 0.056312194962407636, "http://www.google-analytics.com/", 1.0659810480636702 ] ], [ "http://knowyourmeme.com/", [ "http://b.scorecardresearch.com/", 0.18423105787817157, "http://graph.facebook.com/", 0.18423105787817157, "http://i2.kym-cdn.com/", 0.5322230560924951, "http://i3.kym-cdn.com/", 0.50545444084524, "http://pixel.quantserve.com/", 0.18423105787817157, "http://s7.addthis.com/", 0.2109996731254273, "http://static.ak.fbcdn.net/", 0.18423105787817157, "http://www-open-opensocial.googleusercontent.com/", 0.2109996731254273, "http://www.facebook.com/", 0.26453690361993853, "https://www.facebook.com/", 0.2109996731254273 ] ], [ "http://korben.info/", [ "http://edge.sharethis.com/", 2.529573049612, "http://korben.disqus.com/", 2.529573049612, "http://korben.info/", 12.798884534603996, "http://mediacdn.disqus.com/", 2.2086570657060003, "http://platform.twitter.com/", 3.8132369852359993, "http://w.sharethis.com/", 2.850489033518, "http://www.dorkly.com/", 3.1714050174239996, "https://embed.spotify.com/", 7.530723574670794, "https://platform.twitter.com/", 2.529573049612, "https://www.youtube.com/", 5.347654726121735 ] ], [ "http://leconjugueur.lefigaro.fr/", [ "http://ad.zanox.com/", 0.24592387202946864, "http://b.scorecardresearch.com/", 0.317388928858545, "http://leconjugueur.lefigaro.fr/", 0.46031904251669736, "http://logc111.xiti.com/", 0.24592387202946864, "http://static.addtoany.com/", 0.317388928858545, "http://www.facebook.com/", 0.2816564004440068, "http://www.lamaisondevalerie.fr/", 0.24592387202946864, "https://apis.google.com/", 0.24592387202946864, "https://plusone.google.com/", 0.2816564004440068, "https://ssl.gstatic.com/", 0.24592387202946864 ] ], [ "http://lepointculture.fr/", [ "http://connect.facebook.net/", 0.38150164212146626, "http://lepointculture.fr/", 8.196440089253397, "http://pagead2.googlesyndication.com/", 0.060585658215466284, "http://static.ak.facebook.com/", 2.529573049612, "http://www.facebook.com/", 0.7534875031481185, "http://www.google-analytics.com/", 0.7534875031481185, "http://www.youtube.com/", 21.27491624455853, "https://s-static.ak.facebook.com/", 2.529573049612 ] ], [ "http://lesgde.free.fr/", [ "http://lesgde.free.fr/", 4.749544469694635 ] ], [ "http://littlegarden.exen.fr/", [ "http://feeds.feedburner.com/", 1.3517113397826443, "http://littlegarden.exen.fr/", 1.7445163445058063, "http://static.ak.fbcdn.net/", 1.3517113397826443, "http://www.anima-freak.de/", 1.3517113397826443, "http://www.livecount.fr/", 1.3517113397826443, "http://www.topsite-web.net/", 1.3517113397826443 ] ], [ "http://livre.fnac.com/", [ "http://api.zanox.ws/", 0.23684101814869113, "http://dis.eu.criteo.com/", 0.23684101814869113, "http://likemastr.com/", 0.2067940233089318, "http://livre.fnac.com/", 0.2067940233089318, "http://multimedia.fnac.com/", 1.2584388427005078, "http://www.facebook.com/", 0.23684101814869113, "http://www4-fr.fnac-static.com/", 2.8758050202627183, "http://www4.fnac.com/", 0.40551575051380373, "https://apis.google.com/", 0.23684101814869113, "https://plusone.google.com/", 0.23684101814869113 ] ], [ "http://loadeu.exelator.com/", [ "http://adadvisor.net/", 0.4510452948431553, "http://r.nexac.com/", 0.19647533043367832 ] ], [ "http://loadus.exelator.com/", [ "http://segment-pixel.invitemedia.com/", 0.059724876616478274 ] ], [ "http://manga-streaming.over-blog.net/", [ "http://manga-streaming.over-blog.net/", 1.3517113397826443, "http://platform.linkedin.com/", 1.548113842144225, "http://platform.twitter.com/", 3.512138865760031, "http://static02.linkedin.com/", 1.3517113397826443, "http://videobb.com/", 2.7265288563137093, "http://www.facebook.com/", 5.868968894099, "http://www.google-analytics.com/", 1.548113842144225, "http://www.linkedin.com/", 2.5301263539521295, "http://www.videozer.com/", 1.9409188468673864, "https://plusone.google.com/", 3.512138865760031 ] ], [ "http://mangaspace.over-blog.com/", [ "http://dap.criteo.com/", 0.0684028501419495, "http://loadeu.exelator.com/", 0.0684028501419495, "http://platform.linkedin.com/", 0.0684028501419495, "http://platform.twitter.com/", 0.23328434712590249, "http://static02.linkedin.com/", 0.059724876616478274, "http://www.facebook.com/", 0.4155217911607966, "http://www.linkedin.com/", 0.13782663834571898, "https://apis.google.com/", 0.0684028501419495, "https://plusone.google.com/", 0.22460637360043095, "https://ssl.gstatic.com/", 0.059724876616478274 ] ], [ "http://maps.google.fr/", [ "http://khm0.google.fr/", 2.6593143995420396, "http://khm1.google.fr/", 2.531966949423124, "http://lh3.googleusercontent.com/", 0.8764500978772359, "http://lh5.googleusercontent.com/", 0.8764500978772359, "http://maps.google.fr/", 2.295116016137927, "http://maps.gstatic.com/", 10.738956736320443, "http://mt0.google.com/", 5.027023340896506, "http://mt1.google.com/", 4.697534509250201, "http://ssl.gstatic.com/", 0.8764500978772359, "https://plus.google.com/", 0.48700581058886144 ] ], [ "http://marketing.ebinaires.com/", [ "http://marketing.ebinaires.com/", 0.15521684968734709 ] ], [ "http://media.brandreachsys.com/", [ "http://cache.imagehost123.com/", 0.10972424812696889 ] ], [ "http://media.carpediem.fr/", [ "http://ktu.sv2.biz/", 0.1949209746576769, "http://media.carpediem.fr/", 0.1581025683334491, "http://media.yesmessenger.com/", 0.0844657556849934, "http://outils.yesmessenger.com/", 0.20719377676575304, "http://pub.sv2.biz/", 0.10901135990114534, "http://www.google-analytics.com/", 0.0844657556849934, "http://www.yesmessenger.com/", 0.0844657556849934 ] ], [ "http://media.trafficjunky.net/", [ "http://ads2.zeusclicks.com/", 0.13456770467011275, "http://cdn.zeusclicks.com/", 0.13456770467011275 ] ], [ "http://mediacdn.disqus.com/", [ "http://b.scorecardresearch.com/", 0.07958904158048968, "http://edge.quantserve.com/", 0.2639997305341264, "http://mediacdn.disqus.com/", 1.3913222852435276, "http://pixel.quantserve.com/", 0.20502911005040136, "http://www.google-analytics.com/", 0.20976360542716702 ] ], [ "http://medleyads.com/", [ "http://ads.fling.com/", 0.06645542099840819, "http://br.fling.com/", 0.06645542099840819, "http://medleyads.com/", 0.05802450937920714 ] ], [ "http://mfr.247realmedia.com/", [ "http://afe2.specificclick.net/", 0.09650461026897109, "http://b.scorecardresearch.com/", 0.10204363112440425, "http://cache.adviva.net/", 0.09650461026897109, "http://elstatic.weborama.fr/", 0.10204363112440425, "http://intersport.solution.weborama.fr/", 0.09650461026897109, "http://mfr.247realmedia.com/", 0.10204363112440425 ] ], [ "http://mine-dream.forum-pro.fr/", [ "http://adopteunmec.solution.weborama.fr/", 0.06147507191386604, "http://ajax.googleapis.com/", 0.06147507191386604, "http://cas.criteo.com/", 0.07040734732015429, "http://caw.criteo.com/", 0.06147507191386604, "http://dis.eu.criteo.com/", 0.07040734732015429, "http://elstatic.weborama.fr/", 0.06147507191386604, "http://hitskin.com/", 0.16866237678932483, "http://illiweb.com/", 0.09720417353901899, "http://mine-dream.forum-pro.fr/", 0.06147507191386604, "https://www.paypalobjects.com/", 0.07040734732015429 ] ], [ "http://minecraft.fr/", [ "http://0.gravatar.com/", 0.42514859510347247, "http://1.gravatar.com/", 0.50545444084524, "http://apis.google.com/", 0.18423105787817157, "http://cocotiers.curse.com/", 0.3716113646089612, "http://minecraft.fr/", 1.8262273046983801, "http://pixel.quantserve.com/", 0.18423105787817157, "http://www.facebook.com/", 0.2109996731254273, "http://www.google-analytics.com/", 0.2109996731254273, "http://www.youtube.com/", 0.18423105787817157, "https://plusone.google.com/", 0.26453690361993853 ] ], [ "http://minecraft.gearsofcraft.fr:8123/", [ "http://minecraft.gearsofcraft.fr:8123/", 2.554648346728548 ] ], [ "http://minecraft.gearsofcraft.fr:8124/", [ "http://minecraft.gearsofcraft.fr:8124/", 0.3863032642453875 ] ], [ "http://minecraft.gearsofcraft.fr:8128/", [ "http://minecraft.gearsofcraft.fr:8128/", 5.926156913995765 ] ], [ "http://minecraft.minedream.fr:8123/", [ "http://minecraft.minedream.fr:8123/", 143.00811484769727 ] ], [ "http://minecraft.net/", [ "http://www.minecraft.net/", 0.07746391846161332 ] ], [ "http://minecraft15000.toile-libre.org/", [ "http://minecraft15000.toile-libre.org/", 0.33236648273526553 ] ], [ "http://minecraftgallery.com/", [ "http://1.gravatar.com/", 0.0512432133551611, "http://cdn.minecraftgallery.com/", 0.08374823675209156, "http://minecraftgallery.com/", 0.10325125079024987, "http://pixel.quantserve.com/", 0.0512432133551611, "http://s.gravatar.com/", 0.05774421803454718, "http://s3.buysellads.com/", 0.08374823675209156, "http://stats.buysellads.com/", 0.06424522271393325, "http://stats.wordpress.com/", 0.0512432133551611 ] ], [ "http://minecraftmuseum.net/", [ "http://minecraftmuseum.net/", 0.1812633069428832, "http://www.google-analytics.com/", 0.0512432133551611 ] ], [ "http://minedream.fr/", [ "http://i.imgur.com/", 0.11297716064455564, "http://minedream.fr/", 6.614385956656871 ] ], [ "http://minerealm.com/", [ "http://minerealm.com/", 0.6857931706918724, "http://pagead2.googlesyndication.com/", 0.06568371831389999 ] ], [ "http://monvoisinletrader.com/", [ "http://ajax.googleapis.com/", 0.648751881729519, "http://l.longtailvideo.com/", 0.6024116921971515, "http://monvoisinletrader.com/", 10.426257194106608, "http://plugins.longtailvideo.com/", 1.3083965657430272, "http://www.google-analytics.com/", 1.0249144132686403 ] ], [ "http://movienostop.chatango.com/", [ "http://pst.chatango.com/", 8.029396420076386, "http://st.chatango.com/", 10.9754339555001 ] ], [ "http://network.prizee.com/", [ "http://pz-network.s3.amazonaws.com/", 0.09399576660408751 ] ], [ "http://nibal.spartoo.com/", [ "http://imgext.spartoo.com/", 0.13609560292507056, "https://nibal.spartoo.com/", 0.07693028915992994 ] ], [ "http://nocheat.fr/", [ "http://acarea-minecraft.com/", 1.9116543432291524, "http://img197.imageshack.us/", 1.9116543432291524, "http://nocheat.fr/", 4.13374828065791 ] ], [ "http://normanfaitdesvideos.com/", [ "http://24.media.tumblr.com/", 2.2086570657060003, "http://b.scorecardresearch.com/", 2.2086570657060003, "http://edge.quantserve.com/", 2.2086570657060003, "http://normanvelcrou.files.wordpress.com/", 4.775984936953999, "http://pixel.quantserve.com/", 2.2086570657060003, "http://s.gravatar.com/", 2.529573049612, "http://s0.wp.com/", 2.529573049612, "http://s1.wp.com/", 3.1714050174239996, "http://stats.wordpress.com/", 2.529573049612, "http://www.youtube.com/", 5.650060610184762 ] ], [ "http://notch.tumblr.com/", [ "http://a2a.lockerz.com/", 0.0512432133551611, "http://assets.tumblr.com/", 0.0512432133551611, "http://pixel.quantserve.com/", 0.0512432133551611, "http://platform.twitter.com/", 0.16826129758411085, "http://static.addtoany.com/", 0.0512432133551611, "http://static.tumblr.com/", 0.06424522271393325, "http://twitter.com/", 0.0512432133551611, "http://www.facebook.com/", 0.16826129758411085, "http://www.google-analytics.com/", 0.0512432133551611, "http://www.google.com/", 0.05774421803454718 ] ], [ "http://ogame.fr/", [ "http://adsm.gameforge.de/", 0.779859289713468, "http://bi-data.statistics.gfsrv.net:42080/", 0.8780558319765226, "http://gameforge.com/", 0.07745497520065837, "http://gf1.geo.gfsrv.net/", 2.280808147293444, "http://gf2.geo.gfsrv.net/", 0.16396259219649856, "http://gf3.geo.gfsrv.net/", 0.21582787495563016, "http://googleads.g.doubleclick.net/", 0.07745497520065837, "http://ogame.fr/", 0.27968754571968774, "http://tracking.gameforge.de/", 0.08870911689648056, "http://www.googleadservices.com/", 0.08870911689648056 ] ], [ "http://openjdk.java.net/", [ "http://counterb.statcounter.com/", 0.18797783596372877, "http://feeds.feedburner.com/", 0.18797783596372877, "http://openjdk.java.net/", 0.6172406554032879, "http://sunjnet.112.2o7.net/", 0.23567370479034633, "http://www.feedburner.com/", 0.18797783596372877, "http://www.statcounter.com/", 0.18797783596372877 ] ], [ "http://openlibrary.org/", [ "http://archive.org/", 0.23684101814869113, "http://covers.openlibrary.org/", 0.2668880129884505, "http://ia700801.us.archive.org/", 0.2067940233089318, "http://openlibrary.org/", 0.47721697686676523, "http://www.archive.org/", 0.23684101814869113 ] ], [ "http://optimized-by.rubiconproject.com/", [ "http://b.scorecardresearch.com/", 0.635774533168921, "http://bannerfarm.ace.advertising.com/", 0.08025104881173155, "http://cas.fr.eu.criteo.com/", 2.1894160854077476, "http://r1-ads.ace.advertising.com/", 0.08025104881173155, "http://tap2-cdn.rubiconproject.com/", 0.5836359321922897, "http://uac.advertising.com/", 0.08025104881173155 ] ], [ "http://optimized-by.simply.com/", [ "http://b.scorecardresearch.com/", 0.09716165872350625 ] ], [ "http://outils.yesmessenger.com/", [ "http://outils.yesmessenger.com/", 0.0844657556849934 ] ], [ "http://outnow.ch/", [ "http://anchor.stailamedia.com/", 1.0558145086056314, "http://outnow.ch/", 18.518388970022812, "http://outnow.wemfbox.ch/", 1.2971495929527745, "http://www.facebook.com/", 1.2971495929527745, "http://www.google-analytics.com/", 1.1170487837384886 ] ], [ "http://p4.a3wsruw4ohgrs.f22ojodzt2b3wrnv.if.v4.ipv6-exp.l.google.com/", [ "http://p4.a3wsruw4ohgrs.f22ojodzt2b3wrnv.if.v4.ipv6-exp.l.google.com/", 0.1368122606654927 ] ], [ "http://p4.alrc6hetpv4fq.5grras45ttbvjfgc.if.v4.ipv6-exp.l.google.com/", [ "http://p4.alrc6hetpv4fq.5grras45ttbvjfgc.if.v4.ipv6-exp.l.google.com/", 0.07247058487144431 ] ], [ "http://p4.b43zfdwwb7nzq.3hj6olbdpdhczpph.if.v4.ipv6-exp.l.google.com/", [ "http://p4.b43zfdwwb7nzq.3hj6olbdpdhczpph.if.v4.ipv6-exp.l.google.com/", 0.17742674170829614 ] ], [ "http://p4.ba5rpyu6jymra.phyawoa6blvuh65l.if.v4.ipv6-exp.l.google.com/", [ "http://p4.ba5rpyu6jymra.phyawoa6blvuh65l.if.v4.ipv6-exp.l.google.com/", 0.0684028501419495 ] ], [ "http://p4.bgxnmysehzu6q.duzzbhpy45wdzkxx.if.v4.ipv6-exp.l.google.com/", [ "http://p4.bgxnmysehzu6q.duzzbhpy45wdzkxx.if.v4.ipv6-exp.l.google.com/", 0.17742674170829614 ] ], [ "http://p4.bkvcq5nh4qpq2.vadjsiu66wt6bvx5.if.v4.ipv6-exp.l.google.com/", [ "http://p4.bkvcq5nh4qpq2.vadjsiu66wt6bvx5.if.v4.ipv6-exp.l.google.com/", 0.669935746251665 ] ], [ "http://p4.bqwendjm43m6i.6eyhfbxsolw2pivc.if.v4.ipv6-exp.l.google.com/", [ "http://p4.bqwendjm43m6i.6eyhfbxsolw2pivc.if.v4.ipv6-exp.l.google.com/", 0.1368122606654927 ] ], [ "http://p4.bsdfpzg5z7s3c.vwzhyusjpnj7mlha.if.v4.ipv6-exp.l.google.com/", [ "http://p4.bsdfpzg5z7s3c.vwzhyusjpnj7mlha.if.v4.ipv6-exp.l.google.com/", 0.2109996731254273 ] ], [ "http://p4.btarm4p6juq26.do24xpe4prjxxdcx.if.v4.ipv6-exp.l.google.com/", [ "http://p4.btarm4p6juq26.do24xpe4prjxxdcx.if.v4.ipv6-exp.l.google.com/", 0.07247058487144431 ] ], [ "http://p4.bv32ive5vugwg.fv3xrwsmrmx6pyug.if.v4.ipv6-exp.l.google.com/", [ "http://p4.bv32ive5vugwg.fv3xrwsmrmx6pyug.if.v4.ipv6-exp.l.google.com/", 0.1368122606654927 ] ], [ "http://p4.byxkwz73gqkee.l72ivyr2y4w52zr5.if.v4.ipv6-exp.l.google.com/", [ "http://p4.byxkwz73gqkee.l72ivyr2y4w52zr5.if.v4.ipv6-exp.l.google.com/", 0.1254566441873961 ] ], [ "http://p4.cp2wrpgzrfj4c.ldtq4rumkygs7yrk.if.v4.ipv6-exp.l.google.com/", [ "http://p4.cp2wrpgzrfj4c.ldtq4rumkygs7yrk.if.v4.ipv6-exp.l.google.com/", 0.23684101814869113 ] ], [ "http://p4.cz65b3hcjacdu.m3wvluldswwog33g.if.v4.ipv6-exp.l.google.com/", [ "http://p4.cz65b3hcjacdu.m3wvluldswwog33g.if.v4.ipv6-exp.l.google.com/", 0.1368122606654927 ] ], [ "http://p4.dpje76zjxexwg.kn3vrdglk4aymejt.if.v4.ipv6-exp.l.google.com/", [ "http://p4.dpje76zjxexwg.kn3vrdglk4aymejt.if.v4.ipv6-exp.l.google.com/", 0.1368122606654927 ] ], [ "http://p4.ed4o6epkjo2ky.govug2gzj5kbxyg4.if.v4.ipv6-exp.l.google.com/", [ "http://p4.ed4o6epkjo2ky.govug2gzj5kbxyg4.if.v4.ipv6-exp.l.google.com/", 0.17742674170829614 ] ], [ "http://p4.eqvyq6z3nugpg.cc3urxso3mrl4dmw.if.v4.ipv6-exp.l.google.com/", [ "http://p4.eqvyq6z3nugpg.cc3urxso3mrl4dmw.if.v4.ipv6-exp.l.google.com/", 0.0684028501419495 ] ], [ "http://p4.fmvwgzvondpli.342do4dh5hb2uuqq.if.v4.ipv6-exp.l.google.com/", [ "http://p4.fmvwgzvondpli.342do4dh5hb2uuqq.if.v4.ipv6-exp.l.google.com/", 0.17742674170829614 ] ], [ "http://p4.g426eveimvs5u.3v5xkglrtx5ytujw.if.v4.ipv6-exp.l.google.com/", [ "http://p4.g426eveimvs5u.3v5xkglrtx5ytujw.if.v4.ipv6-exp.l.google.com/", 0.15356779767131593 ] ], [ "http://p4.g5kji76goeuq2.5mqhkegvapxzazsz.if.v4.ipv6-exp.l.google.com/", [ "http://p4.g5kji76goeuq2.5mqhkegvapxzazsz.if.v4.ipv6-exp.l.google.com/", 0.17742674170829614 ] ], [ "http://p4.g7mglztawmslk.dtklvicelbcn7f27.if.v4.ipv6-exp.l.google.com/", [ "http://p4.g7mglztawmslk.dtklvicelbcn7f27.if.v4.ipv6-exp.l.google.com/", 0.07247058487144431 ] ], [ "http://p4.gbs4nrisel4oe.jbg5qqq3ohpr4csn.if.v4.ipv6-exp.l.google.com/", [ "http://p4.gbs4nrisel4oe.jbg5qqq3ohpr4csn.if.v4.ipv6-exp.l.google.com/", 0.35487050006323956 ] ], [ "http://p4.hsgkdhdxlkhci.6fnsikkjs4icxpty.if.v4.ipv6-exp.l.google.com/", [ "http://p4.hsgkdhdxlkhci.6fnsikkjs4icxpty.if.v4.ipv6-exp.l.google.com/", 0.0512432133551611 ] ], [ "http://p4.hv5myiu36wwxu.ikobimi62kkhhrdv.if.v4.ipv6-exp.l.google.com/", [ "http://p4.hv5myiu36wwxu.ikobimi62kkhhrdv.if.v4.ipv6-exp.l.google.com/", 0.17742674170829614 ] ], [ "http://p4.hvfaqauzqcoaq.njtqmq72gwjq244h.if.v4.ipv6-exp.l.google.com/", [ "http://p4.hvfaqauzqcoaq.njtqmq72gwjq244h.if.v4.ipv6-exp.l.google.com/", 0.0684028501419495 ] ], [ "http://p4.hznhw32tkj77y.xi775hzvtlluo5dv.if.v4.ipv6-exp.l.google.com/", [ "http://p4.hznhw32tkj77y.xi775hzvtlluo5dv.if.v4.ipv6-exp.l.google.com/", 0.3652697292551332 ] ], [ "http://pagead2.googlesyndication.com/", [ "http://213.8.137.51/", 0.11549397420243751, "http://googleads.g.doubleclick.net/", 0.22551183322540902, "http://pagead2.googlesyndication.com/", 3.5862493169490413, "http://s.ytimg.com/", 0.1254566441873961, "http://www.youtube.com/", 0.15728892704091438 ] ], [ "http://platform.twitter.com/", [ "http://cdn.api.twitter.com/", 0.4016641782878201, "http://p.twitter.com/", 0.4016641782878201 ] ], [ "http://platform0.twitter.com/", [ "http://cdn.api.twitter.com/", 1.3517113397826443, "http://p.twitter.com/", 1.3517113397826443 ] ], [ "http://player.canalplus.fr/", [ "http://fr.sitestat.com/", 0.30835286605394224, "http://media.canal-plus.com/", 0.9616451383317709, "http://player.canalplus.fr/", 0.5070939674196745, "http://service.canal-plus.com/", 0.996360361662347, "http://vod-flash.canalplus.fr/", 0.14877006938759493, "http://www3.smartadserver.com/", 0.18348529271817138 ] ], [ "http://player.ebuzzing.com/", [ "http://stat.ebuzzing.com/", 0.08731040148466589, "http://www.ebuzzingvideo2.com/", 0.2583597990681906 ] ], [ "http://player.video-loader.com/", [ "http://player.video-loader.com/", 0.09131970712886914, "http://s.srvntrk.com/", 0.07291138671949228, "http://s.ytimg.com/", 0.054503066310115575, "http://www.youtube.com/", 0.054503066310115575 ] ], [ "http://player.vimeo.com/", [ "http://a.vimeocdn.com/", 0.7144915467370597, "http://b.vimeocdn.com/", 0.3459996345849535, "http://www.google-analytics.com/", 0.41131915610705994 ] ], [ "http://plugins.bukkit.org/", [ "http://forums.bukkit.org/", 0.6378896673446866, "http://plugins.bukkit.org/", 1.0358318660520835, "https://ajax.googleapis.com/", 0.2716708231207191 ] ], [ "http://pmu3.solution.weborama.fr/", [ "http://elstatic.weborama.fr/", 0.7097750350518064 ] ], [ "http://pokemon-gemme.host22.com/", [ "http://analytics.hosting24.com/", 0.09330735476738444, "http://error404.000webhost.com/", 0.09330735476738444, "http://pokemon-gemme.host22.com/", 0.6519918477495523, "http://www.facebook.com/", 0.13407191302719104, "https://payment.allopass.com/", 0.1413727856141553, "https://www.paypalobjects.com/", 0.1022396301736726 ] ], [ "http://primura.n-serv.fr/", [ "http://primura.n-serv.fr/", 0.5849438978466032, "http://www.sunderpicture.com/", 0.669935746251665 ] ], [ "http://pub.media-clic.com/", [ "http://ad.360yield.com/", 0.10130215801363897, "http://pub.media-clic.com/", 0.07941058996831878, "http://www.avenir-affiliation.fr/", 0.10130215801363897 ] ], [ "http://pubads.g.doubleclick.net/", [ "http://c.betrad.com/", 0.4273894616221829, "http://ced.sascdn.com/", 0.2475473614346309, "http://data.sensee.com/", 0.2475473614346309, "http://ib.adnxs.com/", 0.3194842015096518, "http://l.betrad.com/", 0.2475473614346309, "http://pagead2.googlesyndication.com/", 0.754927594656727, "http://pixel.invitemedia.com/", 0.28351578147214124, "http://pubads.g.doubleclick.net/", 0.28351578147214124, "http://s0.2mdn.net/", 0.5849438978466032, "http://www2.smartadserver.com/", 0.35545262154716234 ] ], [ "http://pubhdstats2.msvp.net/", [ "http://pubhdstats2.msvp.net/", 0.24968859030776255 ] ], [ "http://quick-tutoriel.com/", [ "http://cdn.blogbang.com/", 0.26712673741794424, "http://hades.bubblestat.com/", 0.16893961231297014, "http://quick-tutoriel.com/", 1.4699190199538767, "http://tracker.blogbang.com/", 0.19348639358921368, "http://vu.veoxa.com/", 0.19348639358921368, "http://www.ebuzzingvideo2.com/", 0.26712673741794424, "http://www.ferank.fr/", 0.16893961231297014, "https://apis.google.com/", 0.16893961231297014, "https://plusone.google.com/", 0.19348639358921368, "https://ssl.gstatic.com/", 0.16893961231297014 ] ], [ "http://r.turn.com/", [ "http://cdn.turn.com/", 0.0512432133551611 ] ], [ "http://r1rk9np7bpcsfoeekl0khkd2juj27q3o-a-fc-opensocial.googleusercontent.com/", [ "http://1.bp.blogspot.com/", 0.06541869199602235, "http://3.bp.blogspot.com/", 0.05711930569801952, "http://csi.gstatic.com/", 0.1844667558169341, "http://r1rk9np7bpcsfoeekl0khkd2juj27q3o-a-fc-opensocial.googleusercontent.com/", 0.5914072650676861, "http://www-fc-opensocial.googleusercontent.com/", 0.1844667558169341, "http://www.google.com/", 1.4771261046023438 ] ], [ "http://rcm.amazon.com/", [ "http://ecx.images-amazon.com/", 0.8770806638364805, "http://s.amazon-adsystem.com/", 0.5677183289319452 ] ], [ "http://recherche.fnac.com/", [ "http://ads.matiro.com/", 0.2009065974653265, "http://api.zanox.com/", 0.2300981543619979, "http://ib.adnxs.com/", 0.2009065974653265, "http://images2.fnacmusic.com/", 0.2592897112586693, "http://mfr.247realmedia.com/", 0.2884812681553404, "http://multimedia.fnac.com/", 0.4928221664320402, "http://recherche.fnac.com/", 0.2009065974653265, "http://www.google-analytics.com/", 0.2009065974653265, "http://www4-fr.fnac-static.com/", 1.251802645745494, "http://www4.fnac.com/", 0.2300981543619979 ] ], [ "http://rodrigopolo.com/", [ "http://www.spi0n.com/", 0.06063917311324114 ] ], [ "http://rs.gwallet.com/", [ "http://ad.doubleclick.net/", 0.1254566441873961, "http://rcdna.gwallet.com/", 0.1413727856141553 ] ], [ "http://rutube.ru/", [ "http://al.rutube.ru/", 1.3517113397826443, "http://b.scorecardresearch.com/", 0.6322972249293035, "http://bl.rutube.ru/", 0.05402292983497204, "http://img-5.rutube.ru/", 1.3517113397826443, "http://img.rutube.ru/", 0.8396329392812951, "http://mc.yandex.ru/", 1.9409188468673864, "http://rutube.ru/", 24.873780672660974, "http://tub.rutube.ru/", 7.4193144251271566, "http://www.google-analytics.com/", 1.232437944004456, "http://www.tns-counter.ru/", 0.6432304369197145 ] ], [ "http://s.amazon-adsystem.com/", [ "http://sis.amazon.com/", 0.3091780052685667 ] ], [ "http://s.ytimg.com/", [ "http://i1.ytimg.com/", 4.4550689530479985, "http://i2.ytimg.com/", 6.380564856483998, "http://i3.ytimg.com/", 5.096900920859999, "http://i4.ytimg.com/", 9.589724695543998, "http://o-o.preferred.ams03g05.v18.lscache1.c.youtube.com/", 3.253711511754001, "http://s.youtube.com/", 2.6093317357705903, "http://s.ytimg.com/", 18.920579590634894, "http://s0.2mdn.net/", 4.835680130920404, "http://s2.youtube.com/", 2.9254308901532804, "http://www.youtube.com/", 10.646947466013264 ] ], [ "http://s0.2mdn.net/", [ "http://fr.uncle-bens-ad.08.08.11.s3.amazonaws.com/", 0.09356765811640952 ] ], [ "http://s010.media-clic.com/", [ "http://ad.360yield.com/", 0.19348639358921368, "http://s010.media-clic.com/", 0.19348639358921368 ] ], [ "http://s011.media-clic.com/", [ "http://ad-emea.doubleclick.net/", 0.06147507191386604, "http://ad.amgdgt.com/", 0.06147507191386604, "http://b.scorecardresearch.com/", 0.06147507191386604, "http://cdn.amgdgt.com/", 0.06147507191386604, "http://s0.2mdn.net/", 0.06147507191386604, "http://s001.media-clic.com/", 0.06147507191386604, "http://s011.media-clic.com/", 0.08827189813273068, "http://tags.bluekai.com/", 0.06147507191386604 ] ], [ "http://s7.addthis.com/", [ "http://ds.addthis.com/", 0.3955637293046472, "http://m.addthisedge.com/", 0.5450553230883983 ] ], [ "http://search.gomeo.com/", [ "http://akatracking.esearchvision.com/", 0.15728892704091438, "http://c.statcounter.com/", 0.10954050276063686, "http://fr.fotolia.com/", 0.1254566441873961, "http://rc23.overture.com/", 0.1254566441873961, "http://www.statcounter.com/", 0.10954050276063686 ] ], [ "http://seg.sharethis.com/", [ "http://b.scorecardresearch.com/", 0.5300809515584356 ] ], [ "http://servers.spout.org/", [ "http://dev.spout.org/", 0.1618981678804714, "http://forums.spout.org/", 0.1291330624760904, "http://servers.spout.org/", 0.27657603679580545, "http://static.spout.org/", 0.40763645841333007 ] ], [ "http://sharecash.org/", [ "http://static.sharecash.org/", 0.9285702433741843 ] ], [ "http://sidebar.gentoo.org/", [ "http://www.gentoo.org/", 0.5049273566456488 ] ], [ "http://signaturecraft.himynameisaj.me/", [ "http://gk.site5.com/", 0.18423105787817157, "http://www.site5.com/", 0.42514859510347247 ] ], [ "http://sis.amazon.com/", [ "http://c.www.endless.com/", 0.7097750350518064 ] ], [ "http://slipknotboy03.skyrock.com/", [ "http://aidps.atdmt.com/", 0.17389026825004902, "http://b.scorecardresearch.com/", 0.17389026825004902, "http://cdn.adnxs.com/", 0.17389026825004902, "http://e3.img.v4.skyrock.net/", 0.3254869123654761, "http://ib.adnxs.com/", 0.24968859030776255, "http://oas.skyregie.com/", 0.40242218077840053, "http://sky.estat.com/", 0.17389026825004902, "http://skyrock.com/", 0.24968859030776255, "http://static.v41.skyrock.net/", 1.1095705971335486, "http://www.facebook.com/", 0.24968859030776255 ] ], [ "http://sll.kewego.com/", [ "http://api.kewego.com/", 1.7525878825089243, "http://s.kewego.com/", 0.5990590053408805, "http://sa.kewego.com/", 0.6747775289816428, "http://ta.kewego.com/", 0.7527149304419817, "http://v.kewego.com/", 0.5363927041682115, "http://www.kewego.com/", 0.8284334540827438 ] ], [ "http://source-media.trafficjunky.net/", [ "http://ads.crakmedia.com/", 0.17482231309609197 ] ], [ "http://spout.org/", [ "http://www.spout.org/", 0.41785902800070807 ] ], [ "http://static.koreus.com/", [ "http://lp.longtailvideo.com/", 0.5682598277924588, "http://media2.koreus.com/", 1.6882402353670762, "http://media6.koreus.com/", 0.46021837698129037 ] ], [ "http://static.openx.gfsrv.net/", [ "http://static.openx.gfsrv.net/", 0.8484515893249028 ] ], [ "http://static.weborama.fr/", [ "http://elstatic.weborama.fr/", 0.14373287941479146, "http://l3static.weborama.fr/", 0.07673435908946291, "http://orpicom.solution.weborama.fr/", 0.06445350380093412 ] ], [ "http://static1.dmcdn.net/", [ "http://ad-emea.doubleclick.net/", 0.4018324634836641, "http://ad.auditude.com/", 0.6353761174741697, "http://audience.visiblemeasures.com/", 0.46021837698129037, "http://b.scorecardresearch.com/", 0.4018324634836641, "http://dailymotion.cdn.auditude.com/", 0.46021837698129037, "http://s0.2mdn.net/", 0.4018324634836641, "http://static1.dmcdn.net/", 0.5186042904789168, "http://video.od.visiblemeasures.com/", 0.5769902039765427, "http://www.dailymotion.com/", 0.6353761174741697, "http://www.google-analytics.com/", 0.5769902039765427 ] ], [ "http://store.razerzone.com/", [ "http://assets.razerzone.com/", 0.05169354788278111, "http://drh.img.digitalriver.com/", 0.20942514270460044, "http://drh1.img.digitalriver.com/", 0.11929280280641788, "http://drh2.img.digitalriver.com/", 0.0817376611821753, "http://eu.razerzone.com/", 0.0742266328573267, "http://store.razerzone.com/", 0.059204576207629665, "http://www.facebook.com/", 0.10427074615672081, "http://www.google-analytics.com/", 0.11178177448156941, "https://drh.img.digitalriver.com/", 0.06671560453247818, "https://eu.razerzone.com/", 0.06671560453247818 ] ], [ "http://streaming-scan-otaku-manga.over-blog.com/", [ "http://fdata.over-blog.com/", 1.1064102531622697, "http://fdata.over-blog.net/", 1.1719467489941802, "http://idata.over-blog.com/", 0.9098007656665347, "http://platform.twitter.com/", 1.0408737573303577, "http://r.skimresources.com/", 0.4510452948431553, "http://st.chatango.com/", 0.4510452948431553, "http://t.skimresources.com/", 0.4510452948431553, "https://apis.google.com/", 0.4510452948431553, "https://plusone.google.com/", 1.0408737573303577, "https://ssl.gstatic.com/", 0.4510452948431553 ] ], [ "http://strontkeverforum.com/", [ "http://strontkeverforum.com/", 0.3421062476045676 ] ], [ "http://tap2-cdn.rubiconproject.com/", [ "http://ad.yieldmanager.com/", 0.7317846546535122, "http://match.adsrvr.org/", 1.9116543432291524, "http://pixel.rubiconproject.com/", 2.1894160854077476, "http://www.wtp101.com/", 1.9116543432291524 ] ], [ "http://teamstarbug.fr/", [ "http://a0.twimg.com/", 1.474060504014537, "http://api.twitter.com/", 1.474060504014537, "http://teamstarbug.fr/", 13.039765997051665, "http://widgets.twimg.com/", 2.116599698072155, "http://www.google-analytics.com/", 1.6882402353670762 ] ], [ "http://tele2.lan/", [ "http://tele2.lan/", 0.0550786678311221 ] ], [ "http://textures.spout.org/", [ "http://dev.spout.org/", 0.1618981678804714, "http://forums.spout.org/", 0.1291330624760904, "http://textures.spout.org/", 0.26019348409361465 ] ], [ "http://topmcserv.fr/", [ "http://topmcserv.fr/", 0.26725404681443693 ] ], [ "http://tour2.redtubeplatinum.com/", [ "http://cdn-0.pics.dvdcdn.com/", 0.25349022030893986, "http://cdn-2.static.redtubeplatinum.com/", 0.11296846774637533 ] ], [ "http://translate.google.fr/", [ "http://csi.gstatic.com/", 1.2324002712703641, "http://lh5.googleusercontent.com/", 0.6378896673446866, "http://ssl.gstatic.com/", 1.0594458491370218, "http://translate.google.fr/", 4.039895222240452, "http://www.google.com/", 1.2027395851389213, "http://www.gstatic.com/", 0.6607889781581421, "https://apis.google.com/", 0.5628779129643157, "https://plus.google.com/", 1.1467909935985696 ] ], [ "http://ttbmanutan.solution.weborama.fr/", [ "http://elstatic.weborama.fr/", 0.754927594656727 ] ], [ "http://tubehentai.com/", [ "http://hentaijunkie.com/", 0.05921421333277566, "http://tubehentai.com/", 0.7615686986885806 ] ], [ "http://twitter.com/", [ "http://a0.twimg.com/", 0.1292552695077942, "http://api.twitter.com/", 0.0512432133551611, "http://d3j5vwomefv46c.cloudfront.net/", 0.05774421803454718, "http://p.twimg.com/", 0.07074622739331946, "http://twitpic.com/", 0.05774421803454718, "http://twitter.com/", 0.0512432133551611, "http://www.google-analytics.com/", 0.0512432133551611 ] ], [ "http://udmserve.net/", [ "http://edge.quantserve.com/", 0.1215351343148657, "http://pixel.quantserve.com/", 0.1215351343148657 ] ], [ "http://vacances.seloger.com/", [ "http://adserver.adtech.de/", 0.27288686107480287, "http://cdn.adnxs.com/", 0.22465690171562805, "http://js.himediads.com/", 0.15881453487528893, "http://vacances.seloger.com/", 4.075488531241338, "http://www.google-analytics.com/", 0.2333348752410991 ] ], [ "http://verywiki.net/", [ "http://verywiki.net/", 1.7089667228372174, "http://www.google-analytics.com/", 0.26942738501979324 ] ], [ "http://video.rutube.ru/", [ "http://al.rutube.ru/", 7.582757833038886, "http://bl.rutube.ru/", 9.992312770121305, "http://dbzhome.free.fr/", 1.3517113397826443, "http://img-5.rutube.ru/", 7.582757833038886, "http://img.rutube.ru/", 7.582757833038886, "http://rutube.ru/", 108.93950549600407, "http://tub.rutube.ru/", 15.71872387718677, "http://www.google-analytics.com/", 19.233795780610563, "http://www.tns-counter.ru/", 10.573575569059031 ] ], [ "http://video.unrulymedia.com/", [ "http://stats2.unrulymedia.com/", 0.10989743059985624, "http://stats3.unrulymedia.com/", 0.12330760385760423, "http://video.unrulymedia.com/", 0.5738657865677405, "http://www.youtube.com/", 0.10989743059985624, "https://plusone.google.com/", 0.25633932318424635 ] ], [ "http://videobb.com/", [ "http://videobb.com/", 3.512138865760031 ] ], [ "http://videos.partypoker.fr/", [ "http://videos.partypoker.fr/", 0.11275050977389979 ] ], [ "http://view.atdmt.com/", [ "http://ec.atdmt.com/", 0.1707923411535264, "http://ib.adnxs.com/", 0.6565825732037986, "http://pmu3.solution.weborama.fr/", 0.3003757074585706 ] ], [ "http://w.soundcloud.com/", [ "http://ak-media.soundcloud.com/", 0.7211624391605691, "http://api.soundcloud.com/", 1.611570060776897, "http://i1.sndcdn.com/", 0.2121779533424217, "http://w.soundcloud.com/", 0.20372849901639067, "http://www.google-analytics.com/", 0.7638681339906335 ] ], [ "http://wiki.ess3.net/", [ "http://ajax.aspnetcdn.com/", 0.5635497750656663, "http://ess.khhq.net/", 0.28600736888757466, "http://essentials3.net/", 5.05603777627694, "http://i.creativecommons.org/", 0.39237371302981244, "http://pagead2.googlesyndication.com/", 0.23032148971442115, "http://wiki.ess3.net/", 1.338884706539547, "http://www.google-analytics.com/", 0.5402966834206724 ] ], [ "http://wiki.netophonix.com/", [ "http://i.creativecommons.org/", 0.09211111184212672, "http://logv144.xiti.com/", 0.09211111184212672, "http://wiki.netophonix.com/", 0.3865517599528563, "http://www.google-analytics.com/", 0.10549477766534175 ] ], [ "http://wiki.sk89q.com/", [ "http://i.creativecommons.org/", 0.07919269687421426, "http://wiki.sk89q.com/", 0.2959902051069604 ] ], [ "http://wiki.winehq.org/", [ "http://upload.wikimedia.org/", 0.2674641927244462, "http://wiki.winehq.org/", 0.4700484575107842 ] ], [ "http://wn.com/", [ "http://cdn5.wn.com/", 0.17898599966038004, "http://cdn7.wn.com/", 0.17898599966038004, "http://d3io1k5o0zdpqr.cloudfront.net/", 0.2049925124315464, "http://edge.sharethis.com/", 0.2049925124315464, "http://i.ytimg.com/", 0.7511292806260382, "http://maps.googleapis.com/", 0.2049925124315464, "http://maps.gstatic.com/", 0.46505764014320916, "http://mt0.googleapis.com/", 0.2309990252027127, "http://mt1.googleapis.com/", 0.2049925124315464, "http://w.sharethis.com/", 0.2830120507450454 ] ], [ "http://www-open-opensocial.googleusercontent.com/", [ "http://ajax.googleapis.com/", 0.18423105787817157, "http://csi.gstatic.com/", 0.18423105787817157, "http://www-open-opensocial.googleusercontent.com/", 0.18423105787817157, "http://www.google-analytics.com/", 0.237768288372683, "http://www.google.com/", 0.31807413411445, "http://www.gstatic.com/", 0.18423105787817157 ] ], [ "http://www.20min.ch/", [ "http://20minro.wemfbox.ch/", 2.1457765990453503, "http://comcluster.cxense.com/", 2.1457765990453503, "http://et.twyn.com/", 2.1457765990453503, "http://soundcloud.com/", 11.940417556329379, "http://w1.sndcdn.com/", 6.677298605658995, "http://www.20min.ch/", 124.72202847676341, "http://www.google-analytics.com/", 2.4575561048895462, "https://a248.e.akamai.net/", 11.81920925835231, "https://apis.google.com/", 2.5912330343425074, "https://player.soundcloud.com/", 11.855988903257291 ] ], [ "http://www.3suisses.fr/", [ "http://ad.yieldmanager.com/", 0.15491737895425856, "http://col1.ip-label.net/", 0.06748201027247497, "http://dis.eu.criteo.com/", 0.17742674170829614, "http://eulerian.3suisses.fr/", 0.0940240460140827, "http://googleads.g.doubleclick.net/", 0.08999137302651251, "http://ppr.3sf.si3si.int/", 0.08999137302651251, "http://segment-pixel.invitemedia.com/", 0.08999137302651251, "http://www.3suisses.fr/", 8.654696011939942, "http://www.google-analytics.com/", 0.19430913168458022, "http://www.googleadservices.com/", 0.08999137302651251 ] ], [ "http://www.adobe.com/", [ "http://www.adobe.com/", 0.8239956984435927, "http://wwwimages.adobe.com/", 4.155610738637145 ] ], [ "http://www.adopteunmec.com/", [ "http://piwik.adopteunmec.com/", 0.4382040352989707, "http://s.adopteunmec.com/", 3.4943962814866625, "http://s4.adopteunmec.com/", 0.8202280660724318, "http://s5.adopteunmec.com/", 0.947569409663586, "http://s6.adopteunmec.com/", 0.947569409663586, "http://s8.adopteunmec.com/", 0.8202280660724318, "http://s9.adopteunmec.com/", 0.8838987378680084, "http://www.adopteunmec.com/", 0.5655453788901245, "http://www.facebook.com/", 0.6292160506857007, "http://www.google-analytics.com/", 0.6292160506857007 ] ], [ "http://www.advancedgraphics.eu/", [ "http://a1.idata.over-blog.com/", 0.6197289485153833, "http://a3.idata.over-blog.com/", 0.6197289485153833, "http://a4.idata.over-blog.com/", 0.7097750350518064, "http://fdata.over-blog.net/", 0.889867208124652, "http://idata.over-blog.com/", 0.889867208124652, "http://img.over-blog.com/", 3.321111544608078, "http://overblog.ezakus.net/", 0.6197289485153833, "http://www.advancedgraphics.eu/", 0.7097750350518064, "http://www.google-analytics.com/", 0.7097750350518064, "http://www.pagerank.fr/", 0.6197289485153833 ] ], [ "http://www.aeriagames.com/", [ "http://s.aeriastatic.com/", 1.6954411278425074, "http://www.aeriagames.com/", 0.9840152390164527, "http://www.google-analytics.com/", 1.2211572019584715, "http://www.youtube.com/", 0.5560715026647839 ] ], [ "http://www.androidgen.fr/", [ "http://188.165.12.99/", 0.09399576660408751, "http://images.intellitxt.com/", 0.15715497736572737, "http://www.androidgen.fr/", 0.21399826705120303 ] ], [ "http://www.anime-kun.net/", [ "http://www.anime-kun.net/", 0.30002019961921994 ] ], [ "http://www.anime-story.com/", [ "http://platform.twitter.com/", 2.4575561048895462, "http://static.ak.facebook.com/", 2.4575561048895462, "http://www.anime-story.com/", 31.631026451685813, "http://www.facebook.com/", 3.0811151165779385, "http://www.google-analytics.com/", 2.4575561048895462, "https://apis.google.com/", 2.4575561048895462, "https://pixel.mathtag.com/", 2.7693356107337426, "https://plusone.google.com/", 2.4575561048895462, "https://s-static.ak.facebook.com/", 2.4575561048895462, "https://ssl.gstatic.com/", 2.1457765990453503 ] ], [ "http://www.anime-stream.fr/", [ "http://cdn.tynt.com/", 0.5888054596093198, "http://de.tynt.com/", 0.5888054596093198, "http://ic.tynt.com/", 0.6743583896380245, "http://whos.amung.us/", 0.6743583896380245, "http://widgets.amung.us/", 0.5888054596093198, "http://www.anime-stream.fr/", 3.4120521505565713, "http://www.google-analytics.com/", 0.6743583896380245 ] ], [ "http://www.animeka.com/", [ "http://www.animeka.com/", 0.30102819716711476, "https://www.animeka.com/", 0.30102819716711476 ] ], [ "http://www.applicationandroid.fr/", [ "http://www.applicationandroid.fr/", 0.20136642489887535 ] ], [ "http://www.assurland.com/", [ "http://content.assurland.com/", 0.18873458274654709 ] ], [ "http://www.astonforex.com/", [ "http://my.astonforexpartners.com/", 0.1413727856141553, "http://www.astonforex.com/", 0.47561175557609814, "http://www.google-analytics.com/", 0.1254566441873961 ] ], [ "http://www.auboutdufil.com/", [ "http://api.twitter.com/", 0.11945548132733315, "http://cdn.api.twitter.com/", 0.11945548132733315, "http://graph.facebook.com/", 0.1368122606654927, "http://img.auboutdufil.com/", 0.1368122606654927, "http://rec72.net/", 0.11945548132733315, "http://www.auboutdufil.com/", 0.3971639507378853, "http://www.google-analytics.com/", 0.1368122606654927, "https://apis.google.com/", 0.1368122606654927, "https://plusone.google.com/", 0.1368122606654927, "https://ssl.gstatic.com/", 0.11945548132733315 ] ], [ "http://www.autoplus.fr/", [ "http://adserver.adtech.de/", 0.4382040352989707, "http://aka-cdn-ns.adtech.de/", 0.4382040352989707, "http://at02.alenty.com/", 0.5655453788901245, "http://cdn.adnxs.com/", 0.5018747070945475, "http://elstatic.weborama.fr/", 0.5018747070945475, "http://js.alenty.com/", 0.5018747070945475, "http://js.himediads.com/", 0.4382040352989707, "http://logi241.xiti.com/", 0.4382040352989707, "http://static.autoplus.fr/", 1.07491075325474, "http://www.autoplus.fr/", 0.8838987378680084 ] ], [ "http://www.autoreflex.com/", [ "http://files.autoreflex.com/", 0.06424522271393325, "http://photos.autoreflex.com/", 0.23977234905735825 ] ], [ "http://www.beead.fr/", [ "http://bs.serving-sys.com/", 0.1368122606654927, "http://connect.facebook.net/", 0.11945548132733315, "http://www.beead.fr/", 0.3103800540470875, "http://www.facebook.com/", 0.1368122606654927 ] ], [ "http://www.beezik.com/", [ "http://bs.serving-sys.com/", 0.29104518647039973, "http://connect.facebook.net/", 0.22551183322540902, "http://mediaplanning.netavenir.com/", 0.22551183322540902, "http://static.ak.fbcdn.net/", 0.22551183322540902, "http://ww17.smartadserver.com/", 0.5204119228278665, "http://www.beezik.com/", 1.9949123708401546, "http://www.google-analytics.com/", 0.22551183322540902, "https://apis.google.com/", 0.25827850984790435, "https://plusone.google.com/", 0.25827850984790435, "https://ssl.gstatic.com/", 0.22551183322540902 ] ], [ "http://www.blogg.org/", [ "http://css.blog-24.com/", 0.7200345599065168, "http://images.blog-24.com/", 1.2395173340042036, "http://www.123compteur.com/", 1.7542454467386328, "http://www.blogg.org/", 7.44240532431527, "http://www.google-analytics.com/", 0.9785872816145459 ] ], [ "http://www.blogger.com/", [ "http://img1.blogblog.com/", 0.27498382969124535 ] ], [ "http://www.boutique-enligne.net/", [ "http://connect.facebook.net/", 0.2009065974653265, "http://ecx.images-amazon.com/", 0.2592897112586693, "http://posegeluvmarisa.e-monsite.com/", 0.2009065974653265, "http://www.boutique-enligne.net/", 0.9306955198821109, "http://www.facebook.com/", 0.2884812681553404, "http://www.google-analytics.com/", 0.2300981543619979, "http://www.kit-graphik.com/", 0.2300981543619979, "https://apis.google.com/", 0.2300981543619979, "https://plusone.google.com/", 0.2300981543619979, "https://ssl.gstatic.com/", 0.2009065974653265 ] ], [ "http://www.buzzmoica.fr/", [ "http://cdn.innovid.com/", 0.18423105787817157, "http://cstatic.weborama.fr/", 0.31807413411445, "http://de.tynt.com/", 0.18423105787817157, "http://ic.tynt.com/", 0.18423105787817157, "http://medias.buzzmoica.fr/", 1.3693841115739749, "http://platform.twitter.com/", 0.3448427493617055, "http://s7.addthis.com/", 0.26453690361993853, "http://www.facebook.com/", 0.2109996731254273, "https://platform.twitter.com/", 0.2109996731254273, "https://plusone.google.com/", 0.2109996731254273 ] ], [ "http://www.buzzss.com/", [ "http://edge.sharethis.com/", 0.1254566441873961, "http://http5.mhvcdn.yacast.net/", 0.1254566441873961, "http://i1-js-13-2-01-10147-2153626807-i.init.cedexis-radar.net/", 0.10954050276063686, "http://ic.tynt.com/", 0.10954050276063686, "http://player.ebuzzing.com/", 0.2527857756014694, "http://radar.cedexis.com/", 0.15728892704091438, "http://report.init.cedexis-radar.net/", 0.1732050684676737, "http://w.sharethis.com/", 0.20503735132119194, "http://www.ebuzzingvideo2.com/", 0.23686963417471046, "http://www.facebook.com/", 0.15728892704091438 ] ], [ "http://www.cafepress.co.uk/", [ "http://content0.cpcache.com/", 0.10249134134520947, "http://content2.cpcache.com/", 0.08948870848798138, "http://content3.cpcache.com/", 0.08948870848798138, "http://content4.cpcache.com/", 0.08948870848798138, "http://content5.cpcache.com/", 0.10249134134520947, "http://d.monetate.net/", 0.08948870848798138, "http://i1.cpcache.com/", 0.16750450563134966, "http://stats.cafepress.com/", 0.10249134134520947, "http://www.cafepress.fr/", 0.08948870848798138, "http://www.google-analytics.com/", 0.16750450563134966 ] ], [ "http://www.caisse-epargne.fr/", [ "http://www.caisse-epargne.fr/", 2.289812460442613, "https://logs2.xiti.com/", 0.22551183322540902 ] ], [ "http://www.canalplus.fr/", [ "http://js.alenty.com/", 2.529573049612, "http://media.canal-plus.com/", 7.022396824295997, "http://platform.twitter.com/", 2.529573049612, "http://static.ak.facebook.com/", 2.529573049612, "http://widgets.twimg.com/", 2.529573049612, "http://www.facebook.com/", 2.529573049612, "https://media-pass.canal-plus.com/", 2.850489033518, "https://pass.canal-plus.com/", 2.529573049612, "https://plusone.google.com/", 2.529573049612, "https://s-static.ak.facebook.com/", 2.529573049612 ] ], [ "http://www.captainaruto.com/", [ "http://api.facebook.com/", 1.1142385553422705, "http://dark.gohan.free.fr/", 0.9728799326495942, "http://healihacn.free.fr/", 0.9728799326495942, "http://images.wonaruto.com/", 0.9728799326495942, "http://logv26.xiti.com/", 1.1142385553422705, "http://static.ak.fbcdn.net/", 1.6796730461129745, "http://www.captainaruto.com/", 7.808354913872482, "http://www.google-analytics.com/", 0.7936475363911988, "http://www.gralon.net/", 0.4335480547984206, "https://ajax.googleapis.com/", 0.2200708424874122 ] ], [ "http://www.centre-nature-osca.com/", [ "http://www.centre-nature-osca.com/", 1.2190278521106266, "http://www.google-analytics.com/", 0.18680630232868342 ] ], [ "http://www.chalets-booz.com/", [ "http://www.chalets-booz.com/", 0.7171823214309172, "http://www.google-analytics.com/", 0.17546687334884928 ] ], [ "http://www.charactercreator.net/", [ "http://api-public.addthis.com/", 0.18423105787817157, "http://apifiles.ngfiles.com/", 0.26453690361993853, "http://c.statcounter.com/", 0.18423105787817157, "http://s7.addthis.com/", 0.2913055188671944, "http://themes.googleusercontent.com/", 0.18423105787817157, "http://www.charactercreator.net/", 0.26453690361993853, "http://www.ngads.com/", 0.237768288372683, "http://www.statcounter.com/", 0.18423105787817157, "https://apis.google.com/", 0.18423105787817157, "https://plusone.google.com/", 0.2109996731254273 ] ], [ "http://www.chromethemes.org/", [ "http://www.chromethemes.org/", 0.34549841764329836 ] ], [ "http://www.chucknorrisfacts.fr/", [ "http://www.chucknorrisfacts.fr/", 0.734090844514118, "http://www.google-analytics.com/", 0.5991768514682801 ] ], [ "http://www.collegehumor.com/", [ "http://0.static.collegehumor.cvcdn.com/", 0.28413164728627643, "http://1.static.collegehumor.cvcdn.com/", 0.3254157327894106, "http://b.scorecardresearch.com/", 0.3254157327894106, "http://www.google-analytics.com/", 0.28413164728627643 ] ], [ "http://www.commentcamarche.net/", [ "http://aimfar.solution.weborama.fr/", 0.3447673369264391, "http://cdn.aimfar.solution.weborama.fr/", 0.3447673369264391, "http://data07.adlooxtracking.com/", 0.3447673369264391, "http://firewall.adlooxtracking.com/", 0.30102819716711476, "http://platform.twitter.com/", 1.2772888326061111, "http://static.ccm2.net/", 5.868178640953233, "http://static.commentcamarche.net/", 0.8473689548665554, "http://static.weborama.fr/", 0.3447673369264391, "http://www.commentcamarche.net/", 0.8898628413169318, "http://www.facebook.com/", 1.2772888326061111 ] ], [ "http://www.curse.com/", [ "http://cursecom.ivwbox.de/", 1.7529842543438134, "http://media-curse.cursecdn.com/", 3.0265198237388913, "http://platform.twitter.com/", 5.749384568558352, "http://static-curse.cursecdn.com/", 33.23553179117007, "http://static.ak.facebook.com/", 2.007691368222829, "http://themes.googleusercontent.com/", 3.726230680590499, "http://www.facebook.com/", 2.9693608504855873, "http://www.google-analytics.com/", 3.0265198237388913, "https://platform.twitter.com/", 2.5171055959808606, "https://s-static.ak.facebook.com/", 2.9693608504855873 ] ], [ "http://www.curseforge.com/", [ "http://b.scorecardresearch.com/", 3.1152098481147172, "http://edge.quantserve.com/", 2.066525344788971, "http://pixel.quantserve.com/", 2.066525344788971, "http://secure-us.imrworldwide.com/", 2.5908675964518446, "http://www.curseforge.com/", 6.696467426972142, "http://www.google-analytics.com/", 4.1638943514404625 ] ], [ "http://www.cyprien.fr/", [ "http://connect.facebook.net/", 0.5314094801230252, "http://static.ak.facebook.com/", 2.529573049612, "http://www.cyprien.fr/", 2.9919130431045624, "http://www.facebook.com/", 0.8829099891203878, "http://www.google-analytics.com/", 0.8829099891203878, "http://www.monsieurdream.com/", 0.5314094801230252, "http://www.youtube.com/", 7.209919151072913, "https://s-static.ak.facebook.com/", 2.529573049612 ] ], [ "http://www.da-ads.com/", [ "http://adcast.deviantart.com/", 1.1937374967946544, "http://hstfr.tradedoubler.com/", 1.1937374967946544, "http://imagenen1.247realmedia.com/", 0.22650853854979414, "http://impfr.tradedoubler.com/", 1.0422931874998105, "http://mfr.247realmedia.com/", 0.5293971571394824, "http://pagead2.googlesyndication.com/", 0.19777238067407402, "http://partner.googleadservices.com/", 0.11488580689734677, "http://pubads.g.doubleclick.net/", 0.5293971571394824 ] ], [ "http://www.dailymotion.com/", [ "http://ajax.aspnetcdn.com/", 1.474060504014537, "http://audience.visiblemeasures.com/", 0.5071657706698942, "http://b.scorecardresearch.com/", 0.45006763754811774, "http://cdn.visiblemeasures.com/", 0.3929695044263417, "http://prof.estat.com/", 0.11421502048370165, "http://static1.dmcdn.net/", 1.1595896440966633, "http://static2.dmcdn.net/", 0.4727601315063887, "http://vid.ec.dmcdn.net/", 0.3929695044263417, "http://video.od.visiblemeasures.com/", 0.6213620369134465, "http://www.dailymotion.com/", 0.4147398123201801 ] ], [ "http://www.dbz-fantasy.com/", [ "http://api.tweetmeme.com/", 1.548113842144225, "http://connect.facebook.net/", 1.3517113397826443, "http://platform.twitter.com/", 1.548113842144225, "http://static.ak.fbcdn.net/", 2.137321349228967, "http://www.dbz-fantasy.com/", 2.9229313586752905, "http://www.facebook.com/", 2.7265288563137093, "http://www.i-tchat.com/", 1.548113842144225, "https://apis.google.com/", 1.548113842144225, "https://plusone.google.com/", 1.548113842144225, "https://www.facebook.com/", 1.548113842144225 ] ], [ "http://www.ddl-streaming.com/", [ "http://a35.idata.over-blog.com/", 1.548113842144225, "http://e1.extreme-dm.com/", 1.3517113397826443, "http://fdata.over-blog.net/", 1.9409188468673864, "http://i42.servimg.com/", 6.654578903545322, "http://overblog.ezakus.net/", 1.3517113397826443, "http://whos.amung.us/", 1.3517113397826443, "http://widgets.amung.us/", 1.3517113397826443, "http://www.ddl-streaming.com/", 1.7445163445058063, "http://www.google-analytics.com/", 1.3517113397826443, "http://xdstream.net/", 1.548113842144225 ] ], [ "http://www.deezer.com/", [ "http://cdn-files.deezer.com/", 2.8683958367441824, "http://cdn-images.deezer.com/", 4.534203356840958, "http://connect.facebook.net/", 0.5211216038805425, "http://external.ak.fbcdn.net/", 1.202588316647405, "http://images.deezer.com/", 0.5211216038805425, "http://live-test.deezer.com/", 0.5968401275213049, "http://static.ak.fbcdn.net/", 0.6725586511620676, "http://ww400.smartadserver.com/", 0.7482771748028294, "http://www.deezer.com/", 0.5968401275213049, "http://www.google-analytics.com/", 0.6725586511620676 ] ], [ "http://www.demotivateur.fr/", [ "http://de.tynt.com/", 0.30984961572685843, "http://ic.tynt.com/", 0.30984961572685843, "http://platform.twitter.com/", 0.9851628807725749, "http://www.demotivateur.fr/", 2.13507749655874, "http://www.facebook.com/", 0.35487050006323956, "https://graph.facebook.com/", 0.8784158675189038, "https://plusone.google.com/", 0.35487050006323956, "https://s-static.ak.fbcdn.net/", 0.35487050006323956, "https://ssl.gstatic.com/", 0.30984961572685843, "https://www.facebook.com/", 1.1719360513027246 ] ], [ "http://www.dessins-animes.net/", [ "http://i45.servimg.com/", 1.2395173340042036, "http://illiweb.com/", 1.2395173340042036, "http://img11.hostingpics.net/", 1.2395173340042036, "http://img188.imageshack.us/", 1.4196181432184896, "http://js01.fra.co/", 1.7798197616470612, "http://r11.imgfast.net/", 2.673119775349919, "http://www.dessins-animes.net/", 1.8950842795442047, "http://www.patmax.eu/", 13.734911477291359, "http://www.pixenli.com/", 1.2395173340042036, "https://lh4.googleusercontent.com/", 1.2395173340042036 ] ], [ "http://www.dorkly.com/", [ "http://1.static.dorkly.cvcdn.com/", 0.8937131694272907, "http://b.scorecardresearch.com/", 0.8279304557220488 ] ], [ "http://www.ebooksgratuits.com/", [ "http://www.ebooksgratuits.com/", 0.47721697686676523, "https://www.paypal.com/", 0.23684101814869113 ] ], [ "http://www.ebuzzingvideo2.com/", [ "http://i1.ytimg.com/", 0.1413727856141553, "http://i2.ytimg.com/", 0.1254566441873961, "http://i4.ytimg.com/", 0.15728892704091438, "http://s.ytimg.com/", 0.1413727856141553, "http://www.ebuzzingvideo2.com/", 0.9109490051132179, "http://www.google-analytics.com/", 0.1413727856141553, "http://www.youtube.com/", 0.1413727856141553 ] ], [ "http://www.echolalie.org/", [ "http://claude.eich.pagesperso-orange.fr/", 0.4918713301294032, "http://lemomo2.pagesperso-orange.fr/", 0.7062767817242704, "http://nikosolo.voila.net/", 0.7062767817242704, "http://pagesperso-orange.fr/", 0.7062767817242704, "http://www.bombe-lacrymogene.com/", 0.4918713301294032, "http://www.echolalie.org/", 0.8492137494541826, "http://www.tahiti-tourisme.pf/", 0.4918713301294032, "https://apis.google.com/", 0.5633398139943591, "https://plusone.google.com/", 0.5633398139943591, "https://ssl.gstatic.com/", 0.4918713301294032 ] ], [ "http://www.epicfail.com/", [ "http://n4403ad.doubleclick.net/", 0.28413164728627643, "http://pic.epicfail.com/", 1.4400860413740324, "http://platform.twitter.com/", 0.4455531607137472, "http://s0.2mdn.net/", 0.28413164728627643, "http://static.ak.facebook.com/", 0.4079839037956786, "http://uat-net.technoratimedia.com/", 0.28413164728627643, "http://www.epicfail.com/", 2.149374676827435, "http://www.facebook.com/", 0.7637455639182256, "http://www.stumbleupon.com/", 0.5318361603050812, "https://s-static.ak.facebook.com/", 0.3254157327894106 ] ], [ "http://www.facebook.com/", [ "http://external.ak.fbcdn.net/", 2.2086570657060003, "http://profile.ak.fbcdn.net/", 2.345165661812453, "http://static.ak.fbcdn.net/", 2.5618989397546934 ] ], [ "http://www.fan-de-dbz.com/", [ "http://logv10.xiti.com/", 1.3517113397826443, "http://platform.twitter.com/", 1.548113842144225, "http://www.e-monsite.com/", 4.536181513073314, "http://www.facebook.com/", 1.548113842144225, "http://www.fan-de-dbz.com/", 16.431181227101035, "http://www.google-analytics.com/", 1.548113842144225, "http://www.google.com/", 1.3517113397826443, "http://www.gravatar.com/", 2.3337238515905483, "http://www.traducteurenligne.net/", 7.270182906947459, "https://plusone.google.com/", 1.548113842144225 ] ], [ "http://www.fbay.tv/", [ "http://www.fbay.tv/", 0.15980905193389658 ] ], [ "http://www.flickr.com/", [ "http://b.scorecardresearch.com/", 1.2395173340042036, "http://farm3.staticflickr.com/", 2.680323807718491, "http://geo.yahoo.com/", 1.4196181432184896, "http://l.yimg.com/", 3.760928663004208 ] ], [ "http://www.fnac.com/", [ "http://api.zanox.ws/", 0.2300981543619979, "http://autocompletion.fnac.com/", 0.7847377353987541, "http://fnac.livechat.iadvize.com/", 0.2009065974653265, "http://fstatic.iadvize.com/", 0.2009065974653265, "http://ib.adnxs.com/", 0.2009065974653265, "http://likemastr.com/", 0.2009065974653265, "http://multimedia.fnac.com/", 0.6679715078120682, "http://static.fnac-static.com/", 0.697163064708739, "http://www4-fr.fnac-static.com/", 1.0766533043654674, "http://www4.fnac.com/", 0.2592897112586693 ] ], [ "http://www.foxystream.org/", [ "http://rutube.ru/", 0.06495614182538301, "http://video.rutube.ru/", 0.06495614182538301, "http://www.foxystream.org/", 0.13055541376784893, "http://www.pubdirecte.com/", 0.05402292983497204 ] ], [ "http://www.francecrack.com/", [ "http://www.francecrack.com/", 0.13389666617460894 ] ], [ "http://www.funtoo-quebec.org/", [ "https://www.funtoo-quebec.org/", 0.39619143795516815 ] ], [ "http://www.futurama-stream.eu/", [ "http://edge.sharethis.com/", 0.1715891493018651, "http://seg.sharethis.com/", 0.1715891493018651, "http://w.sharethis.com/", 0.2804330126649884, "http://wd.sharethis.com/", 0.23689546731973904, "http://www.facebook.com/", 0.34573933068286256, "http://www.futurama-stream.eu/", 0.6287333754269828, "https://apis.google.com/", 0.1715891493018651, "https://plusone.google.com/", 0.34573933068286256, "https://ssl.gstatic.com/", 0.1498203766292404, "https://www.vpntunnel.se/", 0.1715891493018651 ] ], [ "http://www.fyreuk.com/", [ "http://connect.facebook.net/", 0.08948870848798138, "http://platform.twitter.com/", 0.2563611699036348, "http://www.facebook.com/", 0.2898428454899342, "http://www.fyreuk.com/", 0.13771162497611442, "http://www.google-analytics.com/", 0.08948870848798138, "http://www.youtube.com/", 0.15591614314473662, "https://apis.google.com/", 0.08948870848798138, "https://plusone.google.com/", 0.2563611699036348, "https://s-static.ak.fbcdn.net/", 0.05547111638583844 ] ], [ "http://www.gaara-fr.com/", [ "http://213.225.160.97/", 1.0099031398719125, "http://213.225.160.97:9090/", 0.5849438978466032, "http://a01.gestionpub.com/", 0.8399194430617882, "http://hades.bubblestat.com/", 0.924911291466851, "http://primura.n-serv.fr/", 0.669935746251665, "http://www.facebook.com/", 0.669935746251665, "http://www.gaara-fr.com/", 2.7947319563782114, "http://www.google-analytics.com/", 0.754927594656727, "http://zeus.bubblestat.com/", 0.754927594656727, "https://pixel.mathtag.com/", 0.754927594656727 ] ], [ "http://www.gamekult.com/", [ "http://images.gamekult.com/", 1.7445163445058063, "http://img.metaboli.fr/", 1.3517113397826443, "http://logc7.xiti.com/", 1.3517113397826443, "http://multimedia.fnac.com/", 1.7445163445058063, "http://platform0.twitter.com/", 1.548113842144225, "http://static.gamekult.com/", 3.9049438704831934, "http://w.estat.com/", 1.3517113397826443, "http://www.facebook.com/", 2.3337238515905483, "http://www.google-analytics.com/", 1.7445163445058063, "https://s-static.ak.fbcdn.net/", 1.548113842144225 ] ], [ "http://www.gametronik.com/", [ "http://213.225.160.97/", 0.9799132946610762, "http://213.225.160.97:9090/", 0.6197289485153833, "http://a01.gestionpub.com/", 0.6577644154683678, "http://hades.bubblestat.com/", 0.7594084379506827, "http://in.bubblestat.com/", 0.528494253636679, "http://j.adlooxtracking.com/", 0.2699539299733008, "http://static.pubdirecte.com/", 0.6197289485153833, "http://www.gametronik.com/", 11.930850099570929, "http://www.pubdirecte.com/", 0.6197289485153833, "http://zeus.bubblestat.com/", 0.5400921895825704 ] ], [ "http://www.gearsofcraft.fr/", [ "http://www.gearsofcraft.fr/", 0.2673408844922918 ] ], [ "http://www.gentoo.org/", [ "http://images.paypal.com/", 0.292457924393767, "http://sidebar.gentoo.org/", 0.3349518108441434, "http://www.gentoo.org/", 0.3349518108441434 ] ], [ "http://www.google.be/", [ "http://images.blog-24.com/", 0.8180814404427742, "http://imageshack.us/", 1.2395173340042036, "http://img188.imageshack.us/", 1.4196181432184896, "http://t1.gstatic.com/", 1.2395173340042036, "http://www.blogg.org/", 0.9369479745242031, "http://www.dessins-animes.net/", 1.4196181432184896, "http://www.google.be/", 1.7762177454627752 ] ], [ "http://www.grosbill.com/", [ "http://images.grosbill.com/", 0.09399576660408751, "http://rainbow.mythings.com/", 0.05610024014710362, "http://www.grosbill.com/", 0.2455778724320231, "https://images.grosbill.com/", 0.08767984552792349 ] ], [ "http://www.gstatic.com/", [ "http://translate.google.fr/", 0.7998211215882297 ] ], [ "http://www.habbo.fr/", [ "http://connect.facebook.net/", 0.5849438978466032, "http://edge.quantserve.com/", 0.5849438978466032, "http://fls.doubleclick.net/", 0.669935746251665, "http://habbo.hs.llnwd.net/", 0.669935746251665, "http://images.habbo.com/", 1.3498705334921601, "http://pixel.quantserve.com/", 0.5849438978466032, "http://static.ak.fbcdn.net/", 0.5849438978466032, "http://www.facebook.com/", 0.669935746251665, "http://www.google-analytics.com/", 0.5849438978466032, "https://s-static.ak.fbcdn.net/", 0.669935746251665 ] ], [ "http://www.hentaifr.net/", [ "http://ads.regieadulte.com/", 0.11053854639799031, "http://www.allosponsor.com/", 0.07455877742446801, "http://www.hentaifr.net/", 0.47869242820763785 ] ], [ "http://www.hentaigratuit.org/", [ "http://acces.direction-x.com/", 0.09673855779306939, "http://clients1.google.com/", 0.0844657556849934, "http://j.hentaigratuit.org/", 0.10901135990114534, "http://logv19.xiti.com/", 0.09673855779306939, "http://omg.esprit-click.com/", 0.12128416200922125, "http://promo.vador.com/", 0.10901135990114534, "http://www.facebook.com/", 0.12128416200922125, "http://www.google.com/", 0.1335569641172973, "http://www.hentaigratuit.org/", 0.6367418505484115, "https://plusone.google.com/", 0.12128416200922125 ] ], [ "http://www.hentaistreaming.fr/", [ "http://www.hentaistreaming.fr/", 0.107406589976171 ] ], [ "http://www.hentaitube.tv/", [ "http://www.hentaitube.tv/", 0.5653176785546866 ] ], [ "http://www.hitglory.com/", [ "http://www.hitglory.com/", 1.1668059727727658 ] ], [ "http://www.i-tchat.com/", [ "http://www.google-analytics.com/", 0.4354061700182738, "http://www.i-tchat.com/", 0.6154674110811607 ] ], [ "http://www.iicdn.com/", [ "http://optimized-by.rubiconproject.com/", 2.1894160854077476, "http://www.iicdn.com/", 1.9116543432291524 ] ], [ "http://www.jeu-a-telecharger.com/", [ "http://ad.himediadx.com/", 0.5211216038805425, "http://asset.email-match.com/", 0.5211216038805425, "http://atout.email-match.com/", 0.5968401275213049, "http://ib.adnxs.com/", 0.5211216038805425, "http://m.boonty.com/", 0.5211216038805425, "http://www.google-analytics.com/", 0.5211216038805425, "http://www.jeu-a-telecharger.com/", 0.9754327457251174 ] ], [ "http://www.jeux-hentai.fr/", [ "http://connect.facebook.net/", 0.0844657556849934, "http://static.ak.connect.facebook.com/", 0.10901135990114534, "http://static.ak.fbcdn.net/", 0.0844657556849934, "http://www.facebook.com/", 0.09673855779306939, "http://www.google-analytics.com/", 0.0844657556849934, "http://www.jeux-hentai.fr/", 0.3176489957384365, "http://www.siteadulte.net/", 0.0844657556849934, "http://www.traficmax.com/", 0.1458297662253731 ] ], [ "http://www.jeuxactu.com/", [ "http://forums.jeuxactu.com/", 1.3517113397826443, "http://i.jeuxactus.com/", 15.492691509816456, "http://img.filmsactu.net/", 1.9409188468673864, "http://img.musiquemag.fr/", 2.9229313586752905, "http://prof.estat.com/", 1.548113842144225, "http://soluce.jeuxactu.com/", 2.137321349228967, "http://www.facebook.com/", 1.548113842144225, "http://www.google-analytics.com/", 1.548113842144225, "http://www.jeuxactu.com/", 2.9229313586752905, "https://plusone.google.com/", 1.548113842144225 ] ], [ "http://www.jeuxvideo.com/", [ "http://b.scorecardresearch.com/", 1.3132281179390324, "http://image.jeuxvideo.com/", 8.373232273354853, "http://platform.twitter.com/", 2.172151721790815, "http://prof.estat.com/", 1.504039041058379, "http://www.jeuxvideo.com/", 7.2063794675523285, "https://apis.google.com/", 1.801239989457182, "https://plusone.google.com/", 2.543063454124448, "https://s-static.ak.fbcdn.net/", 1.801239989457182, "https://ssl.gstatic.com/", 1.3132281179390324, "https://www.facebook.com/", 2.543063454124448 ] ], [ "http://www.jinx.com/", [ "http://www.jinx.com/", 0.18870417781368654 ] ], [ "http://www.joueurdugrenier.fr/", [ "http://firewall.adlooxtracking.com/", 0.35798916551274285, "http://platform.twitter.com/", 0.5660512446141659, "http://player.ebuzzing.com/", 0.5463871816156906, "http://www.dailymotion.com/", 0.4100046852880986, "http://www.ebuzzingvideo2.com/", 0.8445145461727206, "http://www.joueurdugrenier.fr/", 4.599123658697901, "http://www.youtube.com/", 0.4100046852880986, "https://apis.google.com/", 0.4100046852880986, "https://plusone.google.com/", 0.4100046852880986, "https://ssl.gstatic.com/", 0.35798916551274285 ] ], [ "http://www.kalon.fr/", [ "http://ajax.googleapis.com/", 0.17898599966038004, "http://connect.facebook.net/", 0.17898599966038004, "http://platform.twitter.com/", 0.2049925124315464, "http://www.facebook.com/", 0.2049925124315464, "http://www.google-analytics.com/", 0.2049925124315464, "http://www.kalon.fr/", 0.9591813827953697, "https://apis.google.com/", 0.2049925124315464, "https://platform.twitter.com/", 0.17898599966038004, "https://plusone.google.com/", 0.2049925124315464, "https://ssl.gstatic.com/", 0.17898599966038004 ] ], [ "http://www.keskeces.com/", [ "http://csi.gstatic.com/", 0.8764500978772359, "http://khm0.googleapis.com/", 1.7678822487096373, "http://khm1.googleapis.com/", 1.7678822487096373, "http://maps.googleapis.com/", 1.5131873484718084, "http://maps.gstatic.com/", 2.531966949423124, "http://mt0.googleapis.com/", 2.4046194993042103, "http://mt1.googleapis.com/", 2.6593143995420396, "http://s7.addthis.com/", 1.5131873484718084, "http://www.google-analytics.com/", 1.0037975479961505, "http://www.keskeces.com/", 3.1687042000176975 ] ], [ "http://www.kmde.fr/", [ "http://www.google-analytics.com/", 0.09673855779306939, "http://www.kmde.fr/", 0.6244690484403354 ] ], [ "http://www.koopa.fr/", [ "http://bestnews.fr/", 1.2395173340042036, "http://news.webplanete.net/", 1.2395173340042036, "http://platform.tumblr.com/", 1.2395173340042036, "http://platform.twitter.com/", 1.4196181432184896, "http://s10.histats.com/", 1.2395173340042036, "http://s4.histats.com/", 1.2395173340042036, "http://static.ak.fbcdn.net/", 1.5997189524327757, "http://www.gamekyo.com/", 1.7762177454627752, "http://www.google-analytics.com/", 1.4196181432184896, "http://www.koopa.fr/", 17.682721215268515 ] ], [ "http://www.koreus.com/", [ "http://apis.google.com/", 1.474060504014537, "http://connect.facebook.net/", 1.474060504014537, "http://platform.twitter.com/", 1.9024199667196162, "http://static.koreus.cdn.li/", 4.258397011597549, "http://static.koreus.com/", 1.474060504014537, "http://www.facebook.com/", 1.6882402353670762, "http://www.google-analytics.com/", 1.6882402353670762, "http://www.google.com/", 1.6882402353670762, "https://plusone.google.com/", 0.7321035915127305, "https://ssl.gstatic.com/", 0.47938915725175785 ] ], [ "http://www.laredoute.fr/", [ "http://media.laredoute.fr/", 4.476628616883277, "http://service.avail.net/", 0.22695669248643244, "http://www.facebook.com/", 0.669935746251665, "http://www.google-analytics.com/", 0.18684567320326312, "http://www.laredoute.fr/", 2.219886392391133, "https://apis.google.com/", 0.30679595747561667, "https://plusone.google.com/", 0.271837521608325, "https://s-static.ak.fbcdn.net/", 0.271837521608325, "https://service.avail.net/", 0.22695669248643244, "https://ssl.gstatic.com/", 0.5849438978466032 ] ], [ "http://www.lefigaro.fr/", [ "http://aka-cdn-ns.adtech.de/", 0.05274485950527631, "http://platform.twitter.com/", 0.05274485950527631, "http://plus.lefigaro.fr/", 0.1665005639606856, "http://www.facebook.com/", 0.07951090761243133, "http://www.lefigaro.fr/", 0.9694820071753414, "https://plusone.google.com/", 0.05274485950527631, "https://s-static.ak.fbcdn.net/", 0.05274485950527631 ] ], [ "http://www.leo-asso.com/", [ "http://www.leo-asso.com/", 0.451817449128332 ] ], [ "http://www.librairiedialogues.fr/", [ "http://media.leslibraires.fr/", 1.5889557859378587, "http://platform.twitter.com/", 0.2668880129884505, "http://www.google-analytics.com/", 0.23684101814869113, "http://www.google.com/", 0.2067940233089318, "http://www.librairiedialogues.fr/", 0.2668880129884505, "https://apis.google.com/", 0.23684101814869113, "https://plusone.google.com/", 0.23684101814869113 ] ], [ "http://www.livejasmin.com/", [ "http://80.77.113.200/", 0.5682905450749104, "http://80.77.113.200:8080/", 0.5682905450749104, "http://img.livejasmin.com/", 0.5682905450749104, "http://img0.livejasmin.com/", 1.482699613830781, "http://img1.livejasmin.com/", 1.5742845849827536, "http://img2.livejasmin.com/", 1.7671956501786719, "http://img3.livejasmin.com/", 1.5284920994067661, "http://members.livejasmin.com/", 0.5682905450749104, "http://www.livejasmin.com/", 0.41827475824917587 ] ], [ "http://www.logitech.com/", [ "http://cdn.api.twitter.com/", 0.05022183257455833, "http://cdn.gigya.com/", 0.14508529410427948, "http://connect.facebook.net/", 0.05022183257455833, "http://gscounters.gigya.com/", 0.05751902192299845, "http://ots.optimize.webtrends.com/", 0.05751902192299845, "http://statse.webtrendslive.com/", 0.06481621127143854, "http://view.atdmt.com/", 0.05751902192299845, "http://www.google-analytics.com/", 0.05751902192299845, "http://www.logitech.com/", 0.714266063282607, "https://graph.facebook.com/", 0.05022183257455833 ] ], [ "http://www.lyceepeytavin.com/", [ "http://b.static.ak.fbcdn.net/", 0.22551183322540902, "http://www.lyceepeytavin.com/", 0.745909171576141 ] ], [ "http://www.lyricsfreak.com/", [ "http://b.scorecardresearch.com/", 0.08331724423681021, "http://cdn.clickfuse.com/", 0.06645542099840819, "http://pixel.quantserve.com/", 0.05802450937920714, "http://platform.twitter.com/", 0.0748863326176092, "http://srv.clickfuse.com/", 0.0748863326176092, "http://www.facebook.com/", 0.06645542099840819, "http://www.google-analytics.com/", 0.06645542099840819, "https://apis.google.com/", 0.06645542099840819, "https://plusone.google.com/", 0.06645542099840819, "https://ssl.gstatic.com/", 0.05802450937920714 ] ], [ "http://www.lyricsmode.com/", [ "http://cdn.clickfuse.com/", 0.3254157327894106, "http://pixel.quantserve.com/", 0.28413164728627643, "http://static.ak.facebook.com/", 0.4079839037956786, "http://www.facebook.com/", 0.3254157327894106, "http://www.google-analytics.com/", 0.3254157327894106, "http://www.lyricsmode.com/", 0.9446770153364229, "https://apis.google.com/", 0.3254157327894106, "https://plusone.google.com/", 0.3254157327894106, "https://s-static.ak.facebook.com/", 0.3254157327894106, "https://ssl.gstatic.com/", 0.28413164728627643 ] ], [ "http://www.lyricsty.com/", [ "http://ad.yieldmanager.com/", 0.36669981829254483, "http://edge.quantserve.com/", 0.28413164728627643, "http://overlay.ringtonematcher.com/", 0.28413164728627643, "http://ox-d.hypeads.org/", 0.36669981829254483, "http://tags.hypeads.org/", 0.28413164728627643, "http://www.lyricsty.com/", 0.61440433131135, "https://ajax.googleapis.com/", 0.28413164728627643 ] ], [ "http://www.m-games-club.com/", [ "http://www.google-analytics.com/", 0.17742674170829614, "http://www.m-games-club.com/", 0.7851795360673096, "https://apis.google.com/", 0.17742674170829614, "https://ssl.gstatic.com/", 0.15491737895425856 ] ], [ "http://www.manga-space.com/", [ "http://mangaspace.over-blog.com/", 0.0684028501419495, "http://platform.twitter.com/", 0.115343119493908, "http://www.linkedin.com/", 0.06814582552156487, "https://plusone.google.com/", 0.11105245640551327 ] ], [ "http://www.mcskinsearch.com/", [ "http://www.google-analytics.com/", 0.18423105787817157, "http://www.mcskinsearch.com/", 0.558991671339751 ] ], [ "http://www.mediafire.com/", [ "http://199.91.153.169/", 0.1254566441873961, "http://b.scorecardresearch.com/", 0.22095349274795115, "http://cdn.adnxs.com/", 0.10954050276063686, "http://ib.adnxs.com/", 0.1413727856141553, "http://optimized-by.rubiconproject.com/", 0.2527857756014694, "http://tap-cdn.rubiconproject.com/", 0.15728892704091438, "http://tap.rubiconproject.com/", 0.15728892704091438, "http://tap2-cdn.rubiconproject.com/", 0.7826684773337255, "http://www.mediafire.com/", 0.7826684773337255, "https://s-static.ak.fbcdn.net/", 0.1254566441873961 ] ], [ "http://www.megavod.fr/", [ "http://storage15.cellcastmedia.com/", 0.5849438978466032, "http://storage16.cellcastmedia.com/", 0.669935746251665, "http://storage19.cellcastmedia.com/", 0.5849438978466032, "http://storage20.cellcastmedia.com/", 0.669935746251665, "http://storage22.cellcastmedia.com/", 0.5849438978466032, "http://storage25.cellcastmedia.com/", 0.669935746251665, "http://storage27.cellcastmedia.com/", 0.754927594656727, "http://storage28.cellcastmedia.com/", 0.754927594656727, "http://storage29.cellcastmedia.com/", 0.669935746251665, "http://www.megavod.fr/", 3.729642288833895 ] ], [ "http://www.minecraft-france.fr/", [ "http://0.gravatar.com/", 0.65515940628503, "http://1.gravatar.com/", 0.8213938825066047, "http://brickforce.fr/", 0.5720421681742425, "http://i.imgur.com/", 0.8213938825066047, "http://logv1.xiti.com/", 0.5720421681742425, "http://twitter.com/", 0.65515940628503, "http://www.castlestory-france.fr/", 0.65515940628503, "http://www.minecraft-france.fr/", 8.647926951066381, "https://apis.google.com/", 0.65515940628503, "https://plusone.google.com/", 0.65515940628503 ] ], [ "http://www.minecraft.fr/", [ "http://minecraft.fr/", 0.1254566441873961 ] ], [ "http://www.minecraft.net/", [ "http://ajax.googleapis.com/", 0.0897063999173201, "http://www.google-analytics.com/", 0.20860955541851345, "http://www.minecraft.net/", 1.1145825246003143, "https://apis.google.com/", 0.12585589802340924, "https://plusone.google.com/", 0.12585589802340924, "https://www.facebook.com/", 0.12585589802340924, "https://www.youtube.com/", 0.12585589802340924 ] ], [ "http://www.minecraftforum.net/", [ "http://b.scorecardresearch.com/", 1.012619100451691, "http://cursecom.ivwbox.de/", 1.1597517902609105, "http://dnn506yrbagrg.cloudfront.net/", 1.012619100451691, "http://pixel.quantserve.com/", 1.012619100451691, "http://secure-us.imrworldwide.com/", 1.012619100451691, "http://static.minecraftforum.net/", 9.374188088347752, "http://trinium.cursecdn.com/", 1.9510767629450694, "http://www.google-analytics.com/", 1.1597517902609105, "http://www.minecraftforum.net/", 4.700331886432664, "https://apis.google.com/", 1.1597517902609105 ] ], [ "http://www.minecraftskins.com/", [ "http://ad.adlegend.com/", 0.2109996731254273, "http://c.statcounter.com/", 0.2109996731254273, "http://cdn.cpmstar.com/", 0.18423105787817157, "http://cdn2.cpmstar.com/", 0.3983799798562171, "http://connect.facebook.net/", 0.18423105787817157, "http://server.cpmstar.com/", 0.3448427493617055, "http://www.facebook.com/", 0.26453690361993853, "http://www.minecraftskins.com/", 2.807555352109231, "http://www.statcounter.com/", 0.18423105787817157 ] ], [ "http://www.minecraftwiki.net/", [ "http://ajax.googleapis.com/", 1.3068844800701307, "http://b.scorecardresearch.com/", 1.6011498596885705, "http://cursecom.ivwbox.de/", 1.7482825494977903, "http://edge.quantserve.com/", 1.1597517902609105, "http://i.creativecommons.org/", 1.1597517902609105, "http://pixel.quantserve.com/", 1.3068844800701307, "http://secure-us.imrworldwide.com/", 1.3068844800701307, "http://twitter.com/", 1.3068844800701307, "http://www.google-analytics.com/", 2.04254792911623, "http://www.minecraftwiki.net/", 8.074988211294249 ] ], [ "http://www.minedream.fr/", [ "http://i.imgur.com/", 0.8367053889212558, "http://w.soundcloud.com/", 2.5316824520013266, "http://www.minedream.fr/", 60.29883745022856, "https://www.paypalobjects.com/", 2.33015861274392 ] ], [ "http://www.minefield.fr/", [ "http://cdn.cpmstar.com/", 0.06147507191386604, "http://cdn2.cpmstar.com/", 0.06147507191386604, "http://connect.facebook.net/", 0.06147507191386604, "http://media.minefield.fr/", 0.19545920300818917, "http://server.cpmstar.com/", 0.07040734732015429, "http://uppix.net/", 0.07040734732015429, "http://www.google-analytics.com/", 0.07040734732015429, "http://www.minefield.fr/", 0.2847819570710718 ] ], [ "http://www.movienostop.com/", [ "http://api.facebook.com/", 0.8921294842565451, "http://s.genhit.com/", 0.8921294842565451, "http://top-sites.genhit.com/", 0.8921294842565451, "http://www.blogtoplist.com/", 0.8921294842565451, "http://www.facebook.com/", 3.095765560753482, "http://www.livecount.fr/", 1.1513807873738315, "http://www.movienostop.com/", 11.521432912065293, "http://www.mynewblog.com/", 0.8921294842565451, "http://www.topblogarea.com/", 0.8921294842565451, "http://www.topdemaroc.com/", 0.8921294842565451 ] ], [ "http://www.myriapulse.com/", [ "http://img.myriapulse.com/", 0.08280138516368138, "http://www.google-analytics.com/", 0.08280138516368138, "http://www.myriapulse.com/", 0.3979409854135137, "https://apis.google.com/", 0.08280138516368138, "https://plusone.google.com/", 0.08280138516368138, "https://ssl.gstatic.com/", 0.07229673182202026 ] ], [ "http://www.myspace.com/", [ "http://a4.ec-images.myspacecdn.com/", 0.19915637560262028, "http://afe2.specificclick.net/", 0.24968859030776255, "http://b.myspace.com/", 0.17389026825004902, "http://b.scorecardresearch.com/", 0.19915637560262028, "http://connect.facebook.net/", 0.17389026825004902, "http://creative.myspacecdn.com/", 0.19915637560262028, "http://myspace.nitro.bunchball.net/", 0.19915637560262028, "http://www.facebook.com/", 0.24968859030776255, "https://s-static.ak.fbcdn.net/", 0.19915637560262028, "https://x.myspacecdn.com/", 0.19915637560262028 ] ], [ "http://www.newgrounds.com/", [ "http://ads.newgrounds.com/", 0.2930232747089283, "http://aicon.ngfiles.com/", 0.1368122606654927, "http://css.ngfiles.com/", 0.1715258193418116, "http://cssimg.ngfiles.com/", 1.0046512275734676, "http://flash.ngfiles.com/", 0.11945548132733315, "http://img.ngfiles.com/", 0.1541690400036522, "http://js.ngfiles.com/", 0.18888259867997123, "http://uimg.ngfiles.com/", 0.1368122606654927, "http://www.google-analytics.com/", 0.1715258193418116, "http://www.ngads.com/", 0.11945548132733315 ] ], [ "http://www.nikopik.com/", [ "http://api.viglink.com/", 0.05022183257455833, "http://assets.pinterest.com/", 0.05022183257455833, "http://cdn.viglink.com/", 0.05022183257455833, "http://d3io1k5o0zdpqr.cloudfront.net/", 0.05751902192299845, "http://nikopik.o2switch.net/", 0.0721134006198786, "http://platform.twitter.com/", 0.05751902192299845, "http://widgets.digg.com/", 0.06481621127143854, "http://www.nikopik.com/", 0.48075600413252406, "https://plusone.google.com/", 0.05751902192299845, "https://ssl.gstatic.com/", 0.05022183257455833 ] ], [ "http://www.nintendo-master.com/", [ "http://a34.idata.over-blog.com/", 1.2395173340042036, "http://ajax.googleapis.com/", 1.2395173340042036, "http://idata.over-blog.com/", 1.2395173340042036, "http://news.webplanete.net/", 1.2395173340042036, "http://src.nintendo-master.com/", 10.446270701038502, "http://static.rpxnow.com/", 1.2395173340042036, "http://www.nintendo-difference.com/", 1.2395173340042036, "http://www.nintendo-master.com/", 5.482692399092779, "http://www.weebe.fr/", 1.2395173340042036, "http://www.wikio.fr/", 1.2395173340042036 ] ], [ "http://www.nrj12.fr/", [ "http://connect.facebook.net/", 2.2086570657060003, "http://media.nrj.fr/", 22.747280035689993, "http://static.ak.facebook.com/", 3.1714050174239996, "http://twitter.com/", 2.529573049612, "http://w.estat.com/", 2.529573049612, "http://www.facebook.com/", 2.529573049612, "http://www.nrj.fr/", 3.1714050174239996, "http://www.nrj12.fr/", 28.84468372990399, "https://ajax.googleapis.com/", 2.2086570657060003, "https://s-static.ak.facebook.com/", 2.529573049612 ] ], [ "http://www.numerama.com/", [ "http://bitgravity.cedexis.com/", 0.08166461429543348, "http://dap.criteo.com/", 0.07247058487144431, "http://gogrid.cedexis.com/", 0.07247058487144431, "http://i1-js-13-2-01-10165-1715189989-i.init.cedexis-radar.net/", 0.06327655544745509, "http://images.numerama.com/", 0.16949201115433218, "http://platform.twitter.com/", 0.13198444077253063, "http://pm-us-east-auto-lb-829509161.us-east-1.elb.amazonaws.com/", 0.07247058487144431, "http://radar.cedexis.com/", 0.09085864371942264, "http://report.init.cedexis-radar.net/", 0.14602282026335775, "http://www.numerama.com/", 0.8354342486027729 ] ], [ "http://www.ogame.fr/", [ "http://adsm.gameforge.de/", 0.5500793808179204, "http://bi-data.statistics.gfsrv.net:42080/", 0.718925126967511, "http://fr.gameforge.com/", 0.718925126967511, "http://gameforge.com/", 0.718925126967511, "http://gf1.geo.gfsrv.net/", 4.979295091069637, "http://gf2.geo.gfsrv.net/", 1.7319996038650556, "http://gf3.geo.gfsrv.net/", 1.394308111565874, "http://static.openx.gfsrv.net/", 1.02812074982375, "http://www.ogame.fr/", 0.5500793808179204 ] ], [ "http://www.partypoker.fr/", [ "http://cg-global.maxymiser.com/", 0.14030356037167402, "http://maxymiser.hs.llnwd.net/", 0.14030356037167402, "http://p.iivt.com/", 0.18423916367163887, "http://videos.partypoker.fr/", 0.22817476697160377, "http://www.partypoker.fr/", 1.1508224362708657, "http://yads.zedo.com/", 0.14030356037167402, "https://tt3.zedo.com/", 0.14030356037167402 ] ], [ "http://www.paruvendu.fr/", [ "http://css.paruvendu.com/", 0.40252036924867135, "http://dp2.specificclick.net/", 0.17742674170829614, "http://js.paruvendu.fr/", 0.3124829182325213, "http://logc14.xiti.com/", 0.17742674170829614, "http://mfr.247realmedia.com/", 0.2224454672163711, "http://pub.paruvendu.fr/", 0.15491737895425856, "http://pvpub.paruvendu.fr/", 0.1999361044623337, "http://static.paruvendu.com/", 0.40252036924867135, "http://tracking.optin-machine.com/", 0.17742674170829614, "http://www.google-analytics.com/", 0.17742674170829614 ] ], [ "http://www.pcinpact.com/", [ "http://images.intellitxt.com/", 0.07544246830014376, "http://www.pcinpact.com/", 0.1453982116330043 ] ], [ "http://www.pixmania.com/", [ "http://pan.fotovista.com/", 0.44137142579310645, "http://statse.webtrendslive.com/", 0.05610024014710362, "http://www.google-analytics.com/", 0.05610024014710362, "http://www.pixmania.com/", 0.06873208229943165, "https://ww129.smartadserver.com/", 0.08767984552792349 ] ], [ "http://www.planetdan.net/", [ "http://pagead2.googlesyndication.com/", 0.42572836641400896, "http://www.adobe.com/", 0.42572836641400896, "http://www.planetdan.net/", 0.48758633418356573, "http://wwwimages.adobe.com/", 0.42572836641400896 ] ], [ "http://www.playonlinux.com/", [ "http://pagead2.googlesyndication.com/", 0.13026790693417004, "http://www.google-analytics.com/", 0.14919572247161356, "http://www.playonlinux.com/", 0.7927414507446932 ] ], [ "http://www.prizee.com/", [ "http://media.prizee.com/", 0.1950505038227112 ] ], [ "http://www.pubdirecte.com/", [ "http://ad.yieldmanager.com/", 0.14174431080206518, "http://content.yieldmanager.edgesuite.net/", 0.19518678663548863, "http://router.tlvmedia.com/", 0.19518678663548863, "http://static.pubdirecte.com/", 0.08819111862171244 ] ], [ "http://www.reddit.com/", [ "http://ajax.googleapis.com/", 1.432094001465243, "http://buttons.reddit.com/", 1.432094001465243, "http://www.reddit.com/", 1.8482580702671088 ] ], [ "http://www.redtube.com/", [ "http://images.cdn.redtube.com/", 2.430834215678853, "http://img01.redtubefiles.com/", 6.204732084769309, "http://img02.redtubefiles.com/", 3.5630035764059897, "http://img03.redtubefiles.com/", 2.808224002587898, "http://img04.redtubefiles.com/", 2.8600556314194345, "http://www.google-analytics.com/", 1.298664854951716, "http://www.redtube.com/", 5.709352206682401, "https://apis.google.com/", 1.4873597484062389, "https://plusone.google.com/", 1.4873597484062389, "https://ssl.gstatic.com/", 1.298664854951716 ] ], [ "http://www.root-top.com/", [ "http://api-public.addthis.com/", 0.2109996731254273, "http://cas.criteo.com/", 0.2109996731254273, "http://fl01.ct2.comclick.com/", 0.2109996731254273, "http://img.root-top.com/", 0.3716113646089612, "http://logv32.xiti.com/", 0.18423105787817157, "http://premium.hi-mediaserver.com/", 0.2109996731254273, "http://s7.addthis.com/", 0.4786858255979838, "http://www.aldaniti.net/", 0.18423105787817157, "http://www.aldaniti.net:8080/", 0.18423105787817157, "http://www.root-top.com/", 0.3448427493617055 ] ], [ "http://www.ruby-forum.com/", [ "http://pagead2.googlesyndication.com/", 0.16412990155041987, "http://partner.googleadservices.com/", 0.21182577037703762, "http://pubads.g.doubleclick.net/", 0.2833695736169641, "http://www.google-analytics.com/", 0.18797783596372877, "http://www.ruby-forum.com/", 0.3787613112701993 ] ], [ "http://www.scrolling.fr/", [ "http://api-public.addthis.com/", 0.4090211060201526, "http://platform.twitter.com/", 0.7980201998575006, "http://s7.addthis.com/", 0.7656036087043887, "http://translate.googleapis.com/", 0.5278819402482311, "http://www.facebook.com/", 0.5873123573622708, "http://www.scrolling.fr/", 7.691948585086073, "https://apis.google.com/", 0.4090211060201526, "https://platform.twitter.com/", 0.7097750350518064, "https://plusone.google.com/", 0.4684515231341921, "https://ssl.gstatic.com/", 0.4090211060201526 ] ], [ "http://www.searchworkings.org/", [ "http://096-sle-656.mktoresp.com/", 0.16412990155041987, "http://ajax.googleapis.com/", 0.16412990155041987, "http://munchkin.marketo.net/", 0.16412990155041987, "http://www.google-analytics.com/", 0.18797783596372877, "http://www.searchworkings.org/", 0.9034158683629947 ] ], [ "http://www.seloger.com/", [ "http://connect.facebook.net/", 0.11945548132733315, "http://dyn.visuels.poliris.com/", 0.18888259867997123, "http://ecn.dev.virtualearth.net/", 0.2235961573562901, "http://ecn.t0.tiles.virtualearth.net/", 0.2235961573562901, "http://ecn.t3.tiles.virtualearth.net/", 0.1715258193418116, "http://seloger.122.2o7.net/", 0.1541690400036522, "http://static.poliris.com/", 0.8495819425972864, "http://www.facebook.com/", 0.1368122606654927, "https://apis.google.com/", 0.1368122606654927, "https://plusone.google.com/", 0.1368122606654927 ] ], [ "http://www.showcase.fr/", [ "http://www.showcase.fr/", 5.364815663821974 ] ], [ "http://www.sing365.com/", [ "http://jmn.jangonetwork.com/", 0.3254157327894106, "http://platform.twitter.com/", 0.5731202458082152, "http://s7.addthis.com/", 0.4905520748019472, "http://srv.clickfuse.com/", 0.4079839037956786, "http://static02.linkedin.com/", 0.28413164728627643, "http://www.facebook.com/", 0.3254157327894106, "http://www.linkedin.com/", 0.28413164728627643, "http://www.sing365.com/", 0.7382565878207515, "https://platform.twitter.com/", 0.3254157327894106, "https://plusone.google.com/", 0.4079839037956786 ] ], [ "http://www.sk89q.com/", [ "http://wiki.sk89q.com/", 0.06327655544745509, "http://www.google-analytics.com/", 0.07247058487144431, "http://www.sk89q.com/", 0.16441087911133614, "https://www.paypal.com/", 0.07247058487144431 ] ], [ "http://www.skyrock.com/", [ "http://b.scorecardresearch.com/", 0.19915637560262028, "http://cdn.invitemedia.net/", 0.17389026825004902, "http://eu.px.invitemedia.com/", 0.17389026825004902, "http://oas.skyregie.com/", 0.6034140932437592, "http://pixel.rubiconproject.com/", 0.17389026825004902, "http://sky.estat.com/", 0.19915637560262028, "http://skyrock.com/", 0.5023496638334743, "http://static.v41.skyrock.net/", 1.5129939579363239, "http://tap.rubiconproject.com/", 0.17389026825004902, "http://www.skyrock.com/", 0.6286802005963311 ] ], [ "http://www.spartoo.com/", [ "http://static5.spartoo.com/", 0.48558287332625405, "http://www.spartoo.com/", 0.07504800337559549 ] ], [ "http://www.spi0n.com/", [ "http://fonts.googleapis.com/", 0.3929695044263417, "http://i.imgur.com/", 0.3929695044263417, "http://maps.google.com/", 0.3929695044263417, "http://maps.googleapis.com/", 0.45006763754811785, "http://maps.gstatic.com/", 0.5071657706698942, "http://themes.googleusercontent.com/", 0.45006763754811785, "http://www.dailymotion.com/", 0.1501000319568194, "http://www.facebook.com/", 0.1501000319568194, "http://www.google-analytics.com/", 0.1501000319568194, "http://www.spi0n.com/", 4.426485675247719 ] ], [ "http://www.spout.org/", [ "http://dev.spout.org/", 1.108746831146012, "http://forums.spout.org/", 0.884357591509319, "http://platform.twitter.com/", 0.9821015442950625, "http://static.spout.org/", 1.7451896063372356, "http://www.facebook.com/", 1.6767208745144087, "http://www.gravatar.com/", 0.884357591509319, "http://www.spout.org/", 0.884357591509319, "http://www.youtube.com/", 1.032454489669536, "https://plusone.google.com/", 0.9821015442950625, "https://s-static.ak.fbcdn.net/", 0.9821015442950625 ] ], [ "http://www.synopsite.com/", [ "http://logv20.xiti.com/", 0.06079333381580358, "http://synopsite.com/", 0.06079333381580358, "http://trichelieu.net/", 0.06079333381580358, "http://twitter-badges.s3.amazonaws.com/", 0.06079333381580358, "http://www.synopsite.com/", 0.38762245321871364, "https://ajax.googleapis.com/", 0.0696265532591255 ] ], [ "http://www.t411.me/", [ "http://ads.ad4game.com/", 0.22354725990731183, "http://cdn.ad4game.com/", 0.22354725990731183, "http://edge.quantserve.com/", 0.19518678663548863, "http://pixel.quantserve.com/", 0.19518678663548863, "http://static.pubdirecte.com/", 0.25190773317913495, "http://www.google-analytics.com/", 0.25190773317913495, "http://www.pubdirecte.com/", 0.36534962626642725, "http://www.t411.me/", 1.2728847709647668, "https://ajax.googleapis.com/", 0.22354725990731183 ] ], [ "http://www.thezorro266.com/", [ "http://87.106.147.94/", 0.41561977068566297, "http://ajax.googleapis.com/", 0.5408949826350494, "http://www.thezorro266.com/", 2.9802646702512003, "https://ajax.googleapis.com/", 0.4968670948603163 ] ], [ "http://www.torrent411.com/", [ "http://www.t411.me/", 0.22354725990731183 ] ], [ "http://www.toxia.fr/", [ "http://cdn.wibiya.com/", 0.2011869968072928, "http://services.supportduweb.com/", 0.10005267314341193, "http://wstat.wibiya.com/", 0.06327655544745509, "http://www.toxia.fr/", 0.21038102623128221, "http://www.youtube.com/", 0.06327655544745509, "https://apis.google.com/", 0.07247058487144431, "https://ssl.gstatic.com/", 0.06327655544745509 ] ], [ "http://www.trollzeweb.com/", [ "http://connect.facebook.net/", 0.4460433525619455, "http://www.facebook.com/", 0.5108530704555615, "http://www.trollzeweb.com/", 0.4460433525619455, "https://apis.google.com/", 0.5108530704555615, "https://s-static.ak.fbcdn.net/", 0.5108530704555615, "https://ssl.gstatic.com/", 0.4460433525619455 ] ], [ "http://www.tubehentai.com/", [ "http://tubehentai.com/", 0.675055477996633 ] ], [ "http://www.videozer.com/", [ "http://manga-streaming.over-blog.net/", 1.548113842144225, "http://www.videozer.com/", 2.7265288563137093 ] ], [ "http://www.vivastreet.fr/", [ "http://static-ak.vivastreet.com/", 0.1192594509087435, "http://www.google-analytics.com/", 0.06241616122326757 ] ], [ "http://www.wardoom.com/", [ "http://www.freeonlinegames.com/", 0.8722163459836026, "http://www.google-analytics.com/", 0.8722163459836026, "http://www.wardoom.com/", 4.112702240664403, "http://www.wardoom.comimages/", 0.6758232614574935 ] ], [ "http://www.wat.tv/", [ "http://openadext.tf1.fr/", 0.05402292983497204, "http://s.openad.tf1.fr/", 0.05402292983497204, "http://s.wat.fr/", 0.22348771568634257, "http://s0.wat.fr/", 0.15788844374387648, "http://www.facebook.com/", 0.05402292983497204, "http://www.wat.tv/", 0.07588935381579406 ] ], [ "http://www.webupd8.org/", [ "http://mediacdn.disqus.com/", 5.801816723884829, "http://webupd8.disqus.com/", 1.6401760358661757, "http://www.blogger.com/", 2.264422139068974, "http://www.facebook.com/", 2.888668242271772, "http://www.google.com/", 1.432094001465243, "http://www.netupd8.com/", 5.385652655082963, "http://www.webupd8.org/", 2.4725041734699067, "https://plusone.google.com/", 2.4725041734699067, "https://s-static.ak.fbcdn.net/", 1.6401760358661757, "https://ssl.gstatic.com/", 1.432094001465243 ] ], [ "http://www.winehq.org/", [ "http://www.google.com/", 0.17742674170829614, "http://www.winehq.org/", 0.3575016437405963 ] ], [ "http://www.worldometers.info/", [ "http://www.facebook.com/", 0.052484897022570386, "http://www.worldometers.info/", 0.30741153970362634 ] ], [ "http://www.wpt.fr/", [ "http://p.iivt.com/", 0.0512432133551611, "http://www.wpt.fr/", 0.20726732566042771 ] ], [ "http://www.wtcraft.com/", [ "http://pagead2.googlesyndication.com/", 0.06147507191386604, "http://www.wtcraft.com/", 0.497676215816809, "https://ajax.googleapis.com/", 0.06147507191386604 ] ], [ "http://www.xatech.com/", [ "http://i0.xat.com/", 0.05402292983497204, "http://i1142.photobucket.com/", 0.05402292983497204, "http://i79.photobucket.com/", 0.07042274782058856, "http://www.xatech.com/", 0.15235906163811644, "http://xat.com/", 0.3380353371434399 ] ], [ "http://www.xtopvideo.fr/", [ "http://ads.regieadulte.com/", 0.10901135990114534, "http://api-public.addthis.com/", 0.0844657556849934, "http://s7.addthis.com/", 0.1949209746576769, "http://www.allosponsor.com/", 0.09673855779306939, "http://www.google-analytics.com/", 0.0844657556849934, "http://www.referencement-team.com/", 0.0844657556849934, "http://www.w3sexe.com/", 0.0844657556849934, "http://www.xtopvideo.com/", 0.09673855779306939, "http://www.xtopvideo.fr/", 0.5753778400080314, "https://apis.google.com/", 0.0844657556849934 ] ], [ "http://www.youtube.com/", [ "http://s.ytimg.com/", 4.493772019188499 ] ], [ "http://www.yu2.it/", [ "http://fr.ratedview.com/", 0.1254566441873961, "http://www.yu2.it/", 0.1254566441873961 ] ], [ "http://www4.fnac.com/", [ "http://www4-fr.fnac-static.com/", 0.14669369820004183 ] ], [ "http://youtube.com/", [ "http://i1.ytimg.com/", 0.11931532526051387, "http://i2.ytimg.com/", 0.0512432133551611, "http://i3.ytimg.com/", 0.1799104166736185, "http://i4.ytimg.com/", 0.11903547062265649, "http://s.ytimg.com/", 0.19955335803070567 ] ], [ "http://zombiecraft.fr-bb.com/", [ "http://adopteunmec.solution.weborama.fr/", 0.07678021691655099, "http://cas.criteo.com/", 0.0962617644923922, "http://caw.criteo.com/", 0.07678021691655099, "http://dis.eu.criteo.com/", 0.0962617644923922, "http://elstatic.weborama.fr/", 0.07678021691655099, "http://hitskin.com/", 0.2423733713112019, "http://i.imgur.com/", 0.10600253828031293, "http://illiweb.com/", 0.15470640721991596, "http://r26.imgfast.net/", 0.0962617644923922, "http://www.youtube.com/", 0.06703944312863032 ] ], [ "https://accounts.google.com/", [ "https://accounts.google.com/", 0.6758232614574935, "https://accounts.google.fr/", 0.774019803720548, "https://accounts.youtube.com/", 0.9704128882466564, "https://apis.google.com/", 0.6758232614574935, "https://lh5.googleusercontent.com/", 0.6758232614574935, "https://plus.google.com/", 0.2031721519449376, "https://ssl.gstatic.com/", 0.5960754841229436, "https://www.gstatic.com/", 0.774019803720548 ] ], [ "https://api.twitter.com/", [ "https://api.twitter.com/", 0.14149923991689367 ] ], [ "https://checkout.google.com/", [ "https://checkout.google.com/", 0.19394435249997388 ] ], [ "https://chrome.google.com/", [ "https://chrome.google.com/", 1.7559852263510924, "https://lh3.googleusercontent.com/", 4.436652436898924, "https://lh4.googleusercontent.com/", 3.2664821312278374, "https://lh5.googleusercontent.com/", 4.345412943927979, "https://lh6.googleusercontent.com/", 4.752993871010471, "https://plusone.google.com/", 0.774019803720548, "https://qa-lighthouse.sandbox.google.com/", 0.6758232614574935, "https://ssl.google-analytics.com/", 1.5595921418249838, "https://www.google.com/", 0.9704128882466564, "https://www.gstatic.com/", 0.6758232614574935 ] ], [ "https://embed.spotify.com/", [ "https://gpvwbhiubo.spotilocal.com:4371/", 2.2086570657060003, "https://gpvwbhiubo.spotilocal.com:4372/", 2.2086570657060003, "https://gpvwbhiubo.spotilocal.com:4373/", 2.2086570657060003, "https://gpvwbhiubo.spotilocal.com:4374/", 2.2086570657060003, "https://gpvwbhiubo.spotilocal.com:4375/", 2.2086570657060003, "https://gpvwbhiubo.spotilocal.com:4376/", 2.2086570657060003, "https://gpvwbhiubo.spotilocal.com:4377/", 2.2086570657060003, "https://gpvwbhiubo.spotilocal.com:4378/", 2.2086570657060003, "https://gpvwbhiubo.spotilocal.com:4379/", 2.2086570657060003, "https://weviuitzjn.spotilocal.com:4379/", 2.2086570657060003 ] ], [ "https://fls.doubleclick.net/", [ "https://googleads.g.doubleclick.net/", 0.5108725079745965, "https://www.googleadservices.com/", 0.6811523156361557 ] ], [ "https://github.com/", [ "https://a248.e.akamai.net/", 9.237852952308193, "https://github.com/", 1.5390530558428723, "https://secure.gaug.es/", 1.2327118235358838, "https://secure.gravatar.com/", 0.4111716922802764, "https://ssl.google-analytics.com/", 1.2347908429038172 ] ], [ "https://pass.canal-plus.com/", [ "https://media-pass.canal-plus.com/", 1.376075361365183 ] ], [ "https://player.soundcloud.com/", [ "https://ssl.google-analytics.com/", 10.978775390937122 ] ], [ "https://plus.google.com/", [ "https://plus.google.com/", 0.4683955361771561 ] ], [ "https://plusone.google.com/", [ "https://apis.google.com/", 0.5655162103883208, "https://lh5.googleusercontent.com/", 2.2086570657060003, "https://plusone.google.com/", 1.032444924977717, "https://ssl.gstatic.com/", 0.9620910178215336 ] ], [ "https://rapidshare.com/", [ "https://api.rapidshare.com/", 0.11240545941088032, "https://hc.rapidshare.com/", 0.16301884034140124, "https://images3.rapidshare.com/", 3.3516618389642248, "https://rapidshare.com/", 0.11240545941088032, "https://rs282p9.rapidshare.com/", 0.07229673182202032, "https://rs509p3.rapidshare.com/", 0.27604241928803613 ] ], [ "https://s.ytimg.com/", [ "https://i1.ytimg.com/", 10.822888005929672, "https://i2.ytimg.com/", 4.531364878656308, "https://i3.ytimg.com/", 1.7240994272510246, "https://i4.ytimg.com/", 0.26497481464680056, "https://s.youtube.com/", 1.5529732640021545, "https://s.ytimg.com/", 7.942155759528791, "https://www.youtube.com/", 3.5053512485463725 ] ], [ "https://twitter.com/", [ "https://api.twitter.com/", 0.10249134134520947, "https://si0.twimg.com/", 0.27152556848917414, "https://ssl.google-analytics.com/", 0.10249134134520947, "https://twitter.com/", 0.08948870848798138, "https://www.youtube.com/", 0.10249134134520947 ] ], [ "https://www.adopteunmec.com/", [ "https://piwik.adopteunmec.com/", 0.2109996731254273, "https://s.adopteunmec.com/", 2.3468865036023656, "https://s1.adopteunmec.com/", 0.2109996731254273, "https://s4.adopteunmec.com/", 0.26453690361993853, "https://s7.adopteunmec.com/", 0.2109996731254273, "https://s8.adopteunmec.com/", 0.2109996731254273, "https://s9.adopteunmec.com/", 0.2109996731254273, "https://ssl.google-analytics.com/", 0.26453690361993853, "https://www.adopteunmec.com/", 0.18423105787817157, "https://www.facebook.com/", 0.2109996731254273 ] ], [ "https://www.betclic.fr/", [ "https://betclick.hs.llnwd.net/", 7.936259881960588, "https://server.iad.liveperson.net/", 0.5804827273676892, "https://ssl.google-analytics.com/", 0.31093024035247263, "https://www.betclic.fr/", 3.0082601401510902 ] ], [ "https://www.caisse-epargne.fr/", [ "https://logs2.xiti.com/", 0.05679401659563862, "https://www.caisse-epargne.fr/", 0.08829337058034206 ] ], [ "https://www.deviantart.com/", [ "https://a.deviantart.net/", 1.0422931874998105, "https://sb.scorecardresearch.com/", 1.1937374967946544, "https://ssl.google-analytics.com/", 1.6480704246791869, "https://st.deviantart.net/", 4.2226236826915375 ] ], [ "https://www.facebook.com/", [ "https://fbcdn-profile-a.akamaihd.net/", 0.4407954125766683, "https://s-static.ak.fbcdn.net/", 2.9828440375704077 ] ], [ "https://www.funtoo-quebec.org/", [ "https://ssl.google-analytics.com/", 0.4882170955933342, "https://www.funtoo-quebec.org/", 3.3707138237072782 ] ], [ "https://www.google.fr/", [ "https://lh5.googleusercontent.com/", 0.5535167764133213, "https://news.google.com/", 0.06302400608316017, "https://plus.google.com/", 0.06932916567991977, "https://ssl.gstatic.com/", 0.6694191984065025, "https://www.google.com/", 0.5535165844532636, "https://www.google.fr/", 4.994073625905495 ] ], [ "https://www.net348.caisse-epargne.fr/", [ "https://www.caisse-epargne.fr/", 1.142978778655277, "https://www.net348.caisse-epargne.fr/", 0.8153120124303249 ] ], [ "https://www.referdia.com/", [ "https://ssl.google-analytics.com/", 0.1254566441873961, "https://www.referdia.com/", 0.3960310484423026 ] ], [ "https://www.stypi.com/", [ "https://ajax.googleapis.com/", 0.06147507191386604, "https://api.mixpanel.com/", 0.09720417353901899, "https://beacon-1.newrelic.com/", 0.07040734732015429, "https://d1ros97qkrwjf5.cloudfront.net/", 0.06147507191386604, "https://d2whiyh1e10jvh.cloudfront.net/", 0.09720417353901899, "https://node.stypi.com/", 0.07040734732015429, "https://ssl.google-analytics.com/", 0.07933962272644249, "https://widget.uservoice.com/", 0.06147507191386604 ] ], [ "https://www.youtube.com/", [ "https://s.ytimg.com/", 1.00774421492564 ] ] ],
+      "startup_list": [ 1, "http://i.imgur.com/", "http://w.soundcloud.com/", "http://www.google.fr/", "http://www.minedream.fr/", "http://www.trollzeweb.com/", "https://lh5.googleusercontent.com/", "https://ssl.google-analytics.com/", "https://ssl.gstatic.com/", "https://www.google.com/", "https://www.google.fr/" ]
+   },
+   "download": {
+      "default_directory": "/home/eraindil/Download",
+      "directory_upgrade": true,
+      "extensions_to_open": ""
+   },
+   "extensions": {
+      "autoupdate": {
+         "last_check": "12978905957698988",
+         "next_check": "12978922527756017"
+      },
+      "blacklistupdate": {
+         "lastpingday": "12978860628650911",
+         "version": "0.0.0.100"
+      },
+      "chrome_url_overrides": {
+         "bookmarks": [ "chrome-extension://eemcgdkfndhakfknompkggombfjjjeno/main.html" ]
+      },
+      "settings": {
+         "aemcjbfajnnmhblifaejadoecfoaebld": {
+            "blacklist": true
+         },
+         "afenhmponmfmdmbmccbmglppcmjhmhmh": {
+            "blacklist": true
+         },
+         "agmhonoepgcnakccfpidhjehlocaeaaj": {
+            "blacklist": true
+         },
+         "ahfgeienlihckogmohjhadlkjgocpleb": {
+            "active_permissions": {
+               "api": [ "appNotifications", "management", "webstorePrivate" ]
+            },
+            "app_launcher_ordinal": "n",
+            "page_ordinal": "n"
+         },
+         "ahjfgnikolodijnpakeknpilnemojlhc": {
+            "blacklist": true
+         },
+         "alcbnnpmipohgdllkkglhkbncijplago": {
+            "blacklist": true
+         },
+         "apdmgffkfhjfeejmbjidennfjdkmmmbl": {
+            "blacklist": true
+         },
+         "bhpchjohhpanbdahcblklicnbfmlldkb": {
+            "active_permissions": {
+               "api": [ "notifications", "unlimitedStorage" ]
+            },
+            "app_launcher_ordinal": "y",
+            "from_bookmark": false,
+            "from_webstore": true,
+            "granted_permissions": {
+               "api": [ "notifications", "unlimitedStorage" ]
+            },
+            "install_time": "12978473869189609",
+            "lastpingday": "12978860628944132",
+            "location": 1,
+            "manifest": {
+               "app": {
+                  "launch": {
+                     "local_path": "index.html"
+                  }
+               },
+               "current_locale": "fr",
+               "default_locale": "en",
+               "description": "Si vous aimez le jeu Guitar Hero alors vous aimerez cette version flash. Votre objectif est de participer le plus grand spectacle.",
+               "icons": {
+                  "128": "128.png",
+                  "16": "16.png"
+               },
+               "key": "MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQDXdTUiCytsXGemgjtd3Psmzx765W/3xj35URp5nZSECawZgSgdpqTm2hgQT3k5zhS7DZxfzuZAwh9MKS2nTzYQflKsO1SzGfQj6ww6okbLryOooX7jtCRsleFyo3tUDEL3gduQt9FfL7PLtOWONvjf0w2v71GPCDQ5Wlv5Tpw38QIDAQAB",
+               "name": "Guitar Master",
+               "permissions": [ "unlimitedStorage", "notifications" ],
+               "update_url": "http://clients2.google.com/service/update2/crx",
+               "version": "2.3.2"
+            },
+            "page_ordinal": "n",
+            "path": "bhpchjohhpanbdahcblklicnbfmlldkb/2.3.2_0",
+            "state": 1
+         },
+         "bjihddggcgnblgojnmhpnngonofbnkaj": {
+            "blacklist": true
+         },
+         "bkkchglolnigbfncnbnnbhhempjkdpkf": {
+            "blacklist": true
+         },
+         "boaoagnmpennjoigkkmnjhecapibhfko": {
+            "blacklist": true
+         },
+         "boclfockfmgcppbajihcgajhpggaakgl": {
+            "blacklist": true
+         },
+         "cbbjhegipokkofhhicbckicchjpcpeni": {
+            "blacklist": true
+         },
+         "cfbdodejdeejbkffcmiaknpmojjeibpn": {
+            "blacklist": true
+         },
+         "cihlkpohodpdkdnfalhdkhhlhmhffmbe": {
+            "blacklist": true
+         },
+         "cjhklhdjonhcohlacgggcbklpnldleck": {
+            "blacklist": true
+         },
+         "clapnamcglekekmamicmbahkghdcjaeh": {
+            "blacklist": true
+         },
+         "coajchbkdbfhmhbgcjepiofllfjjcpfp": {
+            "blacklist": true
+         },
+         "danapgfidmepmcfbjjacceiaiiioieio": {
+            "blacklist": true
+         },
+         "dbiblcmlcgdjjbdpbmbcpineegngkiip": {
+            "blacklist": true
+         },
+         "dbmdicehacbaohlockjgdglcobimmjkh": {
+            "blacklist": true
+         },
+         "dcbegflbljflchoahmigblmabofoinkh": {
+            "active_bit": false,
+            "active_permissions": {
+               "api": [ "notifications", "unlimitedStorage" ]
+            },
+            "app_launcher_ordinal": "w",
+            "from_bookmark": false,
+            "from_webstore": true,
+            "granted_permissions": {
+               "api": [ "notifications", "unlimitedStorage" ]
+            },
+            "install_time": "12978473804141015",
+            "last_active_pingday": "12978428629018442",
+            "lastpingday": "12978860628944132",
+            "location": 1,
+            "manifest": {
+               "app": {
+                  "launch": {
+                     "web_url": "http://www.wardoom.com/chrome-games/counter-strike-(-flash-version-)"
+                  },
+                  "urls": [ "http://www.wardoom.com/chrome-games/counter-strike-(-flash-version-)" ]
+               },
+               "current_locale": "fr",
+               "default_locale": "en",
+               "description": "Une mission critique et difficile \u00E0 abattre les hommes arm\u00E9s en lan\u00E7ant une attaque sur leur propre territoire... Votre mission...",
+               "icons": {
+                  "128": "128.png",
+                  "24": "24.png"
+               },
+               "key": "MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQDDXs+t1YD+YmX7Mq/PG1vfAVpriMkDwjatg02jivbIyUO+jLj3w9ZsHQtFFWGM4hrc8JzoBmajp0q1/9hhtrPfZAmRpjwhp2HhhZ3KiQ46oLTUYVDKZMo0akFnFvIwo9JV4+ojAyjQqSoIBKy6fBp9SE9zF70EvPMYIogPsRq4XwIDAQAB",
+               "name": "Counter Strike (Version Flash)",
+               "permissions": [ "unlimitedStorage", "notifications" ],
+               "update_url": "http://clients2.google.com/service/update2/crx",
+               "version": "1.0.1"
+            },
+            "page_ordinal": "n",
+            "path": "dcbegflbljflchoahmigblmabofoinkh/1.0.1_0",
+            "state": 1
+         },
+         "dgcfmgdfbfbgcpbendbhbkfjppboebed": {
+            "blacklist": true
+         },
+         "dgkemngdheppgohkjjelnkjmdeimmfml": {
+            "blacklist": true
+         },
+         "dlobhinihbmedmheccecfnkcadpehmbf": {
+            "blacklist": true
+         },
+         "dmkdhgkknhnfpdjeicefnpmhcpbimden": {
+            "blacklist": true
+         },
+         "doneghboglgnflpdicnkaojmmljgejkj": {
+            "blacklist": true
+         },
+         "dpgenihgggagjjggfocjceeobjkadcbc": {
+            "blacklist": true
+         },
+         "ebdcdchjcndpjhehacedepnggfdbfkpn": {
+            "blacklist": true
+         },
+         "edmnikahahfkfilbbjbdoiabnghbkmjc": {
+            "blacklist": true
+         },
+         "efhjelcghjkfigiagdfbfilndaffpmdj": {
+            "blacklist": true
+         },
+         "efnaljpgehfilpmkhobibbjceeeondmn": {
+            "blacklist": true
+         },
+         "egljdhfnbjahogjahnigfnbpidlmdagi": {
+            "blacklist": true
+         },
+         "ehgoiaffgjoinpkllmmnikghgpghnabc": {
+            "blacklist": true
+         },
+         "ehomcoocpagnlcakcbecdaknmacmedld": {
+            "blacklist": true
+         },
+         "fafoohpbicgbcejffcplajonhhooddle": {
+            "blacklist": true
+         },
+         "fbhiehmngojjcmljddjmgpmcockbccmo": {
+            "blacklist": true
+         },
+         "fibgploapkhokkbncddlkcmbmiengcfp": {
+            "blacklist": true
+         },
+         "fljajkkfdjhdiioijfgdkkdjofgolcbb": {
+            "active_bit": false,
+            "app_launcher_ordinal": "t",
+            "from_bookmark": false,
+            "from_webstore": true,
+            "install_time": "12978473785609482",
+            "last_active_pingday": "12978428629018442",
+            "lastpingday": "12978860628944132",
+            "location": 1,
+            "manifest": {
+               "app": {
+                  "launch": {
+                     "web_url": "http://2048gamers.com/chrome/meat-boy"
+                  },
+                  "urls": [ "http://2048gamers.com/chrome/meat-boy" ]
+               },
+               "current_locale": "fr",
+               "default_locale": "en",
+               "description": "Un jeu de plates-formes, o\u00F9 le joueur doit taper Meat Boy pour atteindre sa petite amie Band-Aid Girl !",
+               "icons": {
+                  "128": "icon_128.png"
+               },
+               "key": "MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQC/PbTTOnYNBPVjw3HfbSb4wHRzwsJscJxyk0sgnEPg7wmiJoog6HUH0vOI/0gibcAuRuwT2OCeksIX+So0WJq/vbEvPxhVqF+jx3/SA/V8c6x/lgReHXCAFpfxs/fz09tUoTMFdVSDKyqngfTjSrxTWeSqGcBX0+MPICtgKPeBGwIDAQAB",
+               "name": "Meat Boy",
+               "update_url": "http://clients2.google.com/service/update2/crx",
+               "version": "1.9"
+            },
+            "page_ordinal": "n",
+            "path": "fljajkkfdjhdiioijfgdkkdjofgolcbb/1.9_0",
+            "state": 1
+         },
+         "flmmgcfcpbfddenepkfmgfpbaceolcoe": {
+            "blacklist": true
+         },
+         "fmcccidacjgnfiafddkngmeolkoiihil": {
+            "blacklist": true
+         },
+         "fmonlemffgbabjifjfaoamdflijecdbk": {
+            "blacklist": true
+         },
+         "fpbippbofbmgmbojjmgfcifpmdaelcmd": {
+            "blacklist": true
+         },
+         "fpmajanjndhgpifbcbnklbiehgnpkgmf": {
+            "blacklist": true
+         },
+         "gbenikfjhilhpgagllmfgggdjaflbmbi": {
+            "blacklist": true
+         },
+         "ghgphbmpcfgkfneodjpbdanmdoemklio": {
+            "blacklist": true
+         },
+         "giffpibkknienblbfdlnljbkelppdnob": {
+            "app_launcher_ordinal": "x",
+            "from_bookmark": false,
+            "from_webstore": true,
+            "install_time": "12978473859929868",
+            "lastpingday": "12978860628944132",
+            "location": 1,
+            "manifest": {
+               "app": {
+                  "launch": {
+                     "web_url": "http://www.pinkemu.com/arcade-games/sonic-the-hedgehog.html"
+                  },
+                  "urls": [ "http://www.pinkemu.com/arcade-games/sonic-the-hedgehog.html" ]
+               },
+               "current_locale": "fr",
+               "default_locale": "en",
+               "description": "Essayez le jeu de plateforme des plus classiques de ces vingt derni\u00E8res ann\u00E9es!",
+               "icons": {
+                  "128": "icon128.png"
+               },
+               "key": "MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQDoGW6XPZij7SA7zivxffVdRvIgGvQDaWqCHJ9P3+34/9Fhemh9xnZ2sOzzabevCuQn5lXlIR/Z5yD+emRxWBVH/wVYMQ+4Bk+6cVwjKcQTeCS0J4KgISUdTKLO2x1CrnxtW513C3bHH+9gQFyllW7xuskwMumh1ReupjHnT8GQOQIDAQAB",
+               "name": "Sonic the Hedgehog",
+               "update_url": "http://clients2.google.com/service/update2/crx",
+               "version": "1.0.0"
+            },
+            "page_ordinal": "n",
+            "path": "giffpibkknienblbfdlnljbkelppdnob/1.0.0_0",
+            "state": 1
+         },
+         "gighmmpiobklfepjocnamgkkbiglidom": {
+            "active_permissions": {
+               "api": [ "contextMenus", "idle", "tabs", "webRequest", "webRequestBlocking" ],
+               "explicit_host": [ "http://*/*", "https://*/*" ],
+               "scriptable_host": [ "*://*.hk-pub.com/forum/thread-*", "*://*.mail.live.com/*", "*://*.youtube.com/*", "http://*/*", "https://*/*" ]
+            },
+            "delayNetworkRequests": true,
+            "events": [ "experimental.extension.onInstalled" ],
+            "from_bookmark": false,
+            "from_webstore": true,
+            "granted_permissions": {
+               "api": [ "contextMenus", "idle", "tabs", "webRequest", "webRequestBlocking" ],
+               "explicit_host": [ "http://*/*", "https://*/*" ],
+               "scriptable_host": [ "*://*.hk-pub.com/forum/thread-*", "*://*.mail.live.com/*", "*://*.youtube.com/*", "http://*/*", "https://*/*" ]
+            },
+            "install_time": "12978851731637733",
+            "lastpingday": "12978860628944132",
+            "location": 1,
+            "manifest": {
+               "background_page": "background.html",
+               "browser_action": {
+                  "default_icon": "img/icon19.png",
+                  "default_title": "Options AdBlock",
+                  "popup": "button/popup.html"
+               },
+               "content_scripts": [ {
+                  "all_frames": true,
+                  "js": [ "port.js", "functions.js", "filtering/filteroptions.js", "filtering/filtertypes.js", "filtering/filterset.js", "picreplacement/picreplacement.js", "adblock_start_common.js", "adblock_start.js", "adblock_start_new_style.js" ],
+                  "matches": [ "http://*/*", "https://*/*" ],
+                  "run_at": "document_start"
+               }, {
+                  "all_frames": true,
+                  "js": [ "bandaids.js" ],
+                  "matches": [ "*://*.mail.live.com/*", "*://*.hk-pub.com/forum/thread-*", "*://*.youtube.com/*" ],
+                  "run_at": "document_start"
+               }, {
+                  "all_frames": true,
+                  "js": [ "adblock.js" ],
+                  "matches": [ "http://*/*", "https://*/*" ],
+                  "run_at": "document_end"
+               }, {
+                  "all_frames": false,
+                  "js": [ "uiscripts/blacklisting/rightclick_hook.js" ],
+                  "matches": [ "http://*/*", "https://*/*" ],
+                  "run_at": "document_end"
+               } ],
+               "current_locale": "fr",
+               "default_locale": "en",
+               "description": "La plus populaire des extensions Chrome, avec plus de 4 millions d'utilisateurs ! Bloque les publicit\u00E9s sur Internet.",
+               "icons": {
+                  "128": "img/icon128.png",
+                  "16": "img/icon16.png",
+                  "48": "img/icon48.png"
+               },
+               "incognito": "spanning",
+               "key": "MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQDZWWNkerYNFB0SIg87WwcrcniMYkCqxLz4OB3CLNoogUUsHN+Rk9vRB7o3Jjc4shlz2LBvAbtPbrGkU+NK9Hc3ubVydzpnoRDEl1RKz3GhqKFkECvTyAxrsKainXH+4Ni2+K7bg1U0tLoQMPJ9f3ieYLIwXeHh9+lYXQi6soq0pwIDAQAB",
+               "minimum_chrome_version": "6",
+               "name": "AdBlock",
+               "options_page": "options/index.html",
+               "permissions": [ "http://*/*", "https://*/*", "contextMenus", "tabs", "idle", "webRequest", "webRequestBlocking" ],
+               "update_url": "http://clients2.google.com/service/update2/crx",
+               "version": "2.5.29"
+            },
+            "path": "gighmmpiobklfepjocnamgkkbiglidom/2.5.29_0",
+            "state": 1
+         },
+         "gjkbghdignnlcknknflbigpammebiolo": {
+            "blacklist": true
+         },
+         "gkjeccpmibljcfpfapfljciimedljpnm": {
+            "blacklist": true
+         },
+         "gnapdhmknipknfmhhnhdmhakdfhgeing": {
+            "blacklist": true
+         },
+         "gngmkbiihflpghldjnbpemaicedhdddk": {
+            "blacklist": true
+         },
+         "hbaajkahagmlkdekmbdabikbopdgpaac": {
+            "blacklist": true
+         },
+         "hcapokajkngndbglnfglpfdpoeidmpha": {
+            "blacklist": true
+         },
+         "hcpndbchnlgojmnijaldkicigmihmdca": {
+            "blacklist": true
+         },
+         "hefmoncdemhjembgbnkgglhlookbipdc": {
+            "blacklist": true
+         },
+         "hgjgaeknhmidehalnmokomhpfhbfmpcm": {
+            "blacklist": true
+         },
+         "hhfffemhgkginfafaoapljdllodppana": {
+            "blacklist": true
+         },
+         "hhfiljkpjapjjphcocclhhaldpfkkjbi": {
+            "blacklist": true
+         },
+         "hhjmkijkgojfifipdgmiemghfikbohcm": {
+            "blacklist": true
+         },
+         "hhlgbfcfbkhlmajakkcjippgpcmejkko": {
+            "blacklist": true
+         },
+         "hkbgccpdcpbdckohbknjlamamelcnlki": {
+            "blacklist": true
+         },
+         "hndllphbhpadfpoikpaofkkkpkpnmjik": {
+            "active_permissions": {
+               "explicit_host": [ "\u003Call_urls\u003E" ],
+               "scriptable_host": [ "http://*.facebook.com/*", "http://*/*", "https://*.facebook.com/*", "https://*/*" ]
+            },
+            "from_bookmark": false,
+            "from_webstore": true,
+            "granted_permissions": {
+               "explicit_host": [ "\u003Call_urls\u003E" ],
+               "scriptable_host": [ "http://*.facebook.com/*", "http://*/*", "https://*.facebook.com/*", "https://*/*" ]
+            },
+            "install_time": "12978473202435669",
+            "lastpingday": "12978860628944132",
+            "location": 1,
+            "manifest": {
+               "background_page": "pages/background.html",
+               "browser_action": {
+                  "default_icon": "images/icon16.png",
+                  "popup": "popup/popup.html"
+               },
+               "content_scripts": [ {
+                  "all_frames": true,
+                  "include_globs": [ "*" ],
+                  "js": [ "mappings.js", "script.js" ],
+                  "matches": [ "http://*/*", "https://*/*" ],
+                  "run_at": "document_start"
+               }, {
+                  "include_globs": [ "*" ],
+                  "js": [ "lib/support/define.js", "lib/support/helpers.js", "lib/support/contentscript.js" ],
+                  "matches": [ "http://*/*" ],
+                  "run_at": "document_start"
+               }, {
+                  "include_globs": [ "*" ],
+                  "js": [ "lib/support/fbkeyboard.js" ],
+                  "matches": [ "http://*.facebook.com/*", "https://*.facebook.com/*" ],
+                  "run_at": "document_end"
+               } ],
+               "description": "Use Meme emoticons on popular websites!",
+               "icons": {
+                  "128": "images/icon128.png",
+                  "16": "images/icon16.png",
+                  "48": "images/icon48.png"
+               },
+               "key": "MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQCvxt+TQIl3fpCE2QCbqkWGtdCbbUyXPEy2ReeD74ZOsYbcW0KdDGlH6JLgCLhe8CLcWGyLB1cMJE6NIndMHd/PEoCbrBrjaRiW6rnfYZWmhNJF3iDU+59t1s1tIk72JrKjYyoHdHX9jh2EMm0h1kzTo5QmhkP1A9UbecdKTmHBkQIDAQAB",
+               "name": "Troll Emoticons",
+               "options_page": "pages/options.html",
+               "permissions": [ "\u003Call_urls\u003E" ],
+               "update_url": "http://clients2.google.com/service/update2/crx",
+               "version": "4.6.7"
+            },
+            "path": "hndllphbhpadfpoikpaofkkkpkpnmjik/4.6.7_0",
+            "state": 1
+         },
+         "hnipgljcblpgnnojcfldehpeknhakbgj": {
+            "blacklist": true
+         },
+         "hnkcpoijaeegompjgbjjhkdmljldaccg": {
+            "blacklist": true
+         },
+         "hpibmhghjndideebpackbdlpncgkcppp": {
+            "blacklist": true
+         },
+         "ifbkndkaolfbjjhnnhfmkbkoclpdkpli": {
+            "blacklist": true
+         },
+         "ifeijfpkjckedpclgncedmgdiaoeahmk": {
+            "blacklist": true
+         },
+         "ijecjbcgpblkacpijljpaienknanaloa": {
+            "blacklist": true
+         },
+         "ijenlpgidnapbndonoinbkhekgjonojg": {
+            "blacklist": true
+         },
+         "imfbomjbodpfgfhfahlgkkcllmhbelhk": {
+            "blacklist": true
+         },
+         "iobnpmeeecphddicmhhmdjbnlbdhjlne": {
+            "blacklist": true
+         },
+         "iomejadoamfilglofmeaffghddcgapmf": {
+            "blacklist": true
+         },
+         "janhdpmhnighonkkbkdpnljcoenpfkbh": {
+            "blacklist": true
+         },
+         "jgmpapdckakiohhebmeoemejibommimi": {
+            "blacklist": true
+         },
+         "jjnkfllhcgkgnfbekpnmoikpfihpjfli": {
+            "blacklist": true
+         },
+         "jmifipgdcllamghkhdplfjffkciekbgo": {
+            "blacklist": true
+         },
+         "jpgidahfcgiajlcbleeiaibpmmblcmnb": {
+            "blacklist": true
+         },
+         "jpkdlckejfjidmplieobnhijmoiecbhl": {
+            "blacklist": true
+         },
+         "kbipembkfhbdmkkkfbigmohilmknjnof": {
+            "blacklist": true
+         },
+         "kcanfkmhccbaheheaackijegkclkaeic": {
+            "blacklist": true
+         },
+         "kgbkdabomfdpfoibliicpmibceaoohgh": {
+            "blacklist": true
+         },
+         "kinhljbhjmcmoddhdoodekeklmjapjff": {
+            "blacklist": true
+         },
+         "kkhomejdleoonmbdhcigkhkjcghngncf": {
+            "blacklist": true
+         },
+         "kleaapgdkahaekcocmkbgfainbhihccj": {
+            "blacklist": true
+         },
+         "kolbbghckjilleabphhgeggcgpfidofi": {
+            "blacklist": true
+         },
+         "lbficnmfealeidppcbgdcbemgfjodbkg": {
+            "blacklist": true
+         },
+         "lceaiepehinnomgijphkmjccbigkljkj": {
+            "blacklist": true
+         },
+         "lhkpffmjeodpmligdobfobjjgcmklgeo": {
+            "from_bookmark": false,
+            "from_webstore": true,
+            "install_time": "12977591876560636",
+            "lastpingday": "12978860628944132",
+            "location": 1,
+            "manifest": {
+               "description": "A theme that pretty much speaks for it self. HD",
+               "key": "MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQDG36O0VVj1i7fPkgrbBIPo/bU6zNPbS3LeSY9+whx60Vu7Y0PSwdeSOeywG4OAPqpdV5DW12+FjXmqOvcQuvbp0XS0PfBu6dp/Yi+282Rr8tbM4o+fHW98RZpNusjazM0DDgcYa9UOwVTJiSgMjy9FpvWYLT1Qjmbt0TzvLjSOTwIDAQAB",
+               "name": "Lost",
+               "theme": {
+                  "colors": {
+                     "bookmark_text": [ 204, 197, 190 ],
+                     "button_background": [ 0, 0, 0, 0 ],
+                     "control_background": [ 0, 0, 0, 0 ],
+                     "frame": [ 1, 1, 3 ],
+                     "frame_inactive": [ 161, 182, 228 ],
+                     "frame_incognito": [ 83, 106, 139 ],
+                     "frame_incognito_inactive": [ 126, 139, 156 ],
+                     "ntp_background": [ 255, 255, 255 ],
+                     "ntp_header": [ 75, 140, 220 ],
+                     "ntp_link": [ 227, 227, 227 ],
+                     "ntp_section": [ 229, 239, 254 ],
+                     "ntp_section_link": [ 6, 55, 116 ],
+                     "ntp_section_text": [ 0, 0, 0 ],
+                     "ntp_text": [ 247, 247, 247 ],
+                     "tab_background_text": [ 64, 64, 64 ],
+                     "tab_text": [ 0, 0, 0 ],
+                     "toolbar": [ 223, 223, 223 ]
+                  },
+                  "images": {
+                     "theme_frame": "images/theme_frame.png",
+                     "theme_ntp_background": "images/theme_ntp_background.png",
+                     "theme_toolbar": "images/theme_toolbar.png"
+                  },
+                  "properties": {
+                     "ntp_background_alignment": "right top",
+                     "ntp_background_repeat": "no-repeat"
+                  },
+                  "tints": {
+                     "background_tab": [ 0, 0, 0.85882352941176 ],
+                     "buttons": [ 0, 0, 0.96862745098039 ],
+                     "frame": [ -1, -1, -1 ],
+                     "frame_inactive": [ -1, -1, 0.75 ],
+                     "frame_incognito": [ -1, 0.2, 0.35 ],
+                     "frame_incognito_inactive": [ -1, 0.3, 0.6 ]
+                  }
+               },
+               "update_url": "http://clients2.google.com/service/update2/crx",
+               "version": "1"
+            },
+            "path": "lhkpffmjeodpmligdobfobjjgcmklgeo/1_0",
+            "state": 1
+         },
+         "likifpgnijjfbdegfepoalpamlgnfofi": {
+            "blacklist": true
+         },
+         "ljcicfibknpmlcmcecddjlbgkejehhpa": {
+            "blacklist": true
+         },
+         "ljeihpebkahejeacdalhkhmckmggppif": {
+            "blacklist": true
+         },
+         "lkdimamelhbiijkiljlnedmhnnkkmlbl": {
+            "blacklist": true
+         },
+         "lljnngafekbnkpdfophmcdlbfebcbcld": {
+            "blacklist": true
+         },
+         "lnahlgmhpghkhmafjppdidhcoaomipfg": {
+            "blacklist": true
+         },
+         "lnbeebaenahmkbffnimghceldeeihfak": {
+            "blacklist": true
+         },
+         "lncjcfkpannmofmpgdfoonkniofdnaba": {
+            "blacklist": true
+         },
+         "mbmdaiddhfoljplpdhohimgieioblfif": {
+            "blacklist": true
+         },
+         "mdiehnlecbjlppbpaaipmlnhhjgepfcg": {
+            "blacklist": true
+         },
+         "mfffdpnblflpobcnekhekiahepofaane": {
+            "blacklist": true
+         },
+         "mfhfkclojmdocagbmecgcnlofppebebd": {
+            "blacklist": true
+         },
+         "mjgobkikdipfikmaoakdcdbicpioljgg": {
+            "blacklist": true
+         },
+         "mkobblpffgbncfhijabakfafmkjdmmnm": {
+            "blacklist": true
+         },
+         "mlmegahemifabfmdnndafagnncfbnahn": {
+            "blacklist": true
+         },
+         "mlmmbepkgelpbenpobinockmiehdahai": {
+            "blacklist": true
+         },
+         "mlnoedbhndgbjcbeadjfnmjloejlgojk": {
+            "blacklist": true
+         },
+         "mmjodihhmnpkldljaifiajmlnpflfhpm": {
+            "blacklist": true
+         },
+         "mnichagcickblneeijmfnmoiakigmmhf": {
+            "blacklist": true
+         },
+         "mogepbcllienegdibkfpmombhefhcoic": {
+            "blacklist": true
+         },
+         "nbieffehfdniifkgdckbndjhojohbfjj": {
+            "blacklist": true
+         },
+         "ndhkiimgbjnendpcfbiadlifmangejoa": {
+            "blacklist": true
+         },
+         "ndiogongcmocdgjciemhagfhpjamehpe": {
+            "blacklist": true
+         },
+         "nibohffepnilngkecenfdgnokfhmnkod": {
+            "blacklist": true
+         },
+         "nidodbfomffkfabciljelkbdiabkeehe": {
+            "blacklist": true
+         },
+         "nihhbeikpchdddoillfdcdinnnnllmna": {
+            "blacklist": true
+         },
+         "nlgapikcofpablcmfgaoodlhiejiehhh": {
+            "blacklist": true
+         },
+         "nmphbnbmgfccfhcmibikmhcgajjpelpf": {
+            "blacklist": true
+         },
+         "nnioepmjbjjlflmdgjanlcmbjahljeeo": {
+            "blacklist": true
+         },
+         "nochkknnbahbhmmknnmdhagelcnfagom": {
+            "blacklist": true
+         },
+         "oakhllhnbcpgagdafgbninlpjdemdmjk": {
+            "blacklist": true
+         },
+         "ocnlnkjmfnolmbclblfhfhcakldceiec": {
+            "blacklist": true
+         },
+         "onpnpccdagncipgnoofbhchlbajcjnkd": {
+            "blacklist": true
+         },
+         "ookcgejbfhcmcanfkfmmmpahflnlajbl": {
+            "blacklist": true
+         },
+         "pbekednmpdekknlffkiopooofokfmkla": {
+            "blacklist": true
+         },
+         "pbglijbamgmlcpnnpbfjkbdeheejjloj": {
+            "blacklist": true
+         },
+         "pfcelnbmkeoaeicedjomcjkcammlkdbk": {
+            "blacklist": true
+         },
+         "pfonklmafadkmcedjlodommcoipgbcde": {
+            "blacklist": true
+         },
+         "pjdhkkcnlbfebiokpeghfffajaabahfo": {
+            "blacklist": true
+         },
+         "pkbbbncikcipejaiiiioboongndhmjgl": {
+            "blacklist": true
+         },
+         "pkbkkendemaimikinaefldfljliecapm": {
+            "blacklist": true
+         },
+         "plfijddblbcdcnammpdmfccchkbdekmm": {
+            "blacklist": true
+         },
+         "pnaiiipilbpcceggeanphcpkkihnojan": {
+            "blacklist": true
+         },
+         "pnnbdjcjeiobikdfikegpclkcimgafpp": {
+            "blacklist": true
+         },
+         "pnpgiaejfbdapllkchhgchjpdbcpiooa": {
+            "blacklist": true
+         },
+         "ppmfajacidhcjbddpgmcmigffpppcadd": {
+            "blacklist": true
+         }
+      },
+      "theme": {
+         "id": "lhkpffmjeodpmligdobfobjjgcmklgeo",
+         "pack": "/home/eraindil/.config/chromium/Default/Extensions/lhkpffmjeodpmligdobfobjjgcmklgeo/1_0/Cached Theme.pak",
+         "use_system": false
+      },
+      "toolbar": [ "gighmmpiobklfepjocnamgkkbiglidom", "hndllphbhpadfpoikpaofkkkpkpnmjik" ],
+      "toolbarsize": -1,
+      "ui": {
+         "developer_mode": false
+      }
+   },
+   "google": {
+      "services": {
+         "username": "KiracorpNivoliez@gmail.com"
+      }
+   },
+   "homepage": "http://www.google.com/",
+   "homepage_is_newtabpage": true,
+   "http_throttling": {
+      "enabled": true
+   },
+   "instant": {
+      "enabled_time": "12973526309472426"
+   },
+   "net": {
+      "http_server_properties": {
+         "accounts.google.com:443": {
+            "settings": [ {
+               "id": 5,
+               "value": 32
+            }, {
+               "id": 6,
+               "value": 0
+            } ],
+            "supports_spdy": true
+         },
+         "accounts.google.fr:443": {
+            "settings": [ {
+               "id": 5,
+               "value": 32
+            }, {
+               "id": 6,
+               "value": 0
+            } ],
+            "supports_spdy": true
+         },
+         "accounts.youtube.com:443": {
+            "settings": [ {
+               "id": 5,
+               "value": 32
+            }, {
+               "id": 6,
+               "value": 0
+            } ],
+            "supports_spdy": true
+         },
+         "ajax.googleapis.com:443": {
+            "settings": [ {
+               "id": 4,
+               "value": 100
+            }, {
+               "id": 5,
+               "value": 4
+            }, {
+               "id": 6,
+               "value": 26
+            } ],
+            "supports_spdy": true
+         },
+         "apis.google.com:443": {
+            "settings": [ {
+               "id": 4,
+               "value": 100
+            }, {
+               "id": 5,
+               "value": 11
+            }, {
+               "id": 6,
+               "value": 0
+            } ],
+            "supports_spdy": true
+         },
+         "blogger.googleusercontent.com:443": {
+            "settings": [ {
+               "id": 4,
+               "value": 100
+            } ],
+            "supports_spdy": true
+         },
+         "chart.googleapis.com:443": {
+            "settings": [ {
+               "id": 4,
+               "value": 100
+            } ],
+            "supports_spdy": true
+         },
+         "checkout.google.com:443": {
+            "settings": [ {
+               "id": 5,
+               "value": 32
+            }, {
+               "id": 6,
+               "value": 0
+            } ],
+            "supports_spdy": true
+         },
+         "chrome.google.com:443": {
+            "settings": [ {
+               "id": 5,
+               "value": 10
+            }, {
+               "id": 6,
+               "value": 4
+            } ],
+            "supports_spdy": true
+         },
+         "clients1.google.com:443": {
+            "settings": [ {
+               "id": 4,
+               "value": 100
+            }, {
+               "id": 5,
+               "value": 10
+            }, {
+               "id": 6,
+               "value": 0
+            } ],
+            "supports_spdy": true
+         },
+         "clients2.google.com:443": {
+            "settings": [ {
+               "id": 4,
+               "value": 100
+            }, {
+               "id": 5,
+               "value": 10
+            }, {
+               "id": 6,
+               "value": 0
+            } ],
+            "supports_spdy": true
+         },
+         "clients2.googleusercontent.com:443": {
+            "settings": [ {
+               "id": 5,
+               "value": 41
+            }, {
+               "id": 6,
+               "value": 9
+            } ],
+            "supports_spdy": true
+         },
+         "clients4.google.com:443": {
+            "settings": [ {
+               "id": 4,
+               "value": 100
+            }, {
+               "id": 5,
+               "value": 9
+            }, {
+               "id": 6,
+               "value": 6
+            } ],
+            "supports_spdy": true
+         },
+         "clients6.google.com:443": {
+            "settings": [ {
+               "id": 5,
+               "value": 32
+            }, {
+               "id": 6,
+               "value": 0
+            } ],
+            "supports_spdy": true
+         },
+         "encrypted-tbn0.google.com:443": {
+            "settings": [ {
+               "id": 5,
+               "value": 32
+            }, {
+               "id": 6,
+               "value": 0
+            } ],
+            "supports_spdy": true
+         },
+         "encrypted-tbn2.google.com:443": {
+            "settings": [ {
+               "id": 4,
+               "value": 100
+            }, {
+               "id": 5,
+               "value": 15
+            }, {
+               "id": 6,
+               "value": 4
+            } ],
+            "supports_spdy": true
+         },
+         "encrypted-tbn3.google.com:443": {
+            "settings": [ {
+               "id": 5,
+               "value": 10
+            }, {
+               "id": 6,
+               "value": 2
+            } ],
+            "supports_spdy": true
+         },
+         "fls.doubleclick.net:443": {
+            "settings": [ {
+               "id": 5,
+               "value": 32
+            }, {
+               "id": 6,
+               "value": 0
+            } ],
+            "supports_spdy": true
+         },
+         "fonts.googleapis.com:443": {
+            "settings": [ {
+               "id": 5,
+               "value": 32
+            }, {
+               "id": 6,
+               "value": 0
+            } ],
+            "supports_spdy": true
+         },
+         "googleads.g.doubleclick.net:443": {
+            "settings": [ {
+               "id": 5,
+               "value": 32
+            }, {
+               "id": 6,
+               "value": 0
+            } ],
+            "supports_spdy": true
+         },
+         "groups.google.com:443": {
+            "settings": [ {
+               "id": 5,
+               "value": 32
+            }, {
+               "id": 6,
+               "value": 0
+            } ],
+            "supports_spdy": true
+         },
+         "i1.ytimg.com:443": {
+            "settings": [ {
+               "id": 4,
+               "value": 100
+            }, {
+               "id": 5,
+               "value": 20
+            }, {
+               "id": 6,
+               "value": 0
+            } ],
+            "supports_spdy": true
+         },
+         "i2.ytimg.com:443": {
+            "settings": [ {
+               "id": 5,
+               "value": 36
+            }, {
+               "id": 6,
+               "value": 0
+            } ],
+            "supports_spdy": true
+         },
+         "i3.ytimg.com:443": {
+            "settings": [ {
+               "id": 5,
+               "value": 19
+            }, {
+               "id": 6,
+               "value": 7
+            } ],
+            "supports_spdy": true
+         },
+         "i4.ytimg.com:443": {
+            "settings": [ {
+               "id": 5,
+               "value": 39
+            }, {
+               "id": 6,
+               "value": 0
+            } ],
+            "supports_spdy": true
+         },
+         "id.google.fr:443": {
+            "settings": [ {
+               "id": 4,
+               "value": 100
+            }, {
+               "id": 5,
+               "value": 10
+            }, {
+               "id": 6,
+               "value": 0
+            } ],
+            "supports_spdy": true
+         },
+         "lh3.googleusercontent.com:443": {
+            "settings": [ {
+               "id": 5,
+               "value": 18
+            }, {
+               "id": 6,
+               "value": 3
+            } ],
+            "supports_spdy": true
+         },
+         "lh4.ggpht.com:443": {
+            "settings": [ {
+               "id": 4,
+               "value": 100
+            }, {
+               "id": 5,
+               "value": 15
+            }, {
+               "id": 6,
+               "value": 11
+            } ],
+            "supports_spdy": true
+         },
+         "lh4.googleusercontent.com:443": {
+            "settings": [ {
+               "id": 4,
+               "value": 100
+            }, {
+               "id": 5,
+               "value": 13
+            }, {
+               "id": 6,
+               "value": 34
+            } ],
+            "supports_spdy": true
+         },
+         "lh5.googleusercontent.com:443": {
+            "settings": [ {
+               "id": 4,
+               "value": 100
+            }, {
+               "id": 5,
+               "value": 10
+            }, {
+               "id": 6,
+               "value": 0
+            } ],
+            "supports_spdy": true
+         },
+         "lh6.googleusercontent.com:443": {
+            "settings": [ {
+               "id": 4,
+               "value": 100
+            }, {
+               "id": 5,
+               "value": 10
+            }, {
+               "id": 6,
+               "value": 3
+            } ],
+            "supports_spdy": true
+         },
+         "maps.google.com:443": {
+            "settings": [ {
+               "id": 5,
+               "value": 5
+            }, {
+               "id": 6,
+               "value": 1
+            } ],
+            "supports_spdy": true
+         },
+         "news.google.com:443": {
+            "settings": [ {
+               "id": 5,
+               "value": 32
+            }, {
+               "id": 6,
+               "value": 0
+            } ],
+            "supports_spdy": true
+         },
+         "plus.google.com:443": {
+            "settings": [ {
+               "id": 4,
+               "value": 100
+            }, {
+               "id": 5,
+               "value": 10
+            }, {
+               "id": 6,
+               "value": 0
+            } ],
+            "supports_spdy": true
+         },
+         "plusone.google.com:443": {
+            "settings": [ {
+               "id": 4,
+               "value": 100
+            }, {
+               "id": 5,
+               "value": 10
+            }, {
+               "id": 6,
+               "value": 0
+            } ],
+            "supports_spdy": true
+         },
+         "qa-lighthouse.sandbox.google.com:443": {
+            "settings": [ {
+               "id": 5,
+               "value": 32
+            }, {
+               "id": 6,
+               "value": 0
+            } ],
+            "supports_spdy": true
+         },
+         "s.youtube.com:443": {
+            "settings": [ {
+               "id": 4,
+               "value": 100
+            } ],
+            "supports_spdy": true
+         },
+         "s.ytimg.com:443": {
+            "settings": [ {
+               "id": 4,
+               "value": 100
+            }, {
+               "id": 5,
+               "value": 16
+            }, {
+               "id": 6,
+               "value": 4
+            } ],
+            "supports_spdy": true
+         },
+         "ssl.google-analytics.com:443": {
+            "settings": [ {
+               "id": 4,
+               "value": 100
+            }, {
+               "id": 5,
+               "value": 10
+            }, {
+               "id": 6,
+               "value": 0
+            } ],
+            "supports_spdy": true
+         },
+         "ssl.gstatic.com:443": {
+            "settings": [ {
+               "id": 4,
+               "value": 100
+            }, {
+               "id": 5,
+               "value": 27
+            }, {
+               "id": 6,
+               "value": 0
+            } ],
+            "supports_spdy": true
+         },
+         "static.doubleclick.net:443": {
+            "settings": [ {
+               "id": 5,
+               "value": 32
+            }, {
+               "id": 6,
+               "value": 0
+            } ],
+            "supports_spdy": true
+         },
+         "themes.googleusercontent.com:443": {
+            "settings": [ {
+               "id": 5,
+               "value": 14
+            }, {
+               "id": 6,
+               "value": 6
+            } ],
+            "supports_spdy": true
+         },
+         "www.google.com:443": {
+            "settings": [ {
+               "id": 4,
+               "value": 100
+            }, {
+               "id": 5,
+               "value": 10
+            }, {
+               "id": 6,
+               "value": 0
+            } ],
+            "supports_spdy": true
+         },
+         "www.google.fr:443": {
+            "settings": [ {
+               "id": 4,
+               "value": 100
+            }, {
+               "id": 5,
+               "value": 29
+            }, {
+               "id": 6,
+               "value": 0
+            } ],
+            "supports_spdy": true
+         },
+         "www.googleadservices.com:443": {
+            "settings": [ {
+               "id": 5,
+               "value": 32
+            }, {
+               "id": 6,
+               "value": 0
+            } ],
+            "supports_spdy": true
+         },
+         "www.gstatic.com:443": {
+            "settings": [ {
+               "id": 5,
+               "value": 5
+            }, {
+               "id": 6,
+               "value": 0
+            } ],
+            "supports_spdy": true
+         },
+         "www.youtube-nocookie.com:443": {
+            "settings": [ {
+               "id": 4,
+               "value": 100
+            } ],
+            "supports_spdy": true
+         },
+         "www.youtube.com:443": {
+            "settings": [ {
+               "id": 4,
+               "value": 100
+            }, {
+               "id": 5,
+               "value": 16
+            }, {
+               "id": 6,
+               "value": 0
+            } ],
+            "supports_spdy": true
+         }
+      }
+   },
+   "ntp": {
+      "app_page_names": [ "Applications" ],
+      "promo_build": 0,
+      "promo_closed": false,
+      "promo_end": 1323071940.0,
+      "promo_feature_mask": 0,
+      "promo_group": 91,
+      "promo_group_max": 0,
+      "promo_group_timeslice": 0,
+      "promo_is_logged_in_to_plus": true,
+      "promo_line": "\u003Ca href=\"http://www.google.fr/chromebook/index.html#utm_campaign=fr&utm_source=fr-ntp-holidays-fr-bkws&utm_medium=ntp-holidays\"\u003ED\u00E9couvrez les Chromebooks\u003C/a\u003E \u2013 l'ordinateur par Google Chrome",
+      "promo_platform": 0,
+      "promo_resource_cache_update": "1334423868.04648",
+      "promo_start": 1321862280.0,
+      "promo_views": 0,
+      "promo_views_max": 0,
+      "shown_page": 1024
+   },
+   "plugins": {
+      "enabled_internal_pdf3": true,
+      "enabled_nacl": true,
+      "last_internal_directory": "/usr/lib64/chromium-browser",
+      "plugins_list": [ {
+         "enabled": true,
+         "name": "Remoting Viewer",
+         "path": "internal-remoting-viewer",
+         "version": ""
+      }, {
+         "enabled": true,
+         "name": "Remoting Viewer"
+      }, {
+         "enabled": true,
+         "name": "Native Client",
+         "path": "/usr/lib64/chromium-browser/libppGoogleNaClPluginChrome.so",
+         "version": ""
+      }, {
+         "enabled": true,
+         "name": "Native Client"
+      }, {
+         "enabled": true,
+         "name": "VLC Multimedia Plug-in",
+         "path": "/usr/lib64/nsbrowser/plugins/libvlcplugin.so",
+         "version": ""
+      }, {
+         "enabled": true,
+         "name": "VLC Multimedia Plug-in"
+      }, {
+         "enabled": true,
+         "name": "Shockwave Flash",
+         "path": "/opt/Adobe/flash-player/flash-plugin/libflashplayer.so",
+         "version": "11.1 r102"
+      }, {
+         "enabled": true,
+         "name": "Flash"
+      } ]
+   },
+   "profile": {
+      "avatar_index": 0,
+      "content_settings": {
+         "pref_version": 1
+      },
+      "exited_cleanly": false,
+      "local_profile_id": 2452765,
+      "name": "Premier utilisateur"
+   },
+   "selectfile": {
+      "last_directory": "/home/eraindil/.spoutcraft/screenshots"
+   },
+   "sync": {
+      "acknowledged_types": [ "Bookmarks", "Preferences", "Passwords", "Autofill Profiles", "Autofill", "Themes", "Typed URLs", "Extensions", "Encryption keys", "Search Engines", "Sessions", "Apps", "App Notifications" ],
+      "app_notifications": true,
+      "app_settings": true,
+      "apps": true,
+      "autofill": true,
+      "autofill_profile": true,
+      "bookmarks": true,
+      "encryption_bootstrap_token": "djEwCYNH+AnKxBA6sqHqmgaKD7hU3ZGJVo58L+PVD5xai3czPGbEFujOp6Tif4d+GGbHYpHbyiUbGgUrMtyKIE9f2A==",
+      "extension_settings": true,
+      "extensions": true,
+      "has_setup_completed": true,
+      "keep_everything_synced": true,
+      "last_synced_time": "12978915185531600",
+      "max_invalidation_versions": {
+         "10": "1333148698489000",
+         "11": "1332962597023000",
+         "12": "1334370638207000",
+         "13": "1334000218901000",
+         "2": "1334329492922000",
+         "3": "1329052522358000",
+         "4": "1333221424977000",
+         "6": "1334265863023000",
+         "7": "1333724100889000",
+         "8": "1334180579386000",
+         "9": "1334377904677000"
+      },
+      "passwords": true,
+      "preferences": true,
+      "search_engines": true,
+      "session_sync_guid": "session_syncn+8IFbL09CEACQSENF5EXw==",
+      "sessions": true,
+      "suppress_start": false,
+      "themes": true,
+      "typed_urls": true,
+      "using_oauth": false
+   },
+   "sync_promo": {
+      "startup_count": 1,
+      "user_skipped": true,
+      "view_count": 1
+   },
+   "translate": {
+      "enabled": false
+   },
+   "translate_accepted_count": {
+      "en": 0
+   },
+   "translate_denied_count": {
+      "en": 1
+   },
+   "translate_language_blacklist": [ "en" ]
+}

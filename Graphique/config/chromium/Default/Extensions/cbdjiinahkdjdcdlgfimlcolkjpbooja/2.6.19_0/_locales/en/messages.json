@@ -1,0 +1,80 @@
+{
+   "available1080": {
+      "message": "Show 1080p video if available"
+   },
+   "available240": {
+      "message": "Show 240p video if available"
+   },
+   "available2k": {
+      "message": "Show 2k video if available"
+   },
+   "available360": {
+      "message": "Show 360p video if available"
+   },
+   "available480": {
+      "message": "Show 480p video if available"
+   },
+   "available720": {
+      "message": "Show 720p video if available"
+   },
+   "availablemp3": {
+      "message": "Show MP3 audio if availible"
+   },
+   "availablewebm": {
+      "message": "Show WebM video if availible"
+   },
+   "buttonstyle": {
+      "message": "Button Style"
+   },
+   "clasicdownload": {
+      "message": "Classic download"
+   },
+   "description": {
+      "message": "Download videos from YouTube - it's easy..."
+   },
+   "disableflv": {
+      "message": "Diable FLV videos"
+   },
+   "includenick": {
+      "message": "Add uploader username before title"
+   },
+   "includequality": {
+      "message": "Append video quality after title"
+   },
+   "installmessage": {
+      "message": "Chrome YouTube Downloader is now installed!"
+   },
+   "language": {
+      "message": "en"
+   },
+   "loadingsettings": {
+      "message": "Loading settings..."
+   },
+   "nickname": {
+      "message": "mt"
+   },
+   "oneclickdownload": {
+      "message": "1-Click Download"
+   },
+   "oneclicktext": {
+      "message": "Download highest possible resolution. "
+   },
+   "saved": {
+      "message": "Options saved"
+   },
+   "settingspagetitle": {
+      "message": "Chrome YouTube Downloader - Settings"
+   },
+   "translated": {
+      "message": "Translated By: "
+   },
+   "updatemessage": {
+      "message": "Chrome YouTube Downloaded is updated!"
+   },
+   "videoformats": {
+      "message": "Video formats"
+   },
+   "videotitle": {
+      "message": "Video Title"
+   }
+}

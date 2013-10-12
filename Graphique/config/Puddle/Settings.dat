@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<Settings languages="French">
+	<Display width="1920" height="1080" windowWidth="1280" windowHeight="720" fullScreen="true" vsync="true" displayDeviceName="" aspectRatio="16:9"/>
+</Settings>

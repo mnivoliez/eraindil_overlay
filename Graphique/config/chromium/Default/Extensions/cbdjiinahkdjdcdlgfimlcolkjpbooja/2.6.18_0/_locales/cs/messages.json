@@ -1,0 +1,80 @@
+{
+   "available1080": {
+      "message": "Zobrazit 1080p video pokud je dostupn\u00E9"
+   },
+   "available240": {
+      "message": "Zobrazit 240p video pokud je dostupn\u00E9"
+   },
+   "available2k": {
+      "message": "Zobrazit 2k video pokud je dostupn\u00E9"
+   },
+   "available360": {
+      "message": "Zobrazit 360p video pokud je dostupn\u00E9"
+   },
+   "available480": {
+      "message": "Zobrazit 480p video pokud je dostupn\u00E9"
+   },
+   "available720": {
+      "message": "Zobrazit 720p video pokud je dostupn\u00E9"
+   },
+   "availablemp3": {
+      "message": "Zobrazit MP3"
+   },
+   "availablewebm": {
+      "message": "Zobrazit WebM form\u00E1t pokud je dostupn\u00FD"
+   },
+   "buttonstyle": {
+      "message": "Styl Tla\u010D\u00EDtka"
+   },
+   "clasicdownload": {
+      "message": "Klasick\u00E9 Stahov\u00E1n\u00ED"
+   },
+   "description": {
+      "message": "Stahujte videa z YouTube! Je to snadn\u00E9..."
+   },
+   "disableflv": {
+      "message": "Zak\u00E1zat FLV videa"
+   },
+   "includenick": {
+      "message": "Vlo\u017Eit p\u0159ed n\u00E1zev videa jm\u00E9no uploadera"
+   },
+   "includequality": {
+      "message": "Vlo\u017Eit za n\u00E1zev videa jeho kvalitu"
+   },
+   "installmessage": {
+      "message": "Chrome YouTube Downloader byl pr\u00E1v\u011B nainstalov\u00E1n!"
+   },
+   "language": {
+      "message": "cs"
+   },
+   "loadingsettings": {
+      "message": "Na\u010D\u00EDt\u00E1n\u00ED Nastaven\u00ED..."
+   },
+   "nickname": {
+      "message": "mandel99"
+   },
+   "oneclickdownload": {
+      "message": "Stahov\u00E1n\u00ED Jedn\u00EDm Kliknut\u00EDm"
+   },
+   "oneclicktext": {
+      "message": "Pokud je video dostupn\u00E9 ve vybran\u00E9m rozli\u0161en\u00ED, automaticky se nab\u00EDdne ke sta\u017Een\u00ED, pokud video ve vybran\u00E9m rozli\u0161en\u00ED nen\u00ED dostupn\u00E9, nab\u00EDdne se ke sta\u017Een\u00ED nejbli\u017E\u0161\u00ED video v ni\u017E\u0161\u00ED kvalit\u011B."
+   },
+   "saved": {
+      "message": "Nastaven\u00ED Ulo\u017Eeno"
+   },
+   "settingspagetitle": {
+      "message": "Chrome YouTube Downloader - Nastaven\u00ED"
+   },
+   "translated": {
+      "message": "P\u0159elo\u017Eil:"
+   },
+   "updatemessage": {
+      "message": "Chrome YouTube Downloader je aktualizov\u00E1n!"
+   },
+   "videoformats": {
+      "message": "Form\u00E1t Videa"
+   },
+   "videotitle": {
+      "message": "N\u00E1zev Videa"
+   }
+}

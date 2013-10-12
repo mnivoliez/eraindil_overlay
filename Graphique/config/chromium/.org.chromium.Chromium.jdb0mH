@@ -1,0 +1,196 @@
+{
+   "background_mode": {
+      "enabled": false
+   },
+   "browser": {
+      "last_redirect_origin": ""
+   },
+   "http_original_content_length": "12721712069",
+   "http_received_content_length": "12721712069",
+   "local_state": {
+      "multiple_profile_prefs_version": 7
+   },
+   "ntp": {
+      "intro_display_count": 11,
+      "webstore_enabled": false
+   },
+   "plugins": {
+      "metadata": {
+         "adobe-flash-player": {
+            "displayurl": true,
+            "group_name_matcher": "Shockwave Flash",
+            "help_url": "https://support.google.com/chrome/?p=plugin_flash",
+            "lang": "en-US",
+            "mime_types": [ "application/futuresplash", "application/x-shockwave-flash" ],
+            "name": "Adobe Flash Player",
+            "url": "http://get.adobe.com/flashplayer/",
+            "versions": [ {
+               "reference": "http://www.adobe.com/support/security/bulletins/apsb12-03.html",
+               "status": "up_to_date",
+               "version": "11.1.102"
+            } ]
+         },
+         "google-chrome-pdf": {
+            "group_name_matcher": "Chrome PDF Viewer",
+            "name": "Chrome PDF Viewer",
+            "versions": [ {
+               "comment": "Google Chrome PDF has no version information.",
+               "status": "up_to_date",
+               "version": "0"
+            } ]
+         },
+         "google-talk": {
+            "group_name_matcher": "Google Talk",
+            "name": "Google Talk",
+            "versions": [ {
+               "comment": "'Google Talk Plugin' and 'Google Talk Plugin Video Accelerator' use two completely different versioning schemes, so we can't define a minimum version.",
+               "status": "up_to_date",
+               "version": "0"
+            } ]
+         },
+         "java-runtime-environment": {
+            "displayurl": true,
+            "group_name_matcher": "Java",
+            "help_url": "https://support.google.com/chrome/?p=plugin_java",
+            "lang": "en-US",
+            "mime_types": [ "application/x-java-applet", "application/x-java-applet,version=1.1", "application/x-java-applet,version=1.1.1", "application/x-java-applet,version=1.1.2", "application/x-java-applet,version=1.1.3", "application/x-java-applet,version=1.2", "application/x-java-applet,version=1.2.1", "application/x-java-applet,version=1.2.2", "application/x-java-applet,version=1.3", "application/x-java-applet,version=1.3.1", "application/x-java-applet,version=1.4", "application/x-java-applet,version=1.4.1", "application/x-java-applet,version=1.4.2", "application/x-java-applet,version=1.5", "application/x-java-applet,version=1.6", "application/x-java-applet,version=1.7", "application/x-java-bean", "application/x-java-bean,version=1.1", "application/x-java-bean,version=1.1.1", "application/x-java-bean,version=1.1.2", "application/x-java-bean,version=1.1.3", "application/x-java-bean,version=1.2", "application/x-java-bean,version=1.2.1", "application/x-java-bean,version=1.2.2", "application/x-java-bean,version=1.3", "application/x-java-bean,version=1.3.1", "application/x-java-bean,version=1.4", "application/x-java-bean,version=1.4.1", "application/x-java-bean,version=1.4.2", "application/x-java-bean,version=1.5", "application/x-java-bean,version=1.6", "application/x-java-bean,version=1.7", "application/x-java-vm" ],
+            "name": "Java(TM)",
+            "url": "http://java.com/download",
+            "versions": [ {
+               "status": "requires_authorization",
+               "version": "1.6.0.33"
+            }, {
+               "status": "out_of_date",
+               "version": "1.7"
+            }, {
+               "status": "requires_authorization",
+               "version": "1.7.0.5"
+            } ]
+         },
+         "redhat-icetea-java": {
+            "displayurl": true,
+            "group_name_matcher": "IcedTea",
+            "lang": "en-US",
+            "name": "IcedTea",
+            "url": "http://icedtea.classpath.org/",
+            "versions": [ {
+               "reference": "http://blog.fuseyism.com/index.php/2012/02/15/security-icedtea6-1-8-13-1-9-13-1-10-6-and-icedtea-2-0-1-released/",
+               "status": "requires_authorization",
+               "version": "1.8.13"
+            }, {
+               "status": "out_of_date",
+               "version": "1.9"
+            }, {
+               "reference": "http://blog.fuseyism.com/index.php/2012/02/15/security-icedtea6-1-8-13-1-9-13-1-10-6-and-icedtea-2-0-1-released/",
+               "status": "requires_authorization",
+               "version": "1.9.13"
+            }, {
+               "status": "out_of_date",
+               "version": "1.10"
+            }, {
+               "reference": "http://blog.fuseyism.com/index.php/2012/02/15/security-icedtea6-1-8-13-1-9-13-1-10-6-and-icedtea-2-0-1-released/",
+               "status": "requires_authorization",
+               "version": "1.10.6"
+            }, {
+               "status": "out_of_date",
+               "version": "2"
+            }, {
+               "reference": "http://blog.fuseyism.com/index.php/2012/02/15/security-icedtea6-1-8-13-1-9-13-1-10-6-and-icedtea-2-0-1-released/",
+               "status": "requires_authorization",
+               "version": "2.0.1"
+            } ]
+         }
+      },
+      "resource_cache_update": "1355385588.921726"
+   },
+   "policy": {
+      "last_statistics_update": "12999859129174876"
+   },
+   "profile": {
+      "info_cache": {
+         "Default": {
+            "avatar_icon": "chrome://theme/IDR_PROFILE_AVATAR_0",
+            "background_apps": true,
+            "name": "Premier utilisateur",
+            "user_name": "KiracorpNivoliez@gmail.com"
+         }
+      },
+      "last_active_profiles": [ "Default" ],
+      "last_used": "Default"
+   },
+   "protocol_handler": {
+      "excluded_schemes": {
+         "afp": true,
+         "data": true,
+         "disk": true,
+         "disks": true,
+         "file": true,
+         "hcp": true,
+         "javascript": true,
+         "mailto": false,
+         "ms-help": true,
+         "news": false,
+         "nntp": true,
+         "shell": true,
+         "snews": false,
+         "ts3server": false,
+         "vbscript": true,
+         "view-source": true,
+         "vnd": {
+            "ms": {
+               "radio": true
+            }
+         }
+      }
+   },
+   "safe_browsing": {
+      "client_key": "rtGxWHbJE0qveBBP8R1m6g==",
+      "wrapped_key": "AKEgNisjZkqvOFKehQVz08DQUO2LY2gBC9tx--xL8lFhgrT5w29oGB9CpSzWnV_vNRmJBIBD4cJ9MRUYLslpM-eIAZVjBFoZTA=="
+   },
+   "show-first-run-bubble": false,
+   "shutdown": {
+      "num_processes": 0,
+      "num_processes_slow": 0,
+      "type": 0
+   },
+   "task_manager": {
+      "window_placement": {
+         "bottom": 651,
+         "left": 396,
+         "maximized": false,
+         "right": 879,
+         "top": 381
+      }
+   },
+   "uninstall_metrics": {
+      "installation_date2": "1329048125",
+      "launch_count": "1025"
+   },
+   "user_experience_metrics": {
+      "low_entropy_source": 4853,
+      "session_id": 1024,
+      "stability": {
+         "breakpad_registration_fail": 21,
+         "breakpad_registration_ok": 0,
+         "crash_count": 1,
+         "debugger_not_present": 21,
+         "debugger_present": 0,
+         "exited_cleanly": false,
+         "incomplete_session_end_count": 0,
+         "last_timestamp_sec": "1355468045",
+         "launch_count": 21,
+         "launch_time_sec": "1355404745",
+         "page_load_count": 0,
+         "renderer_crash_count": 0,
+         "renderer_hang_count": 0,
+         "session_end_completed": true,
+         "stats_buildtime": "1354672129",
+         "stats_version": "24.0.1312.27-64-devel"
+      }
+   },
+   "variations_seed": "Cig1Mjg2ZGE4NmQ2NDgxOTQ0NzdhZjViOWZhMjYwOTI3Yzg5MjBlNjcwEmYKCEFzeW5jRG5zGMTNiIcFOABCClN5c3RlbURuc0FKDgoKU3lzdGVtRG5zQRAZSg4KClN5c3RlbURuc0IQGUoNCglBc3luY0Ruc0EQGUoNCglBc3luY0Ruc0IQGVIIEgQyNS4qKAMSbgoIQXN5bmNEbnMYxJvjigU4AEIKU3lzdGVtRG5zQUoOCgpTeXN0ZW1EbnNBEBlKDgoKU3lzdGVtRG5zQhAZSg0KCUFzeW5jRG5zQRAZSg0KCUFzeW5jRG5zQhAZUhASBDI0LiogACABKAAoASgCEpABChhDYWNoZVNlbnNpdGl2aXR5QW5hbHlzaXMYxM2IhwVCAk5vSgYKAk5vECRKDAoIQ29udHJvbEEQCEoMCghDb250cm9sQhAISggKBDEwMEEQCEoICgQxMDBCEAhKCAoEMjAwQRAISggKBDIwMEIQCEoICgQ0MDBBEAhKCAoENDAwQhAIUgogACABKAAoASgCEmMKI1VNQS1EeW5hbWljLUJpbmFyeS1Vbmlmb3JtaXR5LVRyaWFsGICckqUFOAFCB2RlZmF1bHRKEAoHZGVmYXVsdBBQGKm2yQFKEQoIZ3JvdXBfMDEQFBiqtskBUgYgACABIAISXwojVU1BLUR5bmFtaWMtQmluYXJ5LVVuaWZvcm1pdHktVHJpYWwYgJySpQU4AUIHZGVmYXVsdEoQCgdkZWZhdWx0EFoYqbbJAUoRCghncm91cF8wMRAKGKq2yQFSAiADElcKFEZvcmNlQ29tcG9zaXRpbmdNb2RlGICSiJYFOAFCB2Rpc2FibGVKCwoHZGlzYWJsZRBkSgsKB2VuYWJsZWQQAEoKCgZ0aHJlYWQQAFIIEgQyNC4qKAISWwoURm9yY2VDb21wb3NpdGluZ01vZGUYgJKIlgU4AUIHZGlzYWJsZUoLCgdkaXNhYmxlEABKCwoHZW5hYmxlZBBkSgoKBnRocmVhZBAAUgwSBDI0LiogASAAKAESWwoURm9yY2VDb21wb3NpdGluZ01vZGUYgJKIlgU4AUIHZGlzYWJsZUoLCgdkaXNhYmxlEGRKCwoHZW5hYmxlZBAASgoKBnRocmVhZBAAUgwSBDI0LiogAyACKAESVwoURm9yY2VDb21wb3NpdGluZ01v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yQFKEQoIZ3JvdXBfMzgQARjGtckBShEKCGdyb3VwXzM5EAEYx7XJAUoRCghncm91cF80MBABGMi1yQFKEQoIZ3JvdXBfNDEQARjJtckBShEKCGdyb3VwXzQyEAEYyrXJAUoRCghncm91cF80MxABGMu1yQFKEQoIZ3JvdXBfNDQQARjMtckBShEKCGdyb3VwXzQ1EAEYzbXJAUoRCghncm91cF80NhABGM61yQFKEQoIZ3JvdXBfNDcQARjPtckBShEKCGdyb3VwXzQ4EAEY0LXJAUoRCghncm91cF80ORABGNG1yQFKEQoIZ3JvdXBfNTAQARjStckBShEKCGdyb3VwXzUxEAEY07XJAUoRCghncm91cF81MhABGNS1yQFKEQoIZ3JvdXBfNTMQARjVtckBShEKCGdyb3VwXzU0EAEY1rXJAUoRCghncm91cF81NRABGNe1yQFKEQoIZ3JvdXBfNTYQARjYtckBShEKCGdyb3VwXzU3EAEY2bXJAUoRCghncm91cF81OBABGNq1yQFKEQoIZ3JvdXBfNTkQARjbtckBShEKCGdyb3VwXzYwEAEY3LXJAUoRCghncm91cF82MRABGN21yQFKEQoIZ3JvdXBfNjIQARjetckBShEKCGdyb3VwXzYzEAEY37XJAUoRCghncm91cF82NBABGOC1yQFKEQoIZ3JvdXBfNjUQARjhtckBShEKCGdyb3VwXzY2EAEY4rXJAUoRCghncm91cF82NxABGOO1yQFKEQoIZ3JvdXBfNjgQARjktckBShEKCGdyb3VwXzY5EAEY5bXJAUoRCghncm91cF83MBABGOa1yQFKEQoIZ3JvdXBfNzEQARjntckBShEKCGdyb3VwXzcyEAEY6LXJAUoRCghncm91cF83MxABGOm1yQFKEQoIZ3JvdXBfNzQQARjqtckBShEKCGdyb3VwXzc1EAEY67XJAUoRCghncm91cF83NhABGOy1yQFKEQoIZ3JvdXBfNzcQARjttckBShEKCGdyb3VwXzc4EAEY7rXJAUoRCghncm91cF83ORABGO+1yQFKEQoIZ3JvdXBfODAQARjwtckBShEKCGdyb3VwXzgxEAEY8bXJAUoRCghncm91cF84MhABGPK1yQFKEQoIZ3JvdXBfODMQARjztckBShEKCGdyb3VwXzg0EAEY9LXJAUoRCghncm91cF84NRABGPW1yQFKEQoIZ3JvdXBfODYQARj2tckBShEKCGdyb3VwXzg3EAEY97XJAUoRCghncm91cF84OBABGPi1yQFKEQoIZ3JvdXBfODkQARj5tckBShEKCGdyb3VwXzkwEAEY+rXJAUoRCghncm91cF85MRABGPu1yQFKEQoIZ3JvdXBfOTIQARj8tckBShEKCGdyb3VwXzkzEAEY/bXJAUoRCghncm91cF85NBABGP61yQFKEQoIZ3JvdXBfOTUQARj/tckBShEKCGdyb3VwXzk2EAEYgLbJAUoRCghncm91cF85NxABGIG2yQFKEQoIZ3JvdXBfOTgQARiCtskBShEKCGdyb3VwXzk5EAEYg7bJARKQAQofVU1BLVVuaWZvcm1pdHktVHJpYWwtMjAtUGVyY2VudBiAnJKlBTgBQgdkZWZhdWx0ShAKB2RlZmF1bHQQARiitskBShEKCGdyb3VwXzAxEAEYo7bJAUoRCghncm91cF8wMhABGKS2yQFKEQoIZ3JvdXBfMDMQARiltskBShEKCGdyb3VwXzA0EAEYprbJARJXCh9VTUEtVW5pZm9ybWl0eS1UcmlhbC01MC1QZXJjZW50GICckqUFOAFCB2RlZmF1bHRKEAoHZGVmYXVsdBABGKe2yQFKEQoIZ3JvdXBfMDEQARiotskBEqwDCh5VTUEtVW5pZm9ybWl0eS1UcmlhbC01LVBlcmNlbnQYgJySpQU4AUIHZGVmYXVsdEoQCgdkZWZhdWx0EAEYhLbJAUoRCghncm91cF8wMRABGIW2yQFKEQoIZ3JvdXBfMDIQARiGtskBShEKCGdyb3VwXzAzEAEYh7bJAUoRCghncm91cF8wNBABGIi2yQFKEQoIZ3JvdXBfMDUQARiJtskBShEKCGdyb3VwXzA2EAEYirbJAUoRCghncm91cF8wNxABGIu2yQFKEQoIZ3JvdXBfMDgQARiMtskBShEKCGdyb3VwXzA5EAEYjbbJAUoRCghncm91cF8xMBABGI62yQFKEQoIZ3JvdXBfMTEQARiPtskBShEKCGdyb3VwXzEyEAEYkLbJAUoRCghncm91cF8xMxABGJG2yQFKEQoIZ3JvdXBfMTQQARiStskBShEKCGdyb3VwXzE1EAEYk7bJAUoRCghncm91cF8xNhABGJS2yQFKEQoIZ3JvdXBfMTcQARiVtskBShEKCGdyb3VwXzE4EAEYlrbJAUoRCghncm91cF8xORABGJe2yQE=",
+   "variations_seed_date": "12999824371000000",
+   "was": {
+      "restarted": false
+   }
+}

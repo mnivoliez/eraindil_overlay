@@ -1,0 +1,65 @@
+{
+   "available1080": {
+      "message": "Prika\u017Ei 1080p video fajlove ako su dostupni"
+   },
+   "available240": {
+      "message": "Prika\u017Ei 240p video fajlove ako su dostupni"
+   },
+   "available2k": {
+      "message": "Prika\u017Ei 2k video fajlove ako su dostupni"
+   },
+   "available360": {
+      "message": "Prika\u017Ei 360p video fajlove ako su dostupni"
+   },
+   "available480": {
+      "message": "Prika\u017Ei 480p video fajlove ako su dostupni"
+   },
+   "available720": {
+      "message": "Prika\u017Ei 720p video fajlove ako su dostupni"
+   },
+   "availablemp3": {
+      "message": "Prika\u017Ei MP3"
+   },
+   "availablewebm": {
+      "message": "Prika\u017Ei WebM video fajlove ako su dostupni"
+   },
+   "buttonstyle": {
+      "message": "Stil dugmeta"
+   },
+   "clasicdownload": {
+      "message": "Klasi\u010Dno preuzimanje"
+   },
+   "description": {
+      "message": "Preuzmi video sa YouTube-a! Lako je..."
+   },
+   "disableflv": {
+      "message": "Onemogu\u0107i FLV video fajlove"
+   },
+   "includenick": {
+      "message": "Dodaj korisni\u010Dko ime osobe koja je postavila video pre naziva"
+   },
+   "includequality": {
+      "message": "Dodaj nivo kvaliteta iza naziva"
+   },
+   "nickname": {
+      "message": "Preveo: rokic@mida-studio.com"
+   },
+   "oneclickdownload": {
+      "message": "Jedan klik za preuzimanje"
+   },
+   "oneclicktext": {
+      "message": "Ako je video dostupan u izabranoj rezoluciji automatski \u0107e biti ponu\u0111en za preuzimanje, ali ako video nije dostupan za preuzimanje izaberite slede\u0107i ni\u017Ei nivo rezolucije video fajla."
+   },
+   "saved": {
+      "message": "Opcije su sa\u010Duvane"
+   },
+   "settingspagetitle": {
+      "message": "Chrome YouTube Preuzimanje - Pode\u0161avanja"
+   },
+   "videoformats": {
+      "message": "Video Formati"
+   },
+   "videotitle": {
+      "message": "Naziv video fajla"
+   }
+}

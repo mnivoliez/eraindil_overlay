@@ -1,5 +1,5 @@
 [Desktop Entry]
 Type=Application
-Name=Minecraft
-Icon=/media/multimedia/Images/Jeu_video/minecraft_icon_by_gimilkhor-d36xhh8.png
+Name=SpoutCraft
+Icon=/media/multimedia/Images/Jeu_video/spouticon.png
 Exec=java -jar /media/utilitaire/Install/Jeux/Minecraft/Spoutcraft.jar

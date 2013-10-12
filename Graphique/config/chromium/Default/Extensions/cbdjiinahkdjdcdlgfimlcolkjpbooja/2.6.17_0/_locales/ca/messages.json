@@ -1,0 +1,80 @@
+{
+   "available1080": {
+      "message": "Mostra videos de 1080 p\u00EDxels de resoluci\u00F3 si s\u00F3n disponibles"
+   },
+   "available240": {
+      "message": "Mostra videos de 240 p\u00EDxels de resoluci\u00F3 si s\u00F3n disponibles"
+   },
+   "available2k": {
+      "message": "Mostra videos de 2000 p\u00EDxels de resoluci\u00F3 si s\u00F3n disponibles"
+   },
+   "available360": {
+      "message": "Mostra videos de 360 p\u00EDxels de resoluci\u00F3 si s\u00F3n disponibles"
+   },
+   "available480": {
+      "message": "Mostra videos de 480 p\u00EDxels de resoluci\u00F3 si s\u00F3n disponibles"
+   },
+   "available720": {
+      "message": "Mostra videos de 720 p\u00EDxels de resoluci\u00F3 si s\u00F3n disponibles"
+   },
+   "availablemp3": {
+      "message": "Mostra MP3"
+   },
+   "availablewebm": {
+      "message": "Mostra videos WebM si s\u00F3n disponibles"
+   },
+   "buttonstyle": {
+      "message": "Estil de bot\u00F3"
+   },
+   "clasicdownload": {
+      "message": "Desc\u00E0rrega cl\u00E0ssica"
+   },
+   "description": {
+      "message": "Baixa videos de YouTube! \u00C9s f\u00E0cil..."
+   },
+   "disableflv": {
+      "message": "Desactiva videos en FLV"
+   },
+   "includenick": {
+      "message": "Inclou el nom d'usuari de l'uploader"
+   },
+   "includequality": {
+      "message": "Inclou la qualitat de resoluci\u00F3 al t\u00EDtol "
+   },
+   "installmessage": {
+      "message": "El Chrome YouTube Downloader ha estat instal\u00B7lat!"
+   },
+   "language": {
+      "message": "ca"
+   },
+   "loadingsettings": {
+      "message": "Carregant especificacions"
+   },
+   "nickname": {
+      "message": "danikardone"
+   },
+   "oneclickdownload": {
+      "message": "Baixada en un click"
+   },
+   "oneclicktext": {
+      "message": "Si un video \u00E9s disponible a la resoluci\u00F3 desitjada ser\u00E0 ofert per descarregar autom\u00E0ticament. si no \u00E9s aix\u00ED, s'oferir\u00E0 la desc\u00E0rrega en la resoluci\u00F3 menor m\u00E9s propera."
+   },
+   "saved": {
+      "message": "Les prefer\u00E8ncies han estat desades"
+   },
+   "settingspagetitle": {
+      "message": "Especificacions de Chrome YouTube"
+   },
+   "translated": {
+      "message": "Tradu\u00EFt per:"
+   },
+   "updatemessage": {
+      "message": "El Chrome YouTube Downloader ha estat actualitzat!"
+   },
+   "videoformats": {
+      "message": "Formats de video"
+   },
+   "videotitle": {
+      "message": "T\u00EDtol del video"
+   }
+}

@@ -1,5 +1,5 @@
 background yes
-update_interval 1
+update_interval 0.5
 
 cpu_avg_samples 2
 net_avg_samples 2
@@ -42,8 +42,8 @@ lua_load ~/.conky/conky.lua
 lua_draw_hook_post main
 
 TEXT
-${voffset 25}
-${goto 135}${color4}${font ubuntu:size=22}${time %e}${color1}${offset -55}${font ubuntu:size=10}${time %A}
+${voffset 24}
+${goto 135}${color4}${font ubuntu:size=22}${time %e}${color1}${offset -80}${font ubuntu:size=10}${time %A}
 ${goto 95}${color2}${voffset -0}${font ubuntu:size=9}${time %b}${voffset -2} ${color3}${font ubuntu:size=12}${time %Y}${font}
 
 ${voffset 140}
@@ -68,10 +68,10 @@ ${goto 90}${font Ubuntu:size=7,weight:bold}${color}DISKS
 ${voffset 58}
 ${goto 90}${font Ubuntu:size=7,weight:bold}${color}NET
 ${voffset 10}
-${goto 90}${color2}${font Ubuntu:size=7,weight:bold}${color1}${if_up eth0}eth ${addr eth0} ${endif}${if_up wlan0}wifi ${addr wlan0}${endif}
+${goto 90}${color2}${font Ubuntu:size=7,weight:bold}${color1}${if_up enp7s0}eth ${addr enp7s0} ${endif}${if_up wlan0}wifi ${addr wlan0}${endif}
 ${voffset 5}
-${goto 90}${font Ubuntu:size=7,weight:bold}${color2}Download: ${font Ubuntu:size=7,weight:bold}${color3}${downspeedf eth0}k/s
-${goto 90}${font Ubuntu:size=7,weight:bold}${color2}Upload: ${font Ubuntu:size=7,weight:bold}${color3}${upspeedf eth0}k/s
+${goto 90}${font Ubuntu:size=7,weight:bold}${color2}Download: ${font Ubuntu:size=7,weight:bold}${color3}${downspeedf enp7s0}k/s
+${goto 90}${font Ubuntu:size=7,weight:bold}${color2}Upload: ${font Ubuntu:size=7,weight:bold}${color3}${upspeedf enp7s0}k/s
 
 
 

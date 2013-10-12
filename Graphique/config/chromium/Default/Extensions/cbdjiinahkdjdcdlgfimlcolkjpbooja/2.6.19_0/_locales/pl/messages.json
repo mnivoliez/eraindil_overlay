@@ -1,0 +1,80 @@
+{
+   "available1080": {
+      "message": "Poka\u017C wideo 1080p, je\u015Bli dost\u0119pne"
+   },
+   "available240": {
+      "message": "Poka\u017C wideo 240p, je\u015Bli dost\u0119pne"
+   },
+   "available2k": {
+      "message": "Poka\u017C wideo 2k, je\u015Bli dost\u0119pne"
+   },
+   "available360": {
+      "message": "Poka\u017C wideo 360p, je\u015Bli dost\u0119pne"
+   },
+   "available480": {
+      "message": "Poka\u017C wideo 480p, je\u015Bli dost\u0119pne"
+   },
+   "available720": {
+      "message": "Poka\u017C wideo 720p, je\u015Bli dost\u0119pne"
+   },
+   "availablemp3": {
+      "message": "Poka\u017C MP3"
+   },
+   "availablewebm": {
+      "message": "Poka\u017C pliki WebM, je\u015Bli dost\u0119pne"
+   },
+   "buttonstyle": {
+      "message": "Styl Przycisku"
+   },
+   "clasicdownload": {
+      "message": "Klasyczne Pobieranie"
+   },
+   "description": {
+      "message": "Pobieraj wideo z YouTube! To proste..."
+   },
+   "disableflv": {
+      "message": "Zablokuj pliki FLV"
+   },
+   "includenick": {
+      "message": "Umie\u015B\u0107 nazw\u0119 uploadera przed tytu\u0142em"
+   },
+   "includequality": {
+      "message": "Umie\u015B\u0107 jako\u015B\u0107 za tytu\u0142em"
+   },
+   "installmessage": {
+      "message": "Zainstalowano Chrome YouTube Downloader!"
+   },
+   "language": {
+      "message": "pl"
+   },
+   "loadingsettings": {
+      "message": "\u0141adowanie Ustawie\u0144..."
+   },
+   "nickname": {
+      "message": "Kondziu"
+   },
+   "oneclickdownload": {
+      "message": "Pobieranie jednym klikiem"
+   },
+   "oneclicktext": {
+      "message": "Je\u015Bli wideo jest dost\u0119pne w wybranej rozdzielczo\u015Bci, jest automatycznie oferowane do pobrania, ale je\u015Bli wideo nie jest dost\u0119pne, oferowana jest najbli\u017Csza nisza rozdzielczo\u015B\u0107."
+   },
+   "saved": {
+      "message": "Opcje Zapisane"
+   },
+   "settingspagetitle": {
+      "message": "Chrome YouTube Downloader - Ustawienia"
+   },
+   "translated": {
+      "message": "Przet\u0142umaczony przez:"
+   },
+   "updatemessage": {
+      "message": "Chrome YouTube Downloader zosta\u0142 zaktualizowany!"
+   },
+   "videoformats": {
+      "message": "Formaty Wideo"
+   },
+   "videotitle": {
+      "message": "Tytu\u0142 Wideo"
+   }
+}

@@ -1,0 +1,80 @@
+{
+   "available1080": {
+      "message": "1080p videoyu m\u00FCmk\u00FCnse g\u00F6ster"
+   },
+   "available240": {
+      "message": "240p videoyu m\u00FCmk\u00FCnse g\u00F6ster"
+   },
+   "available2k": {
+      "message": "2k videoyu m\u00FCmk\u00FCnse g\u00F6ster"
+   },
+   "available360": {
+      "message": "360p videoyu m\u00FCmk\u00FCnse g\u00F6ster"
+   },
+   "available480": {
+      "message": "480p videoyu m\u00FCmk\u00FCnse g\u00F6ster"
+   },
+   "available720": {
+      "message": "720p videoyu m\u00FCmk\u00FCnse g\u00F6ster"
+   },
+   "availablemp3": {
+      "message": "Mp3 g\u00F6ster"
+   },
+   "availablewebm": {
+      "message": "WebM videolarini m\u00FCmk\u00FCnse g\u00F6ster"
+   },
+   "buttonstyle": {
+      "message": "D\u00FCgme Stili"
+   },
+   "clasicdownload": {
+      "message": "Klasik Indirme"
+   },
+   "description": {
+      "message": "Youtube'den videolari indirin! \u00C7ok kolay..."
+   },
+   "disableflv": {
+      "message": "FLV videolarini devre di\u015Fi birak"
+   },
+   "includenick": {
+      "message": "Ba\u015Fligin \u00F6n\u00FCnde y\u00FCkleyenin kullanici adini i\u00E7er"
+   },
+   "includequality": {
+      "message": "Ba\u015Fligin arkasinda kaliteyi i\u00E7er"
+   },
+   "installmessage": {
+      "message": "Chrome YouTube Downloader \u015Fimdi kuruldu!"
+   },
+   "language": {
+      "message": "tr"
+   },
+   "loadingsettings": {
+      "message": "Ayarlar y\u00FCkleniyor..."
+   },
+   "nickname": {
+      "message": "OvuncT"
+   },
+   "oneclickdownload": {
+      "message": "Tek Tu\u015Fla Indirme"
+   },
+   "oneclicktext": {
+      "message": "Bir video se\u00E7ilen \u00E7\u00F6z\u00FCn\u00FCrl\u00FCkte varsa otomatik olarak indirilir, ancak video se\u00E7ilen \u00E7\u00F6z\u00FCn\u00FCrl\u00FCkte yoksa, m\u00FCmk\u00FCn olan en y\u00FCksek \u00E7\u00F6z\u00FCn\u00FCrl\u00FCkte indirilir."
+   },
+   "saved": {
+      "message": "Ayarlar kaydedildi"
+   },
+   "settingspagetitle": {
+      "message": "Chrome YouTube Downloader - Ayarlar"
+   },
+   "translated": {
+      "message": "\u00C7eviren:"
+   },
+   "updatemessage": {
+      "message": "Chrome YouTube Downloader g\u00FCncellendi!"
+   },
+   "videoformats": {
+      "message": "Video Formatlari"
+   },
+   "videotitle": {
+      "message": "Video ba\u015Fligi"
+   }
+}

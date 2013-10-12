@@ -1,0 +1,83 @@
+﻿
+
+{ 
+"language": { 
+"message": "pt-BR"
+},
+"description": { 
+"message": "Baixar vídeos do YouTube! É fácil..." 
+}, 
+"settingspagetitle": { 
+"message": "Chrome YouTube Downloader - Configurações" 
+}, 
+"buttonstyle": { 
+"message": "Estilo do Botão" 
+}, 
+"oneclickdownload": { 
+"message": "Um Clique para Baixar" 
+}, 
+"oneclicktext": { 
+"message": "Se um vídeo está disponível na resolução selecionada, automaticamente é escolhido para download, mas se o vídeo não está disponível para download, oferecer o vídeo de resolução inferior mais próximo." 
+}, 
+"clasicdownload": { 
+"message": "Download Clássico" 
+}, 
+"videoformats": { 
+"message": "Formatos de Vídeo" 
+}, 
+"disableflv": { 
+"message": "Desativar vídeos FLV " 
+}, 
+"availablewebm": { 
+"message": "Mostrar vídeos WebM se disponível" 
+}, 
+"available2k": { 
+"message": "Mostrar vídeos 2k se disponível" 
+}, 
+"available1080": { 
+"message": "Mostrar vídeos 1080p se disponível" 
+}, 
+"available720": { 
+"message": "Mostrar vídeos 720p se disponível" 
+}, 
+"available480": { 
+"message": "Mostrar vídeos 480pse disponível" 
+}, 
+"available360": { 
+"message": "Mostrar vídeos 360p se disponível" 
+}, 
+"available240": { 
+"message": "Mostrar vídeos 240p se disponível" 
+}, 
+"availablemp3": { 
+"message": "Mostrar MP3" 
+}, 
+"videotitle": { 
+"message": "Título do Vídeo" 
+}, 
+"includenick": { 
+"message": "Incluir o nome do usuário antes do título" 
+}, 
+"includequality": { 
+"message": "Incluir qualidade por de trás do título" 
+}, 
+"saved": { 
+"message": "Opções salvas"
+}, 
+"nickname": { 
+"message": "IDLukakas"
+}, 
+"translated": { 
+"message": "Traduzido por:"
+}, 
+"loadingsettings": { 
+"message": "Carregando Configurações..."
+}, 
+"installmessage": { 
+"message": "Chrome YouTube Downloader está agora instalado!	"
+}, 
+"updatemessage": { 
+"message": "Chrome YouTube Downloader está agora Atualizado!	"
+}
+}
+

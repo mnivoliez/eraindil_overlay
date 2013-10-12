@@ -1,0 +1,80 @@
+{
+   "available1080": {
+      "message": "\u986F\u793A1080P\u8996\u983B\u5982\u679C\u6709\u6548"
+   },
+   "available240": {
+      "message": "\u986F\u793A240P\u8996\u983B\u5982\u679C\u6709\u6548"
+   },
+   "available2k": {
+      "message": "\u986F\u793A2K\u8996\u983B\u5982\u679C\u6709\u6548"
+   },
+   "available360": {
+      "message": "\u986F\u793A360P\u8996\u983B\u5982\u679C\u6709\u6548"
+   },
+   "available480": {
+      "message": "\u986F\u793A480P\u8996\u983B\u5982\u679C\u6709\u6548"
+   },
+   "available720": {
+      "message": "\u986F\u793A720P\u8996\u983B\u5982\u679C\u6709\u6548"
+   },
+   "availablemp3": {
+      "message": "\u986F\u793AMP3\u683C\u5F0F"
+   },
+   "availablewebm": {
+      "message": "\u986F\u793AWebM\u8996\u983B\u5982\u679C\u6709\u6548"
+   },
+   "buttonstyle": {
+      "message": "\u6309\u9375\u98A8\u683C"
+   },
+   "clasicdownload": {
+      "message": "\u50B3\u7D71\u4E0B\u8F09"
+   },
+   "description": {
+      "message": "\u4E0B\u8F09Youtube\u8996\u983B\uFF01\u975E\u5E38\u5BB9\u6613"
+   },
+   "disableflv": {
+      "message": "\u7981\u6B62FLV\u683C\u5F0F\u8996\u983B\u4E0B\u8F09"
+   },
+   "includenick": {
+      "message": "\u5305\u62EC\u4E0A\u8F09\u8005\u7528\u6236\u540D\u5728\u6A19\u984C\u524D"
+   },
+   "includequality": {
+      "message": "\u5305\u62EC\u8996\u983B\u8CEA\u91CF\u5728\u6A19\u984C\u540E"
+   },
+   "installmessage": {
+      "message": "Chrome Youtube \u4E0B\u8F09\u8005 \u5B8C\u6210\u5B89\u88DD\uFF01"
+   },
+   "language": {
+      "message": "zh-TW"
+   },
+   "loadingsettings": {
+      "message": "\u8B80\u53D6\u8A2D\u5B9A"
+   },
+   "nickname": {
+      "message": "Junklao"
+   },
+   "oneclickdownload": {
+      "message": "\u4E00\u9375\u4E0B\u8F09"
+   },
+   "oneclicktext": {
+      "message": "\u5982\u679C\u8996\u983B\u662F\u5728\u6709\u6548\u9078\u5B9A\u7684\u8CEA\u91CF\u4E0B\u81EA\u52D5\u4E0B\u8F09\uFF0C \u4F46\u5982\u679C\u5728\u7121\u6548\u4E0B\u6703\u9078\u64C7\u8F03\u63A5\u8FD1\u7684\u8CEA\u91CF\u4E0B\u8F09\u3002"
+   },
+   "saved": {
+      "message": "\u4FDD\u5B58\u8A2D\u5B9A"
+   },
+   "settingspagetitle": {
+      "message": "Chrome Youtube \u4E0B\u8F09\u8005 \uFE63 \u8A2D\u5B9A"
+   },
+   "translated": {
+      "message": "\u7FFB\u8B6F\u8005"
+   },
+   "updatemessage": {
+      "message": "Chrome Youtube \u4E0B\u8F09\u8005 \u5347\u7D1A\u5B8C\u6210\uFF01"
+   },
+   "videoformats": {
+      "message": "\u8996\u983B\u683C\u5F0F"
+   },
+   "videotitle": {
+      "message": "\u8996\u983B\u6A19\u984C"
+   }
+}

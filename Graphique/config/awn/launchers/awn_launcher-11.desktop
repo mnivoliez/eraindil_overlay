@@ -1,6 +1,5 @@
-
 [Desktop Entry]
 Type=Application
-Name=WoW
-Exec=wine /media/utilitaire/Jeu/World_Of_Ysera_BC/World_Of_Ysera_BC/Wow.exe
-Icon=/media/multimedia/Images/Jeu_video/wow-icon.png
+Name=StarCraft II
+Exec=sh /media/utilitaire/Install/ScripLancement/SC2_launcher.sh
+Icon=/media/multimedia/Images/Jeu_video/iconSC2.png

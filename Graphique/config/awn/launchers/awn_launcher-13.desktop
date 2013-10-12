@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=Quake IV
+Type=Application
+Comment=Sequel to Quake 2, an id Software 3D first-person shooter
+Exec=/usr/games/bin/quake4
+TryExec=quake4
+Icon=/media/multimedia/Images/Jeu_video/quake4_rg.png
+Categories=Game;ActionGame;

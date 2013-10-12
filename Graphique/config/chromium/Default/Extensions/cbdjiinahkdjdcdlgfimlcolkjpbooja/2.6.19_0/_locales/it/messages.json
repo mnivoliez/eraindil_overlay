@@ -1,0 +1,80 @@
+{
+   "available1080": {
+      "message": "Mostra 1080p video se disponibile"
+   },
+   "available240": {
+      "message": "Mostra 240p video se disponibile"
+   },
+   "available2k": {
+      "message": "Mostra 2k video se disponibile"
+   },
+   "available360": {
+      "message": "Mostra 360p video se disponibile"
+   },
+   "available480": {
+      "message": "Mostra 480p video se disponibile"
+   },
+   "available720": {
+      "message": "Mostra 720p video se disponibile"
+   },
+   "availablemp3": {
+      "message": "Mostra mp3"
+   },
+   "availablewebm": {
+      "message": "Mostra video WebM se disponibile"
+   },
+   "buttonstyle": {
+      "message": "Stile del pulsante"
+   },
+   "clasicdownload": {
+      "message": "Download standard"
+   },
+   "description": {
+      "message": "Scaricare video da youtube non \u00E8 mai stato cos\u00EC facile..."
+   },
+   "disableflv": {
+      "message": "Disabilita video FLV"
+   },
+   "includenick": {
+      "message": "Includi username dell'uploader prima del titolo"
+   },
+   "includequality": {
+      "message": "Includi indicazioni di qualit\u00E0 nel titolo"
+   },
+   "installmessage": {
+      "message": "Chrome YouTube Downloader \u00E8 installato!"
+   },
+   "language": {
+      "message": "it"
+   },
+   "loadingsettings": {
+      "message": "Sto caricando le preferenze"
+   },
+   "nickname": {
+      "message": "romolo"
+   },
+   "oneclickdownload": {
+      "message": "Scarica con un click"
+   },
+   "oneclicktext": {
+      "message": "Se un video \u00E8 disponibile nella risoluzione predefinita, \u00E8 disponibile immediatamente il suo download. Altrimenti viene offerta la risoluzione inferiore pi\u00F9 prossima."
+   },
+   "saved": {
+      "message": "Preferenze salvate"
+   },
+   "settingspagetitle": {
+      "message": "Impostazioni di YouTube Downloader"
+   },
+   "translated": {
+      "message": "Tradotto da:"
+   },
+   "updatemessage": {
+      "message": "Chrome YouTube Downloader \u00E8 aggiornato!"
+   },
+   "videoformats": {
+      "message": "Formati video"
+   },
+   "videotitle": {
+      "message": "Titolo del video"
+   }
+}

@@ -1,0 +1,80 @@
+{
+   "available1080": {
+      "message": "Mostrar v\u00EDdeo 1080p si est\u00E1 disponible"
+   },
+   "available240": {
+      "message": "Mostrar v\u00EDdeo 240p si est\u00E1 disponible"
+   },
+   "available2k": {
+      "message": "Mostrar v\u00EDdeo 2k si est\u00E1 disponible"
+   },
+   "available360": {
+      "message": "Mostrar v\u00EDdeo 360p si est\u00E1 disponible"
+   },
+   "available480": {
+      "message": "Mostrar v\u00EDdeo 480p si est\u00E1 disponible"
+   },
+   "available720": {
+      "message": "Mostrar v\u00EDdeo 720p si est\u00E1 disponible"
+   },
+   "availablemp3": {
+      "message": "Mostrar MP3"
+   },
+   "availablewebm": {
+      "message": "Mostrar v\u00EDdeo WebM si est\u00E1 disponible"
+   },
+   "buttonstyle": {
+      "message": "Estilo bot\u00F3n"
+   },
+   "clasicdownload": {
+      "message": "Descarga cl\u00E1sica"
+   },
+   "description": {
+      "message": "Descarga v\u00EDdeos de youtube! Es f\u00E1cil..."
+   },
+   "disableflv": {
+      "message": "Desactivar v\u00EDdeos FLV"
+   },
+   "includenick": {
+      "message": "Incluir nombre de usuario del propietario del v\u00EDdeo"
+   },
+   "includequality": {
+      "message": "Incluir la calidad tras el t\u00EDtulo"
+   },
+   "installmessage": {
+      "message": "Descargador YouTube Chrome est\u00E1 instalado!"
+   },
+   "language": {
+      "message": "es"
+   },
+   "loadingsettings": {
+      "message": "Cargando Opciones..."
+   },
+   "nickname": {
+      "message": "ubunchu"
+   },
+   "oneclickdownload": {
+      "message": "Descarga de un click"
+   },
+   "oneclicktext": {
+      "message": "Si un v\u00EDdeo est\u00E1 disponible en la calidad seleccionada, es autom\u00E1ticamente ofrecida para descargar, en caso contrario ser\u00E1 descargada en la calidad m\u00E1s alta disponible."
+   },
+   "saved": {
+      "message": "Opciones Guardadas"
+   },
+   "settingspagetitle": {
+      "message": "Descargador YouTube Chrome - Ajustes"
+   },
+   "translated": {
+      "message": "Traducido por:"
+   },
+   "updatemessage": {
+      "message": "Descargador YouTube Chrome est\u00E1 actualizado!"
+   },
+   "videoformats": {
+      "message": "Formatos v\u00EDdeo"
+   },
+   "videotitle": {
+      "message": "T\u00EDtulo del v\u00EDdeo"
+   }
+}

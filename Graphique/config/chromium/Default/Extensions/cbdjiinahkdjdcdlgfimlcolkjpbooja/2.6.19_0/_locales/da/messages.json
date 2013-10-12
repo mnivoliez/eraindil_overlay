@@ -1,0 +1,80 @@
+{
+   "available1080": {
+      "message": "Vis 1080p Videos hvis tilg\u00E6ngelig"
+   },
+   "available240": {
+      "message": "Vis 240p Videos hvis tilg\u00E6ngelig"
+   },
+   "available2k": {
+      "message": "Vis 2k Videos hvis tilg\u00E6ngelig"
+   },
+   "available360": {
+      "message": "Vis 360p Videos hvis tilg\u00E6ngelig"
+   },
+   "available480": {
+      "message": "Vis 480p Videos hvis tilg\u00E6ngelig"
+   },
+   "available720": {
+      "message": "Vis 720p Videos hvis tilg\u00E6ngelig"
+   },
+   "availablemp3": {
+      "message": "Vis MP3"
+   },
+   "availablewebm": {
+      "message": "Vis WebM Videos hvis tilg\u00E6ngelig"
+   },
+   "buttonstyle": {
+      "message": "Knap Style"
+   },
+   "clasicdownload": {
+      "message": "Classic Downoad"
+   },
+   "description": {
+      "message": "Downloade videoer fra YouTube! Det er nemt"
+   },
+   "disableflv": {
+      "message": "Ryd FLV Videos"
+   },
+   "includenick": {
+      "message": "Se uploaderen navnet f\u00F8r titlen"
+   },
+   "includequality": {
+      "message": "Vis kvaliteten bag titlen"
+   },
+   "installmessage": {
+      "message": "Chrome YouTube Downloader installeret"
+   },
+   "language": {
+      "message": "da"
+   },
+   "loadingsettings": {
+      "message": "Hent indstillinger..."
+   },
+   "nickname": {
+      "message": "Sanguinus"
+   },
+   "oneclickdownload": {
+      "message": "Man Klik Download"
+   },
+   "oneclicktext": {
+      "message": "Hvis en video er tilg\u00E6ngelig p\u00E5 den valgte opl\u00F8sning automatisk udbydes til download, men hvis videoen ikke er tilg\u00E6ngelig for download for at tilbyde den n\u00E6rmeste lavere opl\u00F8sning video."
+   },
+   "saved": {
+      "message": "lagrede indstillinger"
+   },
+   "settingspagetitle": {
+      "message": "Chrome YouTube Downloader - Indstillinger"
+   },
+   "translated": {
+      "message": "Oversat af"
+   },
+   "updatemessage": {
+      "message": "Chrome YouTube Downloader er blevet opdateret"
+   },
+   "videoformats": {
+      "message": "Videoformater"
+   },
+   "videotitle": {
+      "message": "Video titel"
+   }
+}

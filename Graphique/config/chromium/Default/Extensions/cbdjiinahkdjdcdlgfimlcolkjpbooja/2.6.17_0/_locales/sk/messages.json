@@ -1,0 +1,62 @@
+{
+   "available1080": {
+      "message": "Uk\u00E1za\u0165 video v rozl\u00ED\u0161en\u00ED 1080p (full-HD), ak je k dostupn\u00E9"
+   },
+   "available240": {
+      "message": "Uk\u00E1za\u0165 video v rozl\u00ED\u0161en\u00ED 240p, ak je k dostupn\u00E9"
+   },
+   "available2k": {
+      "message": "Uk\u00E1za\u0165 video v rozl\u00ED\u0161en\u00ED 2k, ak je k dostupn\u00E9"
+   },
+   "available360": {
+      "message": "Uk\u00E1za\u0165 video v rozl\u00ED\u0161en\u00ED 360p, ak je k dostupn\u00E9"
+   },
+   "available480": {
+      "message": "Uk\u00E1za\u0165 video v rozl\u00ED\u0161en\u00ED 480p, ak je k dostupn\u00E9"
+   },
+   "available720": {
+      "message": "Uk\u00E1za\u0165 video v rozl\u00ED\u0161en\u00ED 720p, ak je k dostupn\u00E9"
+   },
+   "availablemp3": {
+      "message": "Uk\u00E1za\u0165 MP3"
+   },
+   "buttonstyle": {
+      "message": "Vzh\u013Ead Tla\u010Didiel"
+   },
+   "clasicdownload": {
+      "message": "Klasick\u00E9 stiahnutie"
+   },
+   "description": {
+      "message": "S\u0165ahuj vide\u00E1 z YouTube! Je to jednoduch\u00E9...."
+   },
+   "disableflv": {
+      "message": "Zak\u00E1za\u0165 vide\u00E1 vo form\u00E1te FLV"
+   },
+   "includenick": {
+      "message": "V n\u00E1zve s\u00FAboru p\u00EDsa\u0165 nick uploadera pred n\u00E1zvom videa"
+   },
+   "includequality": {
+      "message": "V n\u00E1zve s\u00FAboru p\u00EDsa\u0165 kvalitu videa za n\u00E1zvom "
+   },
+   "nickname": {
+      "message": "Prelo\u017Eil: mlpard"
+   },
+   "oneclickdownload": {
+      "message": "Stiahnutie jedn\u00FDm kliknut\u00EDm"
+   },
+   "oneclicktext": {
+      "message": "Ak je video vo vybranom rozl\u00ED\u0161en\u00ED k dispoz\u00EDci\u00ED, je automaticky pon\u00FAknut\u00E9 na stiahnutie, ale ak video nie je kdispoz\u00EDci\u00ED v tomto rozl\u00ED\u0161en\u00ED pon\u00FAkne sa najbli\u017E\u0161ie ni\u017E\u0161ie rozl\u00ED\u0161enie."
+   },
+   "saved": {
+      "message": "Zmeny ulo\u017Een\u00E9"
+   },
+   "settingspagetitle": {
+      "message": "Chrome YouTube Downloader - Mo\u017Enosti"
+   },
+   "videoformats": {
+      "message": "Form\u00E1ty videa"
+   },
+   "videotitle": {
+      "message": "N\u00E1zov videa"
+   }
+}

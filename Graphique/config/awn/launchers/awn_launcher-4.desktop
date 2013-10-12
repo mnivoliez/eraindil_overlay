@@ -1,6 +1,5 @@
-
 [Desktop Entry]
 Type=Application
-Name=Half-Life2
-Exec=sh /media/utilitaire/Install/ScripLancement/hl2.sh
-Icon=/media/multimedia/Images/Jeu_video/rsz_half-life_2-1afdbf5.png
+Name=Fear
+Exec=sh /media/utilitaire/Install/ScripLancement/fear.sh
+Icon=/media/multimedia/Images/Jeu_video/fear.png

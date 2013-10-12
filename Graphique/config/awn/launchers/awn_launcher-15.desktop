@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=Doom 3 - Duct Tape
+Type=Application
+Comment=Doom 3 Duct Tape - sticks flashlights to your machinegun and shotgun
+Exec=/usr/games/bin/doom3-ducttape
+TryExec=doom3-ducttape
+Icon=doom3
+Categories=Game;ActionGame;

@@ -1,0 +1,10 @@
+[Configuration]
+LastActiveMode=THUNAR_RENAMER_MODE_NAME
+LastActiveRenamer=ThunarSbrReplaceRenamer
+
+[ThunarSbrReplaceRenamer]
+Regexp=FALSE
+Replacement=Trimoria_episode_
+CaseSensitive=FALSE
+Pattern=Trimoria, pisode\ 
+

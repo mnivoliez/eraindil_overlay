@@ -1,0 +1,1343 @@
+<!DOCTYPE html>
+<!--[if IE 8 ]><html lang="fr" class="no-js ie ie8"><![endif]-->
+<!--[if IE 9 ]><html lang="fr" class="no-js ie ie9"><![endif]-->
+<!--[if (gt IE 9)|!(IE)]><!-->
+<html lang="fr" class="no-js" xml:lang="fr" xmlns:fb="http://www.facebook.com/2008/fbml">
+<!--<![endif]-->
+<head>
+<meta charset="utf-8">
+<title>Deezer</title>
+<meta http-equiv="content-language" content="fr">
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+<meta http-equiv="X-UA-Compatible" content="requiresActiveX=true">
+<meta property="fb:app_id" content="241284008322">
+<meta property="og:site_name" content="Deezer">
+
+<link rel="icon" type="image/png" href="http://cdn-files.deezer.com/images/common/favicon.png">
+<link rel="shortcut icon" type="image/x-icon" href="http://cdn-files.deezer.com/images/common/favicon.ico">
+<link rel="apple-touch-icon" href="http://cdn-files.deezer.com/images/common/apple-touch-icon.png">
+<link rel="chrome-webstore-item" href="https://chrome.google.com/webstore/detail/npfkoakaabdallkcdbpkkhfilkkngakh">
+<link rel="search" type="application/opensearchdescription+xml" href="http://cdn-files.deezer.com/xml/opensearch.xml" title="Deezer.com">
+<!--[if gte IE 9]>
+<meta name="application-name" content="Deezer">
+<meta name="msapplication-tooltip" content="Démarrer l'application Deezer">
+<meta name="msapplication-window" content="width=1600;height=1200">
+<meta name="msapplication-starturl" content="http://www.deezer.com/fr/">
+<meta name="msapplication-navbutton-color" content="#202020">
+<![endif]-->
+<link href="http://cdn-files.deezer.com/css/bootstrap-v00201256.css" rel="stylesheet" type="text/css">
+<link href="http://cdn-files.deezer.com/css/deezer-v00201256.css" rel="stylesheet" type="text/css">
+<link href="http://cdn-files.deezer.com/css/naboo-v00201256.css" rel="stylesheet" type="text/css">
+<script type="text/javascript">
+document.domain = 'deezer.com';
+</script>
+<script type="text/javascript" src="http://cdn-files.deezer.com/js/min/external-v00201256.js"></script>
+<script type="text/javascript">
+!function(){var a=Handlebars.template,n=Handlebars.templates=Handlebars.templates||{};n.thumbnail=a(function(a,n,r,e,l){function i(){return" thumbnail-bordered"}function s(){return" thumbnail-responsive"}function o(a,n){var e,l="";return l+="width:",(e=r.width)?e=e.call(a,{hash:{},data:n}):(e=a.width,e=typeof e===x?e.apply(a):e),l+=_(e)+"px;"}function t(a,n){var e,l="";return l+="height:",(e=r.height)?e=e.call(a,{hash:{},data:n}):(e=a.height,e=typeof e===x?e.apply(a):e),l+=_(e)+"px;"}function p(){return'\n		<span class="play"></span>\n	'}function h(){return'\n		<span class="shadow"></span>\n	'}function f(){return'\n		<span class="zoom"></span>\n	'}function c(a,n){var e,l="";return l+='\n		<span class="ribbon ribbon-',(e=r.ribbon)?e=e.call(a,{hash:{},data:n}):(e=a.ribbon,e=typeof e===x?e.apply(a):e),l+=_(e)+'"></span>\n	'}function u(){return'\n		<span class="unavailable">\n			<span class="wrapper">\n				<span class="message">Not available<br>in your country</span>\n			</span>\n		</span>\n	'}function d(a,n){var e,l="";return l+='\n		<span class="dropdown">\n			<a class="dropdown-toggle" href="#">\n				<i class="dropdown-caret"></i>\n			</a>\n			<ul class="dropdown-menu">\n				',e=r.each.call(a,a.dropdown,{hash:{},inverse:H.noop,fn:H.program(20,g,n),data:n}),(e||0===e)&&(l+=e),l+="\n			</ul>\n		</span>\n	"}function g(a,n){var e,l,i,s="";return s+="\n					",i={hash:{},inverse:H.noop,fn:H.program(21,m,n),data:n},e=r.ifEqual||a.ifEqual,l=e?e.call(a,a,"add_to_library",i):O.call(a,"ifEqual",a,"add_to_library",i),(l||0===l)&&(s+=l),s+="\n					",i={hash:{},inverse:H.noop,fn:H.program(23,v,n),data:n},e=r.ifEqual||a.ifEqual,l=e?e.call(a,a,"share",i):O.call(a,"ifEqual",a,"share",i),(l||0===l)&&(s+=l),s+="\n					",i={hash:{},inverse:H.noop,fn:H.program(25,b,n),data:n},e=r.ifEqual||a.ifEqual,l=e?e.call(a,a,"play_next",i):O.call(a,"ifEqual",a,"play_next",i),(l||0===l)&&(s+=l),s+="\n				"}function m(){return'\n						<li>\n							<a href="#">Add to libray</a>\n						</li>\n					'}function v(){return'\n						<li>\n							<a href="#">Share</a>\n						</li>\n					'}function b(){return'\n						<li>\n							<a href="#">Play next</a>\n						</li>\n					'}this.compilerInfo=[4,">= 1.0.0"],r=this.merge(r,a.helpers),l=l||{};var y,w,E,q="",x="function",_=this.escapeExpression,H=this,O=r.helperMissing;return q+='<figure class="thumbnail',y=r["if"].call(n,n.border,{hash:{},inverse:H.noop,fn:H.program(1,i,l),data:l}),(y||0===y)&&(q+=y),E={hash:{},inverse:H.noop,fn:H.program(3,s,l),data:l},y=r.ifOr||n.ifOr,w=y?y.call(n,n.responsive,n.width,n.height,E):O.call(n,"ifOr",n.responsive,n.width,n.height,E),(w||0===w)&&(q+=w),q+='" style="',w=r["if"].call(n,n.width,{hash:{},inverse:H.noop,fn:H.program(5,o,l),data:l}),(w||0===w)&&(q+=w),w=r["if"].call(n,n.height,{hash:{},inverse:H.noop,fn:H.program(7,t,l),data:l}),(w||0===w)&&(q+=w),q+='">\n	<img class="picture" src="',(w=r.picture)?w=w.call(n,{hash:{},data:l}):(w=n.picture,w=typeof w===x?w.apply(n):w),q+=_(w)+'">\n\n	',w=r["if"].call(n,n.play,{hash:{},inverse:H.noop,fn:H.program(9,p,l),data:l}),(w||0===w)&&(q+=w),q+="\n	",w=r["if"].call(n,n.shadow,{hash:{},inverse:H.noop,fn:H.program(11,h,l),data:l}),(w||0===w)&&(q+=w),q+="\n	",w=r["if"].call(n,n.zoom,{hash:{},inverse:H.noop,fn:H.program(13,f,l),data:l}),(w||0===w)&&(q+=w),q+="\n	",w=r["if"].call(n,n.ribbon,{hash:{},inverse:H.noop,fn:H.program(15,c,l),data:l}),(w||0===w)&&(q+=w),q+="\n	",w=r["if"].call(n,n.unavailable,{hash:{},inverse:H.noop,fn:H.program(17,u,l),data:l}),(w||0===w)&&(q+=w),q+="\n\n	",w=r["if"].call(n,n.dropdown,{hash:{},inverse:H.noop,fn:H.program(19,d,l),data:l}),(w||0===w)&&(q+=w),q+="\n\n</figure>"})}();
+!function(){var a=Handlebars.template,e=Handlebars.templates=Handlebars.templates||{};e.hotkeys=a(function(a,e,t,n,l){function s(a,e){var n,l="";return l+='\n	<div class="hotkey">\n		',n=t.each.call(a,a.icon,{hash:{},inverse:i.noop,fn:i.program(2,o,e),data:e}),(n||0===n)&&(l+=n),l+='\n		<div class="hotkey-label">',(n=t.label)?n=n.call(a,{hash:{},data:e}):(n=a.label,n=typeof n===c?n.apply(a):n),l+=h(n)+"</div>\n	</div>\n"}function o(a,e){var n,l="";return l+='\n			<div class="hotkey-icon ',(n=t.className)?n=n.call(a,{hash:{},data:e}):(n=a.className,n=typeof n===c?n.apply(a):n),l+=h(n)+'">',(n=t.text)?n=n.call(a,{hash:{},data:e}):(n=a.text,n=typeof n===c?n.apply(a):n),l+=h(n)+"</div>\n		"}this.compilerInfo=[4,">= 1.0.0"],t=this.merge(t,a.helpers),l=l||{};var r,c="function",h=this.escapeExpression,i=this;return r=t.each.call(e,e,{hash:{},inverse:i.noop,fn:i.program(1,s,l),data:l}),r||0===r?r:""})}();
+</script>
+<script type="text/javascript">
+window.onerror = function(msg, url, line) {
+	if (typeof(OFFLINE) != 'undefined' && OFFLINE) {
+		return false;
+	}
+
+	var err = {};
+	err.STATIC_VERSION = '00201256';
+	err.DESC = msg;
+	err.URL = url;
+	err.LINE = line;
+	err.BROWSER_URL = document.location.href;
+	//err.USER_AGENT = navigator.userAgent;
+	err.BROWSER = BrowserDetect.browser;
+	err.BROWSER_VER = BrowserDetect.version;
+	err.OS = BrowserDetect.OS;
+
+	$.ajax({type: 'POST', url: ('http://www.deezer.com/ajax/error.php'), data: $.param(err)});
+
+	console.log('onerror', msg, url, line);
+	return true;
+};
+</script>
+<script type="text/javascript">
+<!--
+var PROTOCOL_HTTP = 'http://';
+var PROTOCOL_WS = 'ws://';
+var SSL = false;
+var XHR = false;
+var PLATFORM = 'web';
+var SETTING_DOMAIN_LIVE = 'deezer.com';
+var ord = Math.random()*10000000000000000;
+var ENV = 'PROD';
+var SETTING_HOST = 'www.deezer.com';
+var HOST_CONTENT = 'http://cdn-content.deezer.com';
+var SETTING_LANG = 'fr';
+var SETTING_STATIC = 'http://cdn-files.deezer.com';
+var SETTING_HOST_SITE = 'http://www.deezer.com';
+var SETTING_HOST_LIVE = 'live.deezer.com';
+var SETTING_DOMAIN_IMG = 'http://cdn-images.deezer.com/images';
+var SETTING_HOST_UPLOAD = 'http://upload.deezer.com';
+var SETTING_HOST_CONNECT = 'http://connect.deezer.com';
+var SETTING_HOST_API = 'http://api.deezer.com';
+var SETTING_HOST_DEVELOPERS = 'http://developers.deezer.com';
+var SETTING_REFERER_UPLOAD = 'FR';
+var SETTING_DOMAIN_PAYMENT = 'https://payment.deezer.com';
+var SOUND_STREAM_GATEWAY = 'http://proxy-{0}-v3.deezer.com/stream/{1}/';
+var SOUND_PREVIEW_GATEWAY = 'http://cdn-preview-{0}.deezer.com/stream/{1}-{2}.mp3';
+var SOUND_PROXIES_VERSIONS = 'p0:2,p1:2,p2:2,p3:2,p4:2,p5:2,p6:2,p7:2,p8:2,p9:2,pa:2,pb:2,pc:2,pd:2,pe:2,pf:2';
+var SOUND_PROXIES_CDN = 'p0:1:50,p1:1:50,p2:1:50,p3:1:50,p4:1:50,p5:1:50,p6:1:50,p7:1:50,p8:1:50,p9:1:50,pa:1:50,pb:1:50,pc:1:50,pd:1:25,pe:1:50,pf:1:50';
+var SOUND_ALWAYS_CDN_FOR_PREMIUM = 'false';
+var STATIC_VERSION = '00201256';
+var IMAGE_VERSION = '0';
+var CONFIG_VERSION = '81';
+var SESSION_ID = 'fr21013c716dbd32820c5e06b92b7485811d1ffa';
+var PLAYLIST_WELCOME_ID = '53362031';
+var USER = {
+USER_ID : 3836593,
+INSCRIPTION_DATE : '2008-10-08',
+FB_USER_ID : 1565356624,
+TRY_AND_BUY : {
+	ACTIVE: '0',
+	DATE_START: '2013-09-02 18:01:50',
+	DATE_END: '2013-09-13 17:07:05',
+	PLATEFORM: 'none'
+},
+BLOG_NAME : 'Mandi', FIRSTNAME : 'Mandi', LASTNAME : 'Atg', USER_PICTURE : '47266abb3c0811834313476684b7623d', USER_GENDER : 'F', USER_AGE : 18, PARTNERS : '1',
+TOOLBAR : [],
+OPTIONS : {"mobile_streaming":true,"mobile_offline":true,"mobile_hq":true,"web_streaming":true,"web_streaming_duration":0,"web_offline":true,"web_streaming_free_tracks":0,"web_hq":true,"ads_display":false,"ads_audio":false,"dj":true,"nb_devices":3},
+SETTING : {"site":{"player_fadein":0,"player_fadeout":0,"menu_folders":"{\"f_7126997\":\"close\",\"f_7126999\":\"close\",\"f_7126998\":\"close\",\"f_7126996\":\"close\",\"f_7126993\":\"close\",\"f_6961027\":\"close\",\"f_7127000\":\"close\",\"f_7127855\":\"close\",\"f_7127786\":\"open\"}","push_facebook":1347019820797,"player_repeat":0,"player_shuffle":false,"push_mobile":0,"player_fade":0,"player_hq":true,"howto_step":0,"edito_tag":0,"menu_width":220,"display_confirm_discovery":0,"livebar_tab":"ticker","livebar_state":"open"},"global":{"lang":"en","social":false,"language":"","popup_unload":false},"twitter":{"share_comment":true,"share_favourite":true,"share_share":true,"share_loved":true},"facebook":{"share_comment":false,"share_favourite":false,"share_share":false,"share_listen":false,"share_loved":true},"notification_mail":{"share":false,"friend_follow":false,"playlist_comment":false,"playlist_follow":false,"artist_new_release":false,"new_message":false,"artist_status":false},"notification_mobile":{"share":false,"friend_follow":false,"playlist_comment":false,"playlist_follow":false,"artist_new_release":false,"new_message":false,"artist_status":true},"location":{"city":"Aigues-mortes","lat":43.569499969482,"lon":4.1954998970032,"source":"google"},"google":{"share_comment":true,"share_favourite":true,"share_loved":true,"share_listen":true}},
+LASTFM : {},
+GOOGLEPLUS : {},
+TWITTER : {},
+FACEBOOK : {TOKEN : 'CAAAAOC2lyYIBAB9mOpCFZBF58MVP7kM1YPetCZCEOGUdXe8WIyvPj5vktmOrqZB2Iwv0PqpvVRLNoc6c41OTB1Evx9JEacbSrbmdtJAW7q8PEOX41qmuuEzQy7M0W3ZCHDG8plD6AsXVfgAqg4Jox6uqjyH7IqhZBFReaeK9qNrGJDkmGtzRj'},
+FAVORITE_TAG :2};
+var OFFER_ID = '1';
+var COUNTRY = 'FR';
+var CURRENT_DATE = '2013-09-10';
+var SERVER_TIMESTAMP = 1378796142;
+var SESSION_DURATION = 0;
+var ADS_REFRESH_DURATION = 240;
+var ADS_INACTIVITY_DURATION = 240;
+var RANDOM_KEY = 'ee60d5576a7b301f74febf1a8c9e57b47f373e8204aff65b76913fea23dd10e698421f59c60a4d76a1b67b26b20704925469098b8cad333483c763a56927a252420350db5f34dd141c06074ec1213dbda30af63c882f72555d894569eb9b94e2bf516227732ea623abccf701b04f725acf8f69250ab42629aa8c1a206f7f4df22f5b80983b3d4277217f8c4a6894ce09a477cdd8bd1668db996f03a99decd076e444c70eeb3714c0b03e74aeb6eae6e7f7975cece132ed400028f67ce0aa2291a873d3f076826c39dd8f1407d2f404aaaaaedde47127de4f20349003eb25bc87257984b31fe9c1c6dbb96f7ea907a310bc2cd695159ecb186744d0e015a249cba2a10880a5e6427ea1db5bd69598e24e24a8f711616527433362d0628e331eb56ce602333d941862efbc9b34897ac75f';
+var PLAYER_TOKEN = 'f7ea7c749e755d1055de16a1194b2defdcc31c862d90a26fde10bf8cf6519cef27e41b9cad3301c323ecb9a1ad59204afb0d69f30bc5d1618a74e9137379c7a85a6bff23210d1dcc2b5627978d548f4c68783309e0cfcdf0f08eada71d7e8fab4d48bb99d41b5a820360748275bb2b5e7d51486fcfa8c4ff0ebd8dd8ef44b5685144708d42075fa756b11644e3bfe07f8833400aaab93c7181b39388307f6127';
+var DZPS = true;
+var LOG_TYPE = 'internal';
+var incr = 0;
+var incrsquare = 0;
+var checkForm = '976e1ebdc49372792a9d2222a482a094';
+var ADS = 1;
+var OFFLINE = !window.navigator.onLine;
+var STORE_PLATEFORM = {"DEEZER":true};
+var ads_focus_value = true;
+var redirect_fb = '';
+var CUSTO = "";
+var COBRANDING = 'none';
+var DATE_FORMAT = 'd-m-Y';
+var HAS_FESTIVALS = true;
+var OFFER_CODE_ORIGIN = 1;
+// -->
+</script>
+<script type="text/javascript" src="http://www.deezer.com/fr/js_trad-v00201256.php"></script>
+<script type="text/javascript" src="http://cdn-files.deezer.com/js/min/core-v00201256.js"></script>
+<script type="text/javascript" src="http://cdn-files.deezer.com/js/min/naboo-v00201256.js"></script>
+<script type="text/javascript" src="http://cdn-files.deezer.com/js/min/live-v00201256.js"></script>
+<script type="text/javascript">
+var yscroll = 0;
+var client_height = getClientHeight();
+var client_width = getClientWidth();
+
+	Events.resolve(Events.user.loaded);
+</script>
+</head>
+<body class="layout-naboo has-navbar has-player">
+	<div class="page-wrapper">
+		<div id="ads_video"></div>
+		<header class="page-header">
+			<section class="navbar">
+				
+<span class="brand">
+	<a class="logo logo-deezer" href="/fr/" onclick="loadBox(''); return false;"></a>
+
+	
+</span>
+
+<ul class="nav">
+	<li class="dropdown">
+		<a href="javascript:void(0);" id="tab_discover" onclick="header_menu.loadDiscoveyMenu(); return false;">
+			Découvrir Deezer		</a>
+		<ul class="dropdown-menu" id="tab_menu_discover">
+			<li>
+				<a href="/fr/offers" id="header_menu_offers" onclick="loadBox('offers'); return false;">
+					<dl>
+						<dt>Nos offres</dt>
+						<dd>Découvrez Deezer Premium et Premium+ pour profiter de votre musique en illimité.</dd>
+					</dl>
+				</a>
+			</li>
+			<li>
+				<a href="/fr/features" id="header_menu_features" onclick="loadBox('features'); return false;">
+					<dl>
+						<dt>Les fonctionnalités</dt>
+						<dd>Rechercher, écouter et partager la musique que vous aimez n’a jamais été aussi simple.</dd>
+					</dl>
+				</a>
+			</li>
+			<li>
+				<a href="/fr/devices" id="header_menu_devices" onclick="loadBox('devices'); return false;">
+					<dl>
+						<dt>Sur tous vos appareils</dt>
+						<dd>Profitez de Deezer sur votre ordinateur, mobile, TV ou tablette.</dd>
+					</dl>
+				</a>
+			</li>
+			<li>
+				<a href="/fr/deezer-and-you" id="header_menu_hub" onclick="loadBox('deezer-and-you'); return false;">
+					<dl>
+						<dt>Deezer & vous</dt>
+						<dd>Tout ce qu'il faut savoir sur Deezer est ici.</dd>
+					</dl>
+				</a>
+			</li>
+		</ul>
+	</li>
+
+	
+			<li class="" id="tab_store">
+			<a href="/fr/shop/" onclick="loadBox('shop/'); return false;">
+				Shop			</a>
+		</li>
+	
+</ul>
+<span class="nav-user">
+	<span id="user_logged">
+		
+	<ul class="nav nav-profil">
+		<li class="restriction" id="header_content_restriction">
+			<a href="javascript:void(0);">
+				<span class="timer"></span>
+				<span class="warning"></span>
+				<span class="progress">
+					<span class="bar"></span>
+				</span>
+			</a>
+			<div class="hovercard" id="header_content_restriction_hovercard"></div>
+		</li>
+		<li class="dropdown">
+			<a href="javascript:void(0);" id="header_content_profil_user" onclick="header_menu.loadUserMenu(); return false;">
+				<span class="avatar" id="header_content_profil_user_avatar">
+					<img id="img_avatar_mini" src="http://cdn-images.deezer.com/images/user/47266abb3c0811834313476684b7623d/34x34-000000-80-0-0.jpg" alt="Mandi">
+				</span>
+				<span class="username" id="header_content_profil_user_name">
+					Mandi				</span>
+			</a>
+			<ul class="dropdown-menu" id="header_content_profil_menu">
+				<li>
+					<a href="/fr/account" id="header_user_account" onclick="loadBox('account'); return false;">
+						Mon compte					</a>
+				</li>
+				<li>
+					<a href="/fr/profile/3836593" id="header_user_profil" onclick="loadBox('profile/3836593'); return false;">
+						Mon profil					</a>
+				</li>
+				<li>
+					<a href="javascript:void(0);" id="header_user_tips" onclick="tracking.track('tips_menu_click'); howto.reset(); return false;">
+						Visite guidée					</a>
+				</li>
+				<li>
+					<a href="/fr/gift" id="header_user_code" onclick="modal.open('gift.php'); return false;">
+						Activer un code					</a>
+				</li>
+				<li class="divider"></li>
+				<li class="logout">
+					<a href="/fr/logout.php" id="header_user_logout" onclick="user.logout(); return false;">
+						Déconnexion					</a>
+				</li>
+			</ul>
+		</li>
+	</ul>
+	</span>
+	<span id="user_not_logged" style="display: none">
+		<ul class="nav nav-signin">
+			<li>
+				<button class="btn btn-small btn-inverse" id="head_login" onclick="modal.open('login.php'); return false;" type="button">
+					Connexion				</button>
+				<button class="btn btn-small btn-primary" id="head_create_account" onclick="modal.open('register.php'); return false;" type="button">
+					Inscription				</button>
+			</li>
+		</ul>
+	</span>
+</span>			</section>
+			<section class="player">
+				<div class="wrapper-table layout-fixed">
+	<div class="cell cell-controls" id="player_controls">
+		<button class="button control control-prev" id="player_control_prev" onclick="playercontrol.doAction('prev'); return false;" title="Précédent" type="button"></button>
+		<button class="button control control-play" id="player_control_play" onclick="playercontrol.doAction('play'); return false;" title="Play" type="button"></button>
+		<button class="button control control-pause" id="player_control_pause" onclick="playercontrol.doAction('pause'); return false;" title="Pause" type="button"></button>
+		<button class="button control control-next" id="player_control_next" onclick="playercontrol.doAction('next'); return false;" title="Suivant" type="button"></button>
+	</div>
+	<div class="cell cell-volume">
+		<span class="volume-icon" id="player_volume">
+			<button class="button volume volume-100" id="player_volume_100" onclick="playercontrol.doAction('mute'); return false;" type="button"></button>
+			<button class="button volume volume-50" id="player_volume_50" onclick="playercontrol.doAction('mute'); return false;" type="button"></button>
+			<button class="button volume volume-0" id="player_volume_0" onclick="playercontrol.doAction('mute'); return false;" type="button"></button>
+			<button class="button volume volume-mute" id="player_volume_mute" onclick="playercontrol.doAction('mute'); return false;" type="button"></button>
+		</span>
+		<span class="volume-slider">
+			<span class="volume-progress" id="player_volume_progress">
+				<span class="volume-bar" id="player_volume_bar"></span>
+				<span class="volume-handler" id="player_volume_handler"></span>
+			</span>
+		</span>
+	</div>
+	<div class="cell cell-player">
+		<div class="wrapper">
+			<div class="track-info clearfix">
+				<div class="actions" id="player_actions">
+					<button class="button action action-love"  id="player_action_love" type="button" title="Favoris"></button>
+					<button class="button action action-share" id="player_action_share" onclick="playercontrol.doAction('share'); return false;" type="button" title="Partager"></button>
+
+											<button class="button action action-buy" id="player_action_buy" onclick="playercontrol.doAction('buy', ['deezer']); return false;" type="button" title="Acheter"></button>
+					
+					<button class="button action action-add" id="player_action_add" onclick="playercontrol.doAction('addSongPlaylist'); return false;" type="button" title="Ajouter à une playlist"></button>
+				</div>
+				<div class="infos text-ellipsis">
+					<a class="title" id="player_track_title" href="javascript:void(0)" onclick="playercontrol.doAction('linkCurrentSong'); return false;"></a> -
+					<a class="artist" id="player_track_artist" href="javascript:void(0)" onclick="playercontrol.doAction('linkCurrentSong'); return false;"></a>
+					<a href="javascript:void(0)" id="current-ontour" onclick="gigs.goToEvents($(this)); return false;" onmouseover="$(this).tipsy({trigger: 'manual', gravity: 's', fallback:'Voir les dates de concert de cet artiste', 'force_top' : true}).tipsy('show');" onmouseout="$(this).tipsy('hide');" style="display:none">
+						ON TOUR					</a>
+				</div>
+			</div>
+			<div class="track-progress">
+				<div class="wrapper-table">
+					<div class="cell cell-position" id="player_track_position">--:--</div>
+					<div class="cell cell-progress" id="player_track_progress">
+						<div class="progress">
+							<div class="overflow">
+								<span class="progress-bar preview" id="player_track_progress_preview"></span>
+								<span class="progress-bar current" id="player_track_progress_current"></span>
+								<span class="progress-bar loading" id="player_track_progress_loading"></span>
+							</div>
+							<span class="progress-handler" id="player_track_progress_handler"></span>
+						</div>
+					</div>
+					<div class="cell cell-length" id="player_track_length">--:--</div>
+				</div>
+			</div>
+		</div>
+	</div>
+	<div class="cell cell-options" id="player_options">
+		<button class="button option option-queue" id="player_option_queue" onclick="playercontrol.doAction('toggleQueueList'); return false;" type="button" title="Liste courante"></button>
+		<button class="button option option-repeat" id="player_option_repeat" onclick="playercontrol.doAction('repeat'); return false;" type="button" title="Répéter"></button>
+		<button class="button option option-shuffle" id="player_option_shuffle" onclick="playercontrol.doAction('shuffle'); return false;" type="button" title="Aléatoire"></button>
+		<button class="button option option-others" id="player_option_others" onclick="playercontrol.doAction('openOption'); return false;" type="button" title="Options"></button>
+	</div>
+	<div class="cell cell-search" id="dzSearch">
+		<div class="wrapper">
+			<div class="wrapper-table">
+				<div class="cell cell-input">
+					<div class="search">
+						<input type="text">
+						<a class="cross" href="javascript:void(0);">
+							<i class="icon icon-delete-grey"></i>
+						</a>
+					</div>
+				</div>
+				<div class="cell cell-submit" id="search_button">
+					<span class="search_button_container">
+						<button class="button search_button" type="submit">
+							<i class="icon-search"></i>
+						</button>
+						<img class="loading" src="http://cdn-files.deezer.com/images/common/loaders/loading-v00201256.gif" style="display: none">
+					</span>
+				</div>
+			</div>
+			<dl id="search_result" class="search-result suggest absolute search_result" style="display:none">
+	<dt id="search_link" class="pt_5 pb_5 pr_5">
+		<a class="search_link fs_11" style="color:#3995cd;border" href="">Voir tous les résultats</a>
+	</dt>
+	<dd class="search_result_container artist">
+		<span class="icn20_artists absolute"></span>
+		<ul class="artist">
+			<li class="template relative">
+				<a class="result_link" href="javascript:void(0);">
+					<img class="absolute artist_picture" />
+					<span class="artist_name"></span>
+				</a>
+			</li>
+		</ul>
+	</dd>
+	<dd class="search_result_container album">
+		<span class="icn20_albums absolute"></span>
+		<ul class="album">
+			<li class="template relative">
+				<a class="result_link" href="javascript:void(0);">
+					<img class="absolute album_picture" />
+					<span class="album_title"></span> - <span class="artist_name"></span>
+				</a>
+			</li>
+		</ul>
+	</dd>
+	<dd class="search_result_container track">
+		<span class="icn20_tracks absolute"></span>
+		<ul class="track">
+			<li class="template relative">
+				<a class="result_link" href="javascript:void(0);">
+					<div class="icn_suggest-soon naboo_line_soon area_soon" style="margin: 3px 0 0 9px; display: none;">
+						<div class="naboo_line_soon_month"><!-- --></div>
+						<div class="naboo_line_soon_num"><!-- --></div>
+					</div>
+					<span class="icn_suggest-play sprite_icn_all absolute"></span>
+					<span class="track_title"></span>&nbsp;<span class="duration"></span> - <span class="artist_name"></span>
+				</a>
+			</li>
+		</ul>
+	</dd>
+</dl>		</div>
+	</div>
+</div>
+<div class="core" id="core_player"></div>			</section>
+			<section class="queue close" id="player_queue">
+				<div class="wrapper">
+	<div id="head-current" class="white-shadow fwb w_100">
+		<div id="next-current" class="floatl mt_7 ml_15">
+			<span class="sprite_head h_icn_nextcurr"></span>
+			<span>File d'attente</span>
+			<span class="nbTrack"></span>
+		</div>
+		<div id="current-playlistName" class="floatr mt_7 mr_15">
+			<a href="javascript:void(0)">
+				<span class="sprite_head h_icn_playlist"></span>
+				<span></span>
+			</a>
+		</div>
+	</div>
+	<div id="current-list">
+		<div id="current-list-inner">
+			<div class="tinyscroll_scrollbar">
+				<div class="tinyscroll_track">
+					<div class="tinyscroll_thumb">
+						<div class="tinyscroll_end"></div>
+					</div>
+				</div>
+			</div>
+			<div class="tinyscroll_viewport" style="background-color: #252525">
+				<div class="tinyscroll_overview"></div>
+			</div>
+		</div>
+		<div id="current-selector" class="w_100">
+			<div id="current-selector-content" class="w_100">
+				<div id="selector-content" class="w_100"></div>
+			</div>
+		</div>
+	</div>
+</div>			</section>
+		</header>
+		<section class="page-layout" id="naboo">
+			<section class="page-sidebar" id="naboo_menu">
+				<div id="naboo_menu_list" class="ui-widget-content" style="">
+	<div id="naboo_menu_list_music" style="height:100%;background:#eff0f0">
+		<div class="tinyscroll_scrollbar">
+			<div class="tinyscroll_track">
+				<div class="tinyscroll_thumb">
+					<div class="tinyscroll_end"></div>
+				</div>
+			</div>
+		</div>
+		<div class="tinyscroll_viewport">
+			<div class="tinyscroll_overview" element-id="root">
+
+				<div id="naboo_menu_list_discover" class="block_cat-menu folder_on" element-type="">
+					<a class="cat-menu">
+						<span>Découverte</span>
+						<!--<span class="icn_arrow_folder_up sprite_icn_all" onclick="menu.openFolder($(this).parent());event.stopPropagation();return false;"></span>-->
+					</a>
+					<a id="naboo_menu_discover_picks" href="/fr/" element-type="picks" onclick="menu.openElement($(this)); return false;">
+						<span style="margin-top:-1px" class="icn icn_news sprite_icn_all"></span>
+						Sélection Deezer					</a>
+					<a id="naboo_menu_discover_recommendation" href="/fr/recommendations" element-type="recommendations" onclick="menu.openElement($(this)); return false;">
+						<span style="margin-top:-1px" class="icn icn_reco sprite_icn_all"></span>
+						Recommandations					</a>
+					<a id="naboo_menu_discover_tops" href="/fr/tops" element-type="tops" onclick="menu.openElement($(this)); return false;">
+						<span class="icn icn_tops sprite_icn_all"></span>
+						Top Écoutes					</a>
+					<a href="/fr/radio/" element-type="radio" onclick="menu.openElement($(this)); return false;">
+						<span class="icn icn_radios sprite_icn_all"></span>
+						Radios					</a>
+				</div>
+
+				<div id="naboo_menu_list_app" class="block_cat-menu folder_on" element-type="">
+					<a class="cat-menu folder" ondblclick="menu.openFolder($(this));return false;" element-id="apps">
+						<span></span>
+						<span>Applications</span>
+						<span class="icon-sidebar icon-arrow-up" onclick="menu.openFolder($(this).parent());event.stopPropagation();return false;"></span>
+					</a>
+
+					<div class="apps_folder">
+						<a id="showcase_link" href="javascript:void(0)" element-type="showcase" onclick="menu.openElement($(this));return false;">
+							<span class="icn icn_showcase sprite_icn_all"></span>
+							App Studio
+						</a>
+
+						<a id="naboo_menu_element_application" class="template item_application" element-type="8" onclick="menu.openElement($(this));return false;">
+							<span style="margin-top:-1px" class="icn">
+								<img alt="" />
+							</span>
+							<span class="badge">0</span>
+							<span class="app_name"></span>
+							<span class="app_add_fav icn icn_pinfav sprite_icn_all"></span>
+						</a>
+					</div>
+
+				</div>
+
+				<div id="naboo_menu_list_library" class="block_cat-menu folder_on">
+					<a class="cat-menu">
+						<span>Bibliothèque</span>
+						<!--<span class="icn_arrow_folder_up sprite_icn_all" onclick="menu.openFolder($(this).parent());event.stopPropagation();return false;"></span>-->
+					</a>
+
+					<a id="naboo_menu_link_collection" href="javascript:void(0)" element-type="collection" onclick="menu.openElement($(this)); return false;">
+						<span style="margin-top:-1px" class="icn icn_collection sprite_icn_all"></span>
+						Collection					</a>
+
+					<a id="naboo_menu_downloads" href="javascript:void(0)" element-type="downloads" onclick="menu.openElement($(this)); return false;" style="display:none">
+						<span style="margin-top:-1px;margin-left:-1px" class="icn icn_store sprite_icn_all"></span>
+						Mes Achats					</a>
+
+					<a id="naboo_menu_link_personal" element-type="personal_song" href="javascript:void(0)" onclick="menu.openElement($(this)); return false;">
+						<span class="icn icn_mp3 sprite_icn_all"></span>
+						Mes MP3					</a>
+
+					<a id="naboo_menu_link_loved" href="javascript:void(0)" element-type="loved" onclick="menu.openElement($(this)); return false;">
+						<span style="margin-top:-1px" class="icn icon icon-lovetrack"></span>
+						<span>Coups de coeur</span>
+						<span class="blk_icn_right none">
+							<span class="icn_right"></span>
+						</span>
+					</a>
+
+					<div id="naboo_menu_create_block" class="block_create mt_5 mb_5 clearfix">
+						<a id="naboo_menu_create_folder" href="javascript:void(0)" element-type="create_folder" onclick="menu.openElement($(this)); return false;" class="floatr block ml_5 relative" style="width:34px;padding:0;text-align:center;height:34px;line-height:34px;margin-right:15px;">
+							<span class="icn icon-sidebar icon-folder" style="float: none; margin-right: 0; display: inline-block; vertical-align: text-top"></span>
+						</a>
+						<a id="naboo_menu_create_playlist" href="javascript:void(0)" element-type="create_playlist" onclick="menu.openElement($(this)); return false;" class="block" style="overflow: hidden">
+							<span class="icn icon-sidebar icon-add"></span>
+							Créer une playlist						</a>
+					</div>
+
+
+					<a id="naboo_menu_element_playlist" class="template item_playlist drag_item" element-type="1" onclick="menu.openElement($(this));return false;" ondblclick="menu.contextMenuClick(null, {action:'play', elt:$(this)});return false;">
+						<span class="icn icon-sidebar icon-playlist"></span>
+						<span>Playlist</span>
+						<span class="blk_icn_right none">
+							<span class="icn_right"></span>
+						</span>
+					</a>
+
+					<a id="naboo_menu_element_new_playlist" class="template item_playlist drag_item">
+						<span class="icn icon-sidebar icon-playlist"></span>
+						<span>
+							<input type="text" id="input_new_playlist" name="input_new_playlist" value="Nouvelle playlist" maxlength="50" onfocus="this.select();">
+						</span>
+						<span class="blk_icn_right none">
+							<span class="icn_right"></span>
+						</span>
+					</a>
+
+					<a id="naboo_menu_element_playlist_fav" class="template item_playlist-fav drag_item" element-type="2" onclick="menu.openElement($(this));return false;" ondblclick="menu.contextMenuClick(null, {action:'play', elt:$(this)});return false;">
+						<span class="icn icon-sidebar icon-playlist-public"></span>
+						<span class="infos-playlist">playlist fav<em>par one_one</em></span>
+						<span class="blk_icn_right none">
+							<span class="icn_right"></span>
+						</span>
+					</a>
+
+					<a id="naboo_menu_element_playlist_collab" class="template item_playlist-collab drag_item" element-type="2" onclick="menu.openElement($(this));return false;" ondblclick="menu.contextMenuClick(null, {action:'play', elt:$(this)});return false;">
+						<span class="icn icon-sidebar icon-playlist-collaborative"></span>
+						<span class="infos-playlist">playlist collabo<em>par one_one</em></span>
+						<span class="blk_icn_right none">
+							<span class="icn_right"></span>
+						</span>
+					</a>
+
+					<a id="naboo_menu_element_album" class="template item_album drag_item" element-type="3" onclick="menu.openElement($(this));return false;" ondblclick="menu.contextMenuClick(null, {action:'play', elt:$(this)});return false;">
+						<span class="icn icon-sidebar icon-album"></span>
+						<span>album</span>
+						<span class="blk_icn_right none">
+							<span class="icn_right"></span>
+						</span>
+					</a>
+
+					<div id="naboo_menu_element_folder" class="template block_folder folder_on" element-type="4">
+						<a class="folder" onclick="menu.openElement($(this).parent());return false;" ondblclick="menu.openFolder($(this));return false;">
+							<span class="icn icon-sidebar icon-folder"></span>
+							<span>dossier 1</span>
+							<span class="icon-sidebar icon-arrow-up" onclick="menu.openFolder($(this).parent());event.stopPropagation();return false;"></span>
+						</a>
+					</div>
+
+					<div id="naboo_menu_element_new_folder" class="template block_folder folder_off">
+						<a class="folder">
+							<span class="icn icon-sidebar icon-folder"></span>
+							<input type="text" id="input_new_folder" name="input_new_folder" value="Nouveau dossier" maxlength="50" onfocus="this.select();">
+							<span class="icon-sidebar icon"></span>
+						</a>
+					</div>
+
+					<div id="naboo_menu_loading" class="template fc_666 fs_12" style="margin:5px 0 0 13px">
+						<img src="http://cdn-files.deezer.com/img/common/loading_site_top-v00201256.gif" style="width:16px;height:16px;margin:0 5px -3px 0" /> Chargement en cours					</div>
+				</div>
+			</div>
+		</div>
+		<div class="clearfix" style="clear:both"></div>
+	</div>
+
+	<div id="naboo_menu_infos" style="width:220px;bottom:0;" class="expand relative">
+		<img class="shadow_top" src="http://cdn-files.deezer.com/img/naboo/shadow_albumsidebar.png" height="11" width="100%" />
+		<a href="javascript:void(0)" id="naboo_menu_display_cover" class="menu_bar-slide_off naboo_menu_infos_bt absolute sprite_naboo" onclick="menu.displayCover(); return false;" title="Cacher la pochette"></a>
+		<a href="javascript:void(0)" id="naboo_menu_infos_cover_link" onclick="playercontrol.doAction('linkCurrentSong'); return false;" class="covers-infos">
+			<div class="covers">
+				<img src="http://cdn-images.deezer.com/images/cover//315x315-000000-80-0-0.jpg" alt="Cover Album" id="naboo_menu_infos_cover" style="width:220px;height:220px;" />
+			</div>
+			<div class="infos w_100">
+				<div class="floatl ">
+					<span id="naboo_menu_infos_cover_text_track" class="title to_e fc_fff fwb"></span>
+					<span id="naboo_menu_infos_cover_text_artist" class="artist to_e" style="color:#CCCCCC"></span>
+					<div class="shadow"></div>
+				</div>
+
+			</div>
+		</a>
+	</div>
+</div>			</section>
+			<section class="page-livebar" id="naboo_livebar">
+				<div id="livebar">
+	<div id="live_warning" class="livebarmod live-warning" style="display:none;">
+		<div class="content">
+			<span class="icn_warning"></span>
+			<strong>Service indisponible</strong>
+		</div>
+	</div>
+	<div id="live_loader" class="livebarmod live-loader" style="display:none">
+		<div class="content">
+			<span class="icn_loader"></span>
+		</div>
+	</div>
+
+	<div id="livebar_content" class="livebar-content absolute ui-droppable" style="display:none;">
+		<div class="no_friends" style="display:none;">
+			<div class="icn-no-friends sprite_live"></div>
+			Retrouvez tous vos amis !			<button type="button" id="fb_btn" class="btn btn-small btn-facebook mt_10" href="javascript:void(0);" onClick="facebook.login(); return false;" style="display:inline-block;">
+				Connexion			</button>
+			<div class="clearfix"></div>
+		</div>
+
+		<div class="search_filter" style="display:none;">
+            <a class="cross bt_clear absolute" href="javascript:void(0)" style="display: none;">
+                <span class="block sprite_naboo"></span>
+            </a>
+			<input type="text" name="filter" class="search-friends" id="filter_input" onkeyup="friends.filter()" placeholder="Recherche" autocomplete='off'/>
+		</div>
+
+		<div id="livebar_overflow" style="display:none;">
+			<div class="tinyscroll_scrollbar">
+				<div class="tinyscroll_track">
+					<div class="tinyscroll_thumb">
+						<div class="tinyscroll_end"></div>
+					</div>
+				</div>
+			</div>
+			<div class="tinyscroll_viewport">
+				<div class="tinyscroll_overview">
+					<div id="naboo_live_loading" class="template fc_666 fs_12" style="margin:10px 0 0 13px">
+						<img src="http://cdn-files.deezer.com/img/common/loading_site_top-v00201256.gif" style="width:16px;height:16px;margin:-3px 5px -3px 0">
+						Chargement en cours					</div>
+					<div id="friends" style="display:block;">
+						<div id="messagePane"></div>
+						<div id="onlinePane"></div>
+						<div id="offlinePane"></div>
+						<div id="searchPane" style="display:none;"></div>
+						<div class="sep_friend" style="margin: 0 0;"></div>
+						<div style="padding: 0 9px">
+							<a id="more" href='javascript:void(0);' onClick='friends.searchUser(); return false;' style="display:none;" class="btn btn-block mt_5 mb_10">
+								Recherchez dans tout Deezer							</a>
+						</div>
+						<div id="searchDeezerPane" style="display:none;"></div>
+						<div id="online_friend_default" class="online_friend" style="display:none;">
+							<a id="picture" class="picture" href="javascript:void(0);"></a>
+							<div class="user">
+								<a class="pseudo"></a>
+								<div class="status">
+									<span class="listen"></span>
+									<span class="online sprite_live"></span>
+									<span class="drag sprite_live"></span>
+									<span class="message sprite_live" style="display:none;"></span>
+								</div>
+						   </div>
+						   <div class="clearfix"></div>
+						</div>
+					</div>
+					<div id="ticker_modele" class="feed-live" style="display:none;">
+						<img />
+						<div class="icn-feed">
+							<div class="icn-mail sprite_live" style="display:none;"></div>
+						</div>
+						<div class="floatl feed-text">
+							<span></span>
+						</div>
+						<div class="clearfix"></div>
+					</div>
+					<div id="ticker" style="display:none;"></div>
+					<div id="notifications" style="display:none;"></div>
+				</div>
+			</div>
+		</div>
+
+	</div>
+	<div class="clearfix"></div>
+	<div id="livebar_gateway"></div>
+</div>			</section>
+			<section class="page-content" id="page_content">
+				<section class="page-main">
+					<div id="ads_banner_top"></div>
+					<div id="ads_player_audio"></div>
+					<div class="page-container" id="naboo_content">
+						<div id="page_offline" data-bg="white">
+	<div id="naboo_home_offline" style="display:none;">
+		<div class="naboo_home_offline_content">
+			<div class="presentation">
+				<h1>Vous n'êtes pas connecté à Internet.</h1>
+				Cela ne veut pas dire que votre musique doit vous laisser tomber. Retrouvez ici vos playlists et albums synchronisés.<br />
+			</div>
+			<div id="naboo_home_offline_empty" class="presentation" style="display:none;">
+				Vous n'avez aucun contenu synchronisé.<br />
+			</div>
+			<div id="naboo_offline_loved_title" class="categorie" style="display:none;">
+				COUPS DE COEUR			</div>
+			<ul id="naboo_offline_loved_list" class="naboo_offline_list" style="display:none;">
+				<li class="naboo_offline">
+					<div class="naboo_offline_picture">
+						<span class="synchro_ok"></span>
+						<a href="javascript:void(0)">
+							<img style="width:120px;height:120x" />
+						</a>
+					</div>
+					<div class="naboo_offline_title">
+						<a href="javascript:void(0)">
+							<strong></strong>
+						</a>
+						<a href="javascript:void(0)"></a>
+					</div>
+				</li>
+			</ul>
+			<div class="clearfix"></div>
+			<div id="naboo_offline_album_title" class="categorie" style="display:none;">ALBUMS</div>
+			<ul id="naboo_offline_album_list" class="naboo_offline_list" style="display:none;">
+				<li class="naboo_offline">
+					<div class="naboo_offline_picture">
+						<span class="synchro_ok"></span>
+						<a href="javascript:void(0)">
+							<img style="width:120px;height:120x" />
+						</a>
+					</div>
+					<div class="naboo_offline_title">
+						<a href="javascript:void(0)">
+							<strong></strong>
+						</a>
+						<a href="javascript:void(0)"></a>
+					</div>
+				</li>
+			</ul>
+			<div class="clearfix"></div>
+			<div id="naboo_offline_playlist_title" class="categorie" style="display:none;">
+				PLAYLIST			</div>
+			<ul id="naboo_offline_playlist_list" class="naboo_offline_list" style="display:none;">
+				<li class="naboo_offline">
+					<div class="naboo_offline_picture">
+						<span class="synchro_ok"></span>
+						<a href="javascript:void(0)">
+							<img style="width:120px;height:120x" />
+						</a>
+					</div>
+					<div class="naboo_offline_title">
+						<a href="javascript:void(0)">
+							<strong></strong>
+						</a>
+						<a href="javascript:void(0)"></a>
+					</div>
+				</li>
+			</ul>
+		</div>
+	</div>
+</div>
+	<script type="text/javascript">
+		naboo.display('offline');
+	</script>
+					</div>
+					<footer class="page-footer" id="footer">
+						<div class="container">
+
+			<a class="logo-pur" href="http://www.pur.fr" rel="nofollow" target="_blank">
+			<i class="logo-pur-hover"></i>
+		</a>
+	
+	<div class="columns clearfix">
+		<dl>
+			<dt>Deezer</dt>
+			<dd>
+				<a id="footer_offers" href="/fr/offers/" onclick="loadBox('offers/'); return false;">
+					Nos offres				</a>
+			</dd>
+			<dd>
+				<a id="footer_features" href="/fr/features/" onclick="loadBox('features/'); return false;">
+					Les fonctionnalités				</a>
+			</dd>
+			<dd>
+				<a id="footer_about" href="/fr/legal/about.php" onclick="loadBox('legal/about.php'); return false;">
+					A propos				</a>
+			</dd>
+			<dd>
+				<a id="footer_press" href="/fr/legal/press.php" onclick="loadBox('legal/press.php'); return false;">
+					Presse				</a>
+			</dd>
+			<dd>
+				<a id="footer_jobs" href="/fr/jobs" onclick="loadBox('jobs'); return false;">
+					Deezer recrute				</a>
+			</dd>
+							<dd>
+					<a href="http://www.deezermedia.com" target="_blank">
+						Publicité					</a>
+				</dd>
+				<dd>
+					<a href="http://www.sounddeezer-distribution.com" target="_blank">
+						Offres Pros
+					</a>
+				</dd>
+					</dl>
+		<dl>
+			<dt>Extras</dt>
+							<dd>
+					<a id="footer_festival" href="/fr/festival" onclick="loadBox('festival'); return false;">
+						Festivals					</a>
+				</dd>
+							<dd>
+					<a href="/fr/partners/deezerdetalents2012" onclick="loadBox('partners/deezerdetalents2012'); return false;">
+						Deezer de Talents
+					</a>
+				</dd>
+						<dd>
+				<a href="http://developers.deezer.com" target="_blank">
+					Developers
+				</a>
+			</dd>
+			<dd>
+				<a href="/fr/legal/labels-artists.php" onclick="loadBox('legal/labels-artists.php'); return false;">
+					Labels / Artistes				</a>
+			</dd>
+			<dd>
+				<a href="/fr/legal/partners.php" onclick="loadBox('legal/partners.php'); return false;">
+					Partenaires				</a>
+			</dd>
+		</dl>
+		<dl>
+			<dt>Aide</dt>
+			<dd>
+				<a id="footer_support" href="/support/index.php" target="_blank">
+					Aide &amp; Contact				</a>
+			</dd>
+		</dl>
+		<dl>
+			<dt>Mobile</dt>
+			<dd>
+				<a id="footer_android" href="/fr/devices/android" onclick="loadBox('devices/android'); return false;">
+					Android
+				</a>
+			</dd>
+			<dd>
+				<a id="footer_blackberry" href="/fr/devices/blackberry" onclick="loadBox('devices/blackberry'); return false;">
+					BlackBerry
+				</a>
+			</dd>
+			<dd>
+				<a id="footer_iphone" href="/fr/devices/iphone" onclick="loadBox('devices/iphone'); return false;">
+					iPhone - iPod Touch
+				</a>
+				-
+				<a href="/fr/devices/ipad" onclick="loadBox('devices/ipad'); return false;">
+					iPad
+				</a>
+			</dd>
+			<dd>
+				<a id="footer_sonos" href="/fr/devices/logitech" onclick="loadBox('devices/logitech'); return false;">
+					Logitech
+				</a>
+				-
+				<a href="/fr/devices/sonos" onclick="loadBox('devices/sonos'); return false;">
+					Sonos
+				</a>
+			</dd>
+		</dl>
+		<dl>
+			<dt>Legal</dt>
+			<dd>
+				<a id="footer_cgu" href="/fr/legal/cgu.php" onclick="loadBox('legal/cgu.php'); return false;">
+					Conditions générales d'utilisation				</a>
+			</dd>
+			<dd>
+				<a id="footer_personnal" href="/fr/legal/personal-datas.php" onclick="loadBox('legal/personal-datas.php'); return false;">
+					Données personnelles				</a>
+			</dd>
+			<dd>
+				<a id="footer_legal" href="/fr/legal/legal.php" onclick="loadBox('legal/legal.php'); return false;">
+					Mentions légales				</a>
+			</dd>
+		</dl>
+	</div>
+
+	<div class="follow">
+					<a href="http://blog.deezer.com/fr/" target="_blank">Blog</a>
+							<a class="social social-small social-googleplus" href="https://plus.google.com/+deezer" target="_blank">
+				<i class="social-icon"></i>
+			</a>
+							<a class="social social-small social-facebook" href="http://www.facebook.com/deezer" target="_blank">
+				<i class="social-icon"></i>
+			</a>
+							<a class="social social-small social-twitter" href="http://twitter.com/DeezerFrance" target="_blank">
+				<i class="social-icon"></i>
+			</a>
+				Nous suivre	</div>
+
+	<div class="copyright">
+		Musique à la demande avec Deezer - Copyright 2006-2013 - Your country is : FR		 · Generated by blm-web-46 · pop FR	</div>
+
+	<div class="lang">
+		<a href="javascript:void(0)" onclick="www.displayLanguages(); return false;">
+			<span class="flag fr"></span>
+			<span class="label">Changer de langue</span>
+		</a>
+		<ul class="lang-menu clearfix" id="languages-list">
+							<li>
+					<a href="/en/" onclick="document.location.href = '/lang.php?lang=en&redirect=' + actual_box; return false;">
+						<span class="flag en"></span>
+						English					</a>
+				</li>
+							<li>
+					<a href="/ar/" onclick="document.location.href = '/lang.php?lang=ar&redirect=' + actual_box; return false;">
+						<span class="flag eg"></span>
+						Arabe					</a>
+				</li>
+							<li>
+					<a href="/rs/" onclick="document.location.href = '/lang.php?lang=rs&redirect=' + actual_box; return false;">
+						<span class="flag rs"></span>
+						Srpski					</a>
+				</li>
+							<li>
+					<a href="/de/" onclick="document.location.href = '/lang.php?lang=de&redirect=' + actual_box; return false;">
+						<span class="flag de"></span>
+						Deutsch					</a>
+				</li>
+							<li>
+					<a href="/es/" onclick="document.location.href = '/lang.php?lang=es&redirect=' + actual_box; return false;">
+						<span class="flag es"></span>
+						Español					</a>
+				</li>
+							<li>
+					<a href="/fr/" onclick="document.location.href = '/lang.php?lang=fr&redirect=' + actual_box; return false;">
+						<span class="flag fr"></span>
+						Français					</a>
+				</li>
+							<li>
+					<a href="/id/" onclick="document.location.href = '/lang.php?lang=id&redirect=' + actual_box; return false;">
+						<span class="flag id"></span>
+						Indonesia					</a>
+				</li>
+							<li>
+					<a href="/it/" onclick="document.location.href = '/lang.php?lang=it&redirect=' + actual_box; return false;">
+						<span class="flag it"></span>
+						Italiano					</a>
+				</li>
+							<li>
+					<a href="/hu/" onclick="document.location.href = '/lang.php?lang=hu&redirect=' + actual_box; return false;">
+						<span class="flag hu"></span>
+						Magyar					</a>
+				</li>
+							<li>
+					<a href="/ms/" onclick="document.location.href = '/lang.php?lang=ms&redirect=' + actual_box; return false;">
+						<span class="flag ms"></span>
+						Melayu					</a>
+				</li>
+							<li>
+					<a href="/nl/" onclick="document.location.href = '/lang.php?lang=nl&redirect=' + actual_box; return false;">
+						<span class="flag nl"></span>
+						Nederlands					</a>
+				</li>
+							<li>
+					<a href="/pl/" onclick="document.location.href = '/lang.php?lang=pl&redirect=' + actual_box; return false;">
+						<span class="flag pl"></span>
+						Polski					</a>
+				</li>
+							<li>
+					<a href="/br/" onclick="document.location.href = '/lang.php?lang=br&redirect=' + actual_box; return false;">
+						<span class="flag br"></span>
+						Português (br)					</a>
+				</li>
+							<li>
+					<a href="/pt/" onclick="document.location.href = '/lang.php?lang=pt&redirect=' + actual_box; return false;">
+						<span class="flag pt"></span>
+						Português (pt)					</a>
+				</li>
+							<li>
+					<a href="/ru/" onclick="document.location.href = '/lang.php?lang=ru&redirect=' + actual_box; return false;">
+						<span class="flag ru"></span>
+						Pусский					</a>
+				</li>
+							<li>
+					<a href="/ro/" onclick="document.location.href = '/lang.php?lang=ro&redirect=' + actual_box; return false;">
+						<span class="flag ro"></span>
+						Română					</a>
+				</li>
+							<li>
+					<a href="/tl/" onclick="document.location.href = '/lang.php?lang=tl&redirect=' + actual_box; return false;">
+						<span class="flag ph"></span>
+						Tagalog					</a>
+				</li>
+							<li>
+					<a href="/tr/" onclick="document.location.href = '/lang.php?lang=tr&redirect=' + actual_box; return false;">
+						<span class="flag tr"></span>
+						Türkçe					</a>
+				</li>
+							<li>
+					<a href="/me/" onclick="document.location.href = '/lang.php?lang=me&redirect=' + actual_box; return false;">
+						<span class="flag me"></span>
+						Црногорски					</a>
+				</li>
+							<li>
+					<a href="/th/" onclick="document.location.href = '/lang.php?lang=th&redirect=' + actual_box; return false;">
+						<span class="flag th"></span>
+						ภาษาไทย					</a>
+				</li>
+							<li>
+					<a href="/cn/" onclick="document.location.href = '/lang.php?lang=cn&redirect=' + actual_box; return false;">
+						<span class="flag cn"></span>
+						中文					</a>
+				</li>
+							<li>
+					<a href="/hr/" onclick="document.location.href = '/lang.php?lang=hr&redirect=' + actual_box; return false;">
+						<span class="flag hr"></span>
+						Hrvatski					</a>
+				</li>
+							<li>
+					<a href="/ko/" onclick="document.location.href = '/lang.php?lang=ko&redirect=' + actual_box; return false;">
+						<span class="flag ko"></span>
+						한국의					</a>
+				</li>
+						<li class="btn-close">
+				<a class="flag close" href="javascript:void(0)" onclick="www.displayLanguages(); return false;">
+					Fermer				</a>
+			</li>
+		</ul>
+	</div>
+</div>					</footer>
+					<div id="ads_banner_bottom"></div>
+					<div id="ads_pixel"></div>
+					<div id="ads_expand"></div>
+				</section>
+				<section class="page-ads">
+					<img src="">
+				</section>
+			</section>
+		</section>
+		<section class="page-shadow">
+			<div id="modal" style="display: none;">
+	<div class="overlay"></div>
+	<div class="modal-container"></div>
+</div><div id="interstitial" style="display: none;">
+	<div class="overlay"></div>
+	<div class="interstitial-container">
+		<span class="interstitial-wrapper">
+			<a class="close" href="javascript:void(0);" onclick="removeInterstitial(); return false;">
+				Fermer				<i class="icon icon-close"></i>
+			</a>
+			<a id="interstitial_ads"></a>
+		</span>
+	</div>
+</div><div id="notify">
+	<a class="close" href="javascript:void(0)" onclick="notificationBar.hide(); return false;"></a>
+	<a class="message" href="javascript:void(0)">
+		
+	</a>
+</div>
+<div id="hotkeys">
+	<div class="topbar"></div>
+	<div class="mapping" id="hotkeys_mapping"></div>
+</div>
+<script type="text/javascript">
+	</script>
+
+<div id="notification" class="notifier" style="display: none;">
+	<div class="icn_loading floatl"></div>
+	<span class="floatl">Chargement en cours</span>
+</div>
+
+<div class="hide">
+	<form>
+		<input id="checkForm" name="checkForm" type="hidden" value="976e1ebdc49372792a9d2222a482a094">
+	</form>
+</div>
+
+<div id="dztoolbar-root"></div>
+<div id="livemenu">
+	<div id="livebar_menu" style="display:none;">
+	<a id="btn_friends" href="javascript:void(0);" onClick="friends.show(); return false;" original-title="Vous suivez">
+		<span class="tabs tabs-friends sprite_live">
+			<span class="tabs-hover sprite_live"></span>
+		</span>
+		<span id="friends_new" class="alert_notif sprite_live" style="display:none;"></span>
+	</a>
+	<a id="btn_ticker" href="javascript:void(0);" onClick="ticker.show(); return false;" original-title="Activité">
+		<span class="tabs tabs-tick sprite_live">
+			<span class="tabs-hover sprite_live"></span>
+		</span>
+		<span id="ticker_new" class="alert_notif bubble_notif" style="display:none;"></span>
+	</a>
+	<a id="btn_notifications" href="javascript:void(0);" onClick="notifications.show(); return false;" original-title="Notifications">
+		<span class="tabs tabs-notif sprite_live">
+			<span class="tabs-hover sprite_live"></span>
+		</span>
+		<span id="notifications_new" class="alert_notif bubble_notif" style="display:none;"></span>
+	</a>
+	<a id="minimize" href="javascript:void(0)" onclick="livebar.hide(); return false;" style="display: none;"  original-title="Masquer">
+		<span class="tabs tabs-close sprite_live">
+			<span class="tabs-hover sprite_live"></span>
+		</span>
+	</a>
+	<div class="clearfix"></div>
+</div></div>
+
+
+<script type="text/javascript">
+
+var actual_box = '';
+
+if (location.hash != '' && location.hash != '#base_domain=deezer.com' && location.hash != '#_=_' && location.hash.substr(0,6) != '#inapp') { // Fix FB hash link
+	var loc = location.hash.substr(1, location.hash.length - 1);
+	if (loc.charAt(0) == "/") {
+		loc = loc.substr(1, location.hash.length - 1);
+	}
+
+	var tab = loc.split('?');
+
+	var allowed_locs = ['discography', 'related', 'review', 'video', 'biography', 'chronicles', 'tracks', 'fan'];
+	if ($.inArray(loc, allowed_locs) === -1) {
+
+		if (tab.length == 2) {
+			document.location.href = 'http://' + SETTING_HOST + '/' + SETTING_LANG + '/' + tab[0] + '?' + hex2bin(tab[1]);
+		} else {
+			document.location.href = 'http://' + SETTING_HOST + '/' + SETTING_LANG + '/' + loc;
+		}
+	}
+}
+
+try {
+	$(document).ready(function() {
+		$(function() {
+
+			Events.ready(Events.user.loaded, function() {
+				dzoffline.init();
+				userData.load();
+				howto.init();
+				gigs.init();
+				userSetting.init();
+			});
+
+			live.init();
+			livebar.init();
+			playercontrol.init('player_default_playlist', {"data":[{"SNG_ID":"70257006","SNG_TITLE":"Suite IV Electric Overture","ART_ID":"131935","ART_NAME":"Janelle Monae","ALB_ID":"6892390","ALB_TITLE":"The Electric Lady","TYPE":0,"MD5_ORIGIN":"e3d876ff57825b7bb43845d67ef5d1aa","DURATION":"97","TRACK_NUMBER":"1","ALB_PICTURE":"c9d49d303c1cb1564a5cf15d9bbadb72","SMARTRADIO":"1","FILESIZE":"1553587","FILESIZE_MP3_128":"1553587","FILESIZE_MP3_256":"0","FILESIZE_MP3_320":"0","MEDIA_VERSION":"0","ISRC":"USBB41300036","RIGHTS":{"STREAM_ADS_AVAILABLE":true,"STREAM_ADS":"2000-01-01","STREAM_SUB_AVAILABLE":true,"STREAM_SUB":"2000-01-01","DOWNLOAD_ALC":"2000-01-01","DOWNLOAD_ALC_AVAILABLE":true}},{"SNG_ID":"70206826","SNG_TITLE":"Wasting My Young Years","ART_ID":"4771546","ART_NAME":"London Grammar","ALB_ID":"6886576","ALB_TITLE":"If You Wait","TYPE":0,"MD5_ORIGIN":"828d86e14ed73b430c400b7489cac949","DURATION":"204","TRACK_NUMBER":"4","ALB_PICTURE":"615db2012ca3877aee3da15e5e7f7017","SMARTRADIO":"0","FILESIZE":"3274325","FILESIZE_MP3_128":"3274325","FILESIZE_MP3_256":"0","FILESIZE_MP3_320":"0","MEDIA_VERSION":"0","ISRC":"GBCEN1300372","RIGHTS":{"STREAM_ADS_AVAILABLE":true,"STREAM_ADS":"2000-01-01","STREAM_SUB_AVAILABLE":true,"STREAM_SUB":"2000-01-01","DOWNLOAD_ALC":"2000-01-01","DOWNLOAD_ALC_AVAILABLE":true}},{"SNG_ID":"67629593","SNG_TITLE":"El Bendito","ART_ID":"1438374","ART_NAME":"La Yegros","ALB_ID":"6620733","ALB_TITLE":"Viene de Mi","TYPE":0,"MD5_ORIGIN":"9cfcd709fa488cb918b8e7ed48c2b050","DURATION":"227","TRACK_NUMBER":"7","ALB_PICTURE":"3c75ece460081eff6b76153c9b9fb666","SMARTRADIO":"0","FILESIZE":"3641711","FILESIZE_MP3_128":"3641711","FILESIZE_MP3_256":"0","FILESIZE_MP3_320":"0","MEDIA_VERSION":"0","ISRC":"GBGLW1100080","RIGHTS":{"STREAM_ADS_AVAILABLE":true,"STREAM_ADS":"2000-01-01","STREAM_SUB_AVAILABLE":true,"STREAM_SUB":"2000-01-01","DOWNLOAD_ALC":"2000-01-01","DOWNLOAD_ALC_AVAILABLE":true}},{"SNG_ID":"70123213","SNG_TITLE":"ATM Jam","ART_ID":"808106","ART_NAME":"Azealia Banks","ALB_ID":"6877774","ALB_TITLE":"ATM Jam","TYPE":0,"MD5_ORIGIN":"5921a6e97f6633c47c5824dc69349127","DURATION":"233","TRACK_NUMBER":"1","ALB_PICTURE":"429bcc867b0074343115cad2634fce70","SMARTRADIO":"1","FILESIZE":"3735752","FILESIZE_MP3_128":"3735752","FILESIZE_MP3_256":"0","FILESIZE_MP3_320":"0","MEDIA_VERSION":"0","ISRC":"GBUM71305622","RIGHTS":{"STREAM_ADS_AVAILABLE":true,"STREAM_ADS":"2000-01-01","STREAM_SUB_AVAILABLE":true,"STREAM_SUB":"2000-01-01","DOWNLOAD_ALC":"2000-01-01","DOWNLOAD_ALC_AVAILABLE":true}},{"SNG_ID":"62247651","SNG_TITLE":"Cristina","ART_ID":"4097761","ART_NAME":"Teleman","ALB_ID":"6106182","ALB_TITLE":"Cristina","TYPE":0,"MD5_ORIGIN":"2b322f9c2b5e54ccb9c138254348b676","DURATION":"235","TRACK_NUMBER":"1","ALB_PICTURE":"c1041f7de0faa6ffb1e1a74dc7c85ca3","SMARTRADIO":"0","FILESIZE":"3777130","FILESIZE_MP3_128":"3777130","FILESIZE_MP3_256":"0","FILESIZE_MP3_320":"0","MEDIA_VERSION":"0","ISRC":"GBGEY1200184","RIGHTS":{"STREAM_ADS_AVAILABLE":true,"STREAM_ADS":"2000-01-01","STREAM_SUB_AVAILABLE":true,"STREAM_SUB":"2000-01-01"}},{"SNG_ID":"67933169","SNG_TITLE":"Pursuit","ART_ID":"210977","ART_NAME":"Gesaffelstein","ALB_ID":"6652014","ALB_TITLE":"Pursuit","TYPE":0,"MD5_ORIGIN":"ea35cea9d6ad47d1822a1016d768dc28","DURATION":"248","TRACK_NUMBER":"1","ALB_PICTURE":"4970f33d3faa148745a66622cd96ca08","SMARTRADIO":"1","FILESIZE":"3963122","FILESIZE_MP3_128":"3963122","FILESIZE_MP3_256":"0","FILESIZE_MP3_320":"0","MEDIA_VERSION":"0","ISRC":"FRZ111300412","RIGHTS":{"STREAM_ADS_AVAILABLE":true,"STREAM_ADS":"2000-01-01","STREAM_SUB_AVAILABLE":true,"STREAM_SUB":"2000-01-01","DOWNLOAD_ALC":"2000-01-01","DOWNLOAD_ALC_AVAILABLE":true}},{"SNG_ID":"70122731","SNG_TITLE":"Animal Games","ART_ID":"3460","ART_NAME":"Emil\u00edana Torrini","ALB_ID":"6877739","ALB_TITLE":"Tookah","TYPE":0,"MD5_ORIGIN":"e772e536629de945f7c150b116aa4421","DURATION":"176","TRACK_NUMBER":"6","ALB_PICTURE":"54749d50153c82ad45a50ffb4e88f7f8","SMARTRADIO":"1","FILESIZE":"2824183","FILESIZE_MP3_128":"2824183","FILESIZE_MP3_256":"0","FILESIZE_MP3_320":"0","MEDIA_VERSION":"0","ISRC":"GBCVZ1303366","RIGHTS":{"STREAM_ADS_AVAILABLE":true,"STREAM_ADS":"2000-01-01","STREAM_SUB_AVAILABLE":true,"STREAM_SUB":"2000-01-01","DOWNLOAD_ALC":"2000-01-01","DOWNLOAD_ALC_AVAILABLE":true}},{"SNG_ID":"70335749","SNG_TITLE":"Le Conditionnel De Vari\u00e9t\u00e9s","ART_ID":"1626","ART_NAME":"L\u00e9o Ferr\u00e9","ALB_ID":"6901175","ALB_TITLE":"Int\u00e9grale Barclay 1960 - 1974","TYPE":0,"MD5_ORIGIN":"a3ef1999717e76795c6988d319152324","DURATION":"297","TRACK_NUMBER":"9","ALB_PICTURE":"367f07f909375e9be08c53973db867d4","SMARTRADIO":"1","FILESIZE":"4750975","FILESIZE_MP3_128":"4750975","FILESIZE_MP3_256":"0","FILESIZE_MP3_320":"0","MEDIA_VERSION":"0","ISRC":"FRZ017100630","RIGHTS":{"STREAM_ADS_AVAILABLE":true,"STREAM_ADS":"2000-01-01","STREAM_SUB_AVAILABLE":true,"STREAM_SUB":"2000-01-01","DOWNLOAD_ALC":"2000-01-01","DOWNLOAD_ALC_AVAILABLE":true}},{"SNG_ID":"69553358","SNG_TITLE":"Fly Together","ART_ID":"374356","ART_NAME":"Mi and L'au","ALB_ID":"6817094","ALB_TITLE":"Fly Together - Single","TYPE":0,"MD5_ORIGIN":"bf8d2a77383d027fc4adf00124b45604","DURATION":"350","TRACK_NUMBER":"1","ALB_PICTURE":"c397638a2c459c48890fe3c0ef25a246","SMARTRADIO":"1","FILESIZE":"5594416","FILESIZE_MP3_128":"5594416","FILESIZE_MP3_256":"0","FILESIZE_MP3_320":"0","MEDIA_VERSION":"0","ISRC":"FRU451300164","RIGHTS":{"STREAM_ADS_AVAILABLE":true,"STREAM_ADS":"2000-01-01","STREAM_SUB_AVAILABLE":true,"STREAM_SUB":"2000-01-01","DOWNLOAD_ALC":"2000-01-01","DOWNLOAD_ALC_AVAILABLE":true}},{"SNG_ID":"70328511","SNG_TITLE":"Time for a change","ART_ID":"280550","ART_NAME":"Elephanz","ALB_ID":"6900356","ALB_TITLE":"Time for a change","TYPE":0,"MD5_ORIGIN":"0001770a30ed145f2ddf438e503b56be","DURATION":"226","TRACK_NUMBER":"1","ALB_PICTURE":"9b4d72816c953843bd8b731277815f14","SMARTRADIO":"1","FILESIZE":"3610782","FILESIZE_MP3_128":"3610782","FILESIZE_MP3_256":"0","FILESIZE_MP3_320":"0","MEDIA_VERSION":"0","ISRC":"FR9W11205553","RIGHTS":{"STREAM_ADS_AVAILABLE":true,"STREAM_ADS":"2000-01-01","STREAM_SUB_AVAILABLE":true,"STREAM_SUB":"2000-01-01","DOWNLOAD_ALC":"2000-01-01","DOWNLOAD_ALC_AVAILABLE":true}}],"total":10,"count":10,"checksum":"d29ffc947c08ce04f91aed2bbc82357f"}, 0, false, "", 53362031);
+			ressources.setInitScripts();
+			crontab();
+
+							hotkeys.init();
+			
+			Events.subscribe(Events.navigation.page_displayed, www.updateContentBackground);
+			Events.trigger(Events.navigation.page_displayed);
+		});
+	});
+} catch(e) {
+	console.log(e.message, e.stack);
+}
+</script>
+
+<script type="text/javascript">
+
+	(function() {
+		var po = document.createElement('script');
+		po.type = 'text/javascript';
+		po.async = true;
+		po.src = 'https://apis.google.com/js/client:plusone.js?onload=renderggplus';
+		po.text = "{ parsetags : 'explicit' }";
+		//var param = document.createTextNode("{ parsetags : 'explicit' }");
+		//po.appendChild(param);
+		var s = document.getElementsByTagName('script')[0];
+		s.parentNode.insertBefore(po, s);
+	})();
+
+	function renderggplus(id) {
+
+		if (typeof(gapi) == 'undefined') {
+			return false;
+		}
+
+		if (typeof(id) == 'undefined') {
+			id = 'hp_create_account_gp';
+		}
+
+		if ($('#'+id).is('[data-gg-init="true"]')) {
+			return false;
+		}
+		$("#" + id).attr('data-gg-init', true);
+
+		$("#" + id).off().on('click', function() {
+			googleplus.gplus_clicked = true;
+		});
+
+		gapi.signin.render(id, {
+			'clientid': '630457285321-d5nmkpnjktjoeh426nvdu40rch1b1qe0.apps.googleusercontent.com',
+			'callback': 'signInCallback',
+			'cookiepolicy': 'single_host_origin',
+			'requestvisibleactions': 'http://schemas.google.com/AddActivity http://schemas.google.com/ListenActivity http://schemas.google.com/CommentActivity',
+			'scope': 'https://www.googleapis.com/auth/plus.login https://www.googleapis.com/auth/userinfo.email',
+			'accesstype': 'offline',
+			'apppackagename': 'deezer.android.app',
+			'redirecturi': 'postmessage'
+		});
+
+		Events.resolve(Events.googleplus.ready);
+	}
+
+	function signInCallback(authResult) {
+
+		if (googleplus.gplus_clicked === false) {
+			return false;
+		}
+
+		if (authResult['access_token']) {
+
+			googleplus.code = authResult['code'];
+
+			// Load the oauth2 libraries to enable the userinfo methods.
+			gapi.client.load('oauth2', 'v2', function() {
+
+				var request = gapi.client.oauth2.userinfo.get();
+				request.execute(function(r) {
+
+					if (typeof(r.id) != 'undefined') {
+						googleplus.connect(r.id);
+					}
+				});
+			});
+		}
+
+		googleplus.gplus_clicked = false;
+
+		return true;
+	}
+</script>
+<div id="fb-root"></div>
+<script type="text/javascript">
+<!--
+///// FACEBOOK /////
+window.fbAsyncInit = function() {
+try {
+	if (typeof(FB) !== 'undefined') {
+
+		FB.init({appId  : '241284008322', channelUrl : 'http://www.deezer.com/fbgateway.html', status : true, cookie : true, xfbml : false, oauth : true, music: true});
+
+		FB.getLoginStatus(function(response) {
+
+			console.log("FB.getLoginStatus =", response.status, response);
+
+			if (response.status === 'connected') {
+
+				facebook.logged = true;
+				FB_ACCESS_TOKEN = response.authResponse.accessToken;
+
+				var redirect = '';
+				if (redirect_fb != '') {
+					redirect = {};
+					redirect.type = 'facebox';
+					redirect.link = redirect_fb;
+				}
+
+				facebook.connect(response.authResponse.userID, FB_ACCESS_TOKEN, redirect);
+
+			} else if (response.status === 'not_authorized') {
+
+				facebook.logged = true;
+
+				if (redirect_fb != '') {
+					var parseUrl = redirect_fb.split('/');
+					loadBox('landing/' + parseUrl[parseUrl.length -2] + "/" + parseUrl[parseUrl.length -1]);
+				}
+
+			} else {
+			}
+		});
+
+		facebook.init();
+	}
+} catch(e) {console.log(e.message, e.stack);}
+};
+
+if (!OFFLINE) {
+	(function() {
+		var e = document.createElement('script');
+		e.src = document.location.protocol + '//connect.facebook.net/fr_FR/all/vb.js';
+		e.async = true;
+		document.getElementById('fb-root').appendChild(e);
+	}());
+}
+// -->
+</script>
+<script type="text/javascript">
+var _gaq = _gaq || [];
+_gaq.push(['_setAccount', 'UA-417097-1']);
+_gaq.push(['_setDomainName', '.deezer.com']);
+_gaq.push(['_trackPageview']);
+
+if (!OFFLINE) {
+	(function() {
+		var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+		ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+		var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+	})();
+}
+</script>
+<script type="text/javascript">
+if (!OFFLINE) {
+
+	if (typeof(mixpanel) === 'undefined') {
+		(function(c,a){window.mixpanel=a;var b,d,h,e;b=c.createElement("script");b.type="text/javascript";b.async=!0;b.src=("https:"===c.location.protocol?"https:":"http:")+'//cdn.mxpnl.com/libs/mixpanel-2.1.min.js';d=c.getElementsByTagName("script")[0];d.parentNode.insertBefore(b,d);a._i=[];a.init=function(b,c,f){function d(a,b){var c=b.split(".");2==c.length&&(a=a[c[0]],b=c[1]);a[b]=function(){a.push([b].concat(Array.prototype.slice.call(arguments,0)))}}var g=a;"undefined"!==typeof f?g=a[f]=[]:f="mixpanel";g.people=g.people||[];h="disable track track_pageview track_links track_forms register register_once unregister identify name_tag set_config people.identify people.set people.increment".split(" ");for(e=0;e<h.length;e++)d(g,h[e]);a._i.push([b,c,f])};a.__SV=1.1})(document,window.mixpanel||[]);
+	}
+
+	mixpanel.init('1eeb74efa641147360b9550638faf774');
+	tracking.register();
+	tracking.trackCampaign();
+}
+</script>
+<script type="text/javascript">
+var gatekeeper = {
+	
+	features : {"signin_googleplus":true,"artist_spellcheck":false,"mobile_offline_expiration":false,"hotkeys":true,"facebook_og_action":true},
+	isAllowed : function(feature) {
+		if (typeof(gatekeeper.features[feature]) == 'undefined') {
+			return false;
+		}
+		return gatekeeper.features[feature];
+	}
+};
+</script>
+
+<div class="h_icn_play"></div>		</section>
+	</div>
+</body>
+</html>

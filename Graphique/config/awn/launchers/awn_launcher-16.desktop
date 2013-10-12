@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=Enemy Territory: Quake Wars
+Type=Application
+Comment=Enemy Territory: Quake Wars
+Exec=/usr/games/bin/etqw
+TryExec=etqw
+Icon=etqw
+Categories=Game;ActionGame;

@@ -17,8 +17,6 @@ set -e
 # You should have received a copy of the GNU General Public License
 # along with GRUB.  If not, see <http://www.gnu.org/licenses/>.
 
-transform="s&^&&;s,grub,grub2,"
-
 prefix="/usr"
 exec_prefix="${prefix}"
 datarootdir="${prefix}/share"
@@ -53,13 +51,25 @@ if [ "x$GRUB_BUTTON_CMOS_ADDRESS" != "x" ]; then
     cat <<EOF
 if cmostest $GRUB_BUTTON_CMOS_ADDRESS ; then
    set default="${GRUB_DEFAULT_BUTTON}"
+elif [ "\${next_entry}" ] ; then
+   set default="\${next_entry}"
+   set next_entry=
+   save_env next_entry
+   set boot_once=true
 else
    set default="${GRUB_DEFAULT}"
 fi
 EOF
 else
     cat <<EOF
-set default="${GRUB_DEFAULT}"
+if [ "\${next_entry}" ] ; then
+   set default="\${next_entry}"
+   set next_entry=
+   save_env next_entry
+   set boot_once=true
+else
+   set default="${GRUB_DEFAULT}"
+fi
 EOF
 fi
 cat <<EOF
@@ -142,7 +152,7 @@ if [ "x$gfxterm" = x1 ]; then
 if loadfont `make_system_path_relative_to_its_root "${GRUB_FONT}"` ; then
 EOF
     else
-	for dir in "${pkgdatadir}" "`echo '/boot/grub2' | sed "s,//*,/,g"`" /usr/share/grub ; do
+	for dir in "${pkgdatadir}" "`echo '/boot/grub' | sed "s,//*,/,g"`" /usr/share/grub ; do
 	    for basename in unicode unifont ascii; do
 		path="${dir}/${basename}.pf2"
 		if is_path_readable_by_grub "${path}" > /dev/null ; then

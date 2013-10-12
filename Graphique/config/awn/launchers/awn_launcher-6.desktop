@@ -1,6 +1,6 @@
-
 [Desktop Entry]
 Type=Application
-Name=FarCry
-Exec=sh /media/utilitaire/Install/ScripLancement/FarCry.sh
-Icon=/media/multimedia/Images/Jeu_video/far_cry_icon_3.png
+Name=FTB
+Comment=Feed The Beast
+Exec=java -jar /media/utilitaire/Install/Jeux/Minecraft/FTB_Launcher.jar
+Icon=/media/multimedia/Images/Jeu_video/Xj1EnwQ.png

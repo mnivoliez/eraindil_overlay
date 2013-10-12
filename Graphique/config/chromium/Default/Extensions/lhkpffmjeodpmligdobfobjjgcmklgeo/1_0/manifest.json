@@ -1,0 +1,45 @@
+{
+   "description": "A theme that pretty much speaks for it self. HD",
+   "key": "MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQDG36O0VVj1i7fPkgrbBIPo/bU6zNPbS3LeSY9+whx60Vu7Y0PSwdeSOeywG4OAPqpdV5DW12+FjXmqOvcQuvbp0XS0PfBu6dp/Yi+282Rr8tbM4o+fHW98RZpNusjazM0DDgcYa9UOwVTJiSgMjy9FpvWYLT1Qjmbt0TzvLjSOTwIDAQAB",
+   "name": "Lost",
+   "theme": {
+      "colors": {
+         "bookmark_text": [ 204, 197, 190 ],
+         "button_background": [ 0, 0, 0, 0 ],
+         "control_background": [ 0, 0, 0, 0 ],
+         "frame": [ 1, 1, 3 ],
+         "frame_inactive": [ 161, 182, 228 ],
+         "frame_incognito": [ 83, 106, 139 ],
+         "frame_incognito_inactive": [ 126, 139, 156 ],
+         "ntp_background": [ 255, 255, 255 ],
+         "ntp_header": [ 75, 140, 220 ],
+         "ntp_link": [ 227, 227, 227 ],
+         "ntp_section": [ 229, 239, 254 ],
+         "ntp_section_link": [ 6, 55, 116 ],
+         "ntp_section_text": [ 0, 0, 0 ],
+         "ntp_text": [ 247, 247, 247 ],
+         "tab_background_text": [ 64, 64, 64 ],
+         "tab_text": [ 0, 0, 0 ],
+         "toolbar": [ 223, 223, 223 ]
+      },
+      "images": {
+         "theme_frame": "images/theme_frame.png",
+         "theme_ntp_background": "images/theme_ntp_background.png",
+         "theme_toolbar": "images/theme_toolbar.png"
+      },
+      "properties": {
+         "ntp_background_alignment": "right top",
+         "ntp_background_repeat": "no-repeat"
+      },
+      "tints": {
+         "background_tab": [ 0, 0, 0.85882352941176 ],
+         "buttons": [ 0, 0, 0.96862745098039 ],
+         "frame": [ -1, -1, -1 ],
+         "frame_inactive": [ -1, -1, 0.75 ],
+         "frame_incognito": [ -1, 0.2, 0.35 ],
+         "frame_incognito_inactive": [ -1, 0.3, 0.6 ]
+      }
+   },
+   "update_url": "http://clients2.google.com/service/update2/crx",
+   "version": "1"
+}

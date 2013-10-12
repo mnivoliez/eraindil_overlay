@@ -1,6 +1,5 @@
-
 [Desktop Entry]
 Type=Application
-Name=Bioshock
-Exec=sh /media/utilitaire/Install/ScripLancement/Bioshock.sh
-Icon=/media/multimedia/Images/Jeu_video/bioshock_7.png
+Name=Dead Space 3
+Exec=sh /media/utilitaire/Install/ScripLancement/deadspace3.sh
+Icon=/media/multimedia/Images/Jeu_video/dead_space_3_icon_by_markotodic-d5twzpv.png

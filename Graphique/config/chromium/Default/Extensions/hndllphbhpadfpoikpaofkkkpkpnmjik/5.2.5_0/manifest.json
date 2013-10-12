@@ -1,0 +1,54 @@
+{
+   "background": {
+      "scripts": [ "/lib/vendor/au.min.js", "/lib/background.js" ]
+   },
+   "content_scripts": [ {
+      "css": [ "/assets/css/reddit.css" ],
+      "matches": [ "http://www.reddit.com/*", "https://www.reddit.com/*" ]
+   }, {
+      "all_frames": false,
+      "css": [ "/assets/css/tooltip.css" ],
+      "js": [ "/lib/mappings.js", "/lib/content_script.js" ],
+      "matches": [ "http://www.facebook.com/*", "https://www.facebook.com/*", "http://www.facebook.com/photo.php?*", "https://www.facebook.com/photo.php?*", "http://www.facebook.com/photo*", "https://www.facebook.com/photo*", "http://plus.google.com/*", "https://plus.google.com/*", "https://funnyjunk.com/*", "http://funnyjunk.com/*", "http://www.funnyjunk.com/*", "https://www.funnyjunk.com/*", "http://cheezburger.com/*", "https://cheezburger.com/*", "http://*.cheezburger.com/*", "https://*.cheezburger.com/*", "http://*.memebase.com/*", "https://*.memebase.com/*", "http://www.reddit.com/*", "https://www.reddit.com/*", "http://twitter.com/*", "https://twitter.com/*", "http://*.tumblr.com/*", "https://*.tumblr.com/*", "http://www.cuantocabron.com/*", "https://www.cuantocabron.com/*", "http://www.youtube.com/*", "https://www.youtube.com/*", "http://www.imgur.com/*", "https://www.imgur.com/*", "http://i.imgur.com/*", "https://i.imgur.com/*", "http://*.imgur.com/*", "https://*.imgur.com/*", "http://www.knowyourmeme.com/*", "https://www.knowyourmeme.com/*", "http://www.trollemoticons.com/*" ],
+      "run_at": "document_start"
+   }, {
+      "all_frames": true,
+      "css": [ "/assets/css/tooltip.css" ],
+      "js": [ "/lib/mappings.js", "/lib/content_script.js" ],
+      "matches": [ "http://www.facebook.com/plugins/*", "https://www.facebook.com/plugins/*" ],
+      "run_at": "document_start"
+   }, {
+      "all_frames": false,
+      "js": [ "/lib/vendor/au.min.js", "/lib/support.js" ],
+      "matches": [ "http://*/*", "https://*/*" ],
+      "run_at": "document_start"
+   }, {
+      "all_frames": true,
+      "js": [ "/lib/support_frame.js" ],
+      "matches": [ "http://*.yieldsquare.com/*", "https://*.yieldsquare.com/*" ],
+      "run_at": "document_start"
+   }, {
+      "js": [ "/lib/thanks.js" ],
+      "matches": [ "http://www.trollemoticons.com/thanks*" ],
+      "run_at": "document_start"
+   } ],
+   "content_security_policy": "script-src 'self' https://ssl.google-analytics.com https://apis.google.com; object-src 'self'",
+   "description": "Use memes on popular websites!!",
+   "icons": {
+      "128": "/assets/icon/icon128.png",
+      "16": "/assets/icon/icon16.png",
+      "48": "/assets/icon/icon48.png"
+   },
+   "key": "MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQCvxt+TQIl3fpCE2QCbqkWGtdCbbUyXPEy2ReeD74ZOsYbcW0KdDGlH6JLgCLhe8CLcWGyLB1cMJE6NIndMHd/PEoCbrBrjaRiW6rnfYZWmhNJF3iDU+59t1s1tIk72JrKjYyoHdHX9jh2EMm0h1kzTo5QmhkP1A9UbecdKTmHBkQIDAQAB",
+   "manifest_version": 2,
+   "name": "Troll Emoticons",
+   "options_page": "/pages/options.html",
+   "page_action": {
+      "default_icon": "/assets/icon/icon16.png",
+      "default_popup": "/pages/popup.html",
+      "default_title": "Troll Emoticons"
+   },
+   "permissions": [ "\u003Call_urls\u003E", "storage" ],
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "5.2.5"
+}

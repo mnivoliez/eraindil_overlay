@@ -1,8 +1,34 @@
 #required by skype (argument)
->=net-im/skype-4.0.0.8 skype-4.0.0.7-copyright
-#required by www-plugins/adobe-flash (argument)
->=www-plugins/adobe-flash-11.2.202.236 AdobeFlash-10.3
+>=net-im/skype-4.0.0.8-r1 skype-4.0.0.7-copyright
 #required by virtual/jre-1.6.0, required by dev-java/java-config-2.1.12
->=dev-java/sun-jre-bin-1.6.0.33-r1 Oracle-BCLA-JavaSE
-#required by app-emulation/virtualbox-4.1.18-r1[additions], required by virtualbox (argument)
->=app-emulation/virtualbox-additions-4.1.18 PUEL
+>=dev-java/sun-jre-bin-1.6.0.35 Oracle-BCLA-JavaSE
+#required by www-plugins/adobe-flash (argument)
+>=www-plugins/adobe-flash-11.2.202.238 AdobeFlash-11.x
+#required by games-fps/etqw-bin-1.5[cdinstall], required by games-fps/etqw-bin (argument)
+>=games-fps/etqw-data-1.0 ETQW
+#required by games-fps/etqw-bin (argument)
+>=games-fps/etqw-bin-1.5 ETQW
+#required by games-fps/doom3-ducttape-0006-r1[-dedicated,opengl], required by games-fps/doom3-ducttape (argument)
+>=games-fps/doom3-1.3.1304 DOOM3
+#required by games-fps/doom3-1.3.1304[cdinstall], required by games-fps/doom3-ducttape-0006-r1[-dedicated,opengl], required by games-fps/doom3-ducttape (argument)
+>=games-fps/doom3-data-1.1.1282-r1 DOOM3
+#required by quake4-bin (argument)
+>=games-fps/quake4-bin-1.4.2 QUAKE4
+#required by games-fps/quake4-bin-1.4.2[cdinstall], required by quake4-bin (argument)
+>=games-fps/quake4-data-1.0.2147.12 QUAKE4
+#required by games-server/etqw-ded (argument)
+>=games-server/etqw-ded-1.5 ETQW
+#required by dev-java/oracle-jdk-bin (argument)
+>=dev-java/oracle-jdk-bin-1.7.0.10 Oracle-BCLA-JavaSE
+#required by www-plugins/google-talkplugin (argument)
+>=www-plugins/google-talkplugin-3.10.2.0 Google-TOS
+#required by oracle-jre-bin (argument)
+>=dev-java/oracle-jre-bin-1.7.0.13 Oracle-BCLA-JavaSE
+
+# required by dev-java/sun-jdk (argument)
+>=dev-java/sun-jdk-1.6.0.43 Oracle-BCLA-JavaSE
+# required by net-misc/teamviewer (argument)
+>=net-misc/teamviewer-8.0.17147-r2 TeamViewer
+# required by @selected
+# required by @world (argument)
+>=games-fps/doom3-lms-4 GameFront

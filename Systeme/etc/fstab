@@ -9,11 +9,13 @@
 #
 # <fs>			<mountpoint>	<type>		<opts>		         <dump/pass>
 
-/dev/sda1		/boot		ext2		noauto,noatime  	 1 2
-/dev/sda2		none		swap		sw		         0 0
-/dev/sda3		/		ext4		noatime		         0 1
-/dev/sda4               /home           ext4            defaults,noatime         0 1
+/dev/sda1		/boot		ext2		noauto,noatime,discard  	 1 2
+/dev/sda3		/               btrfs  		subvol=@racine,defaults,noatime,discard,ssd     0 1
+/dev/sda4               /home           btrfs           subvol=@home,defaults,noatime,discard,ssd       0 1
 #/dev/cdrom		/mnt/cdrom	auto		noauto,ro	         0 0
+/dev/sdc2               /var            ext4            noatime,defaults         0 1
+/dev/sdc1               none            swap            sw                       0 0
 none                    /dev/shm        tmpfs           nodev,nosuid,noexec      0 0
-/dev/sdb2               /media/utilitaire btrfs         defaults,noatime       0 1
-/dev/sdc1               /media/multimedia btrfs         defaults,noatime       0 1  
+/dev/sdb1               /media/utilitaire ext4         defaults,noatime       0 1
+/dev/sdb2               /media/multimedia_2 btrfs         defaults,noatime       0 1
+/dev/sdd1               /media/multimedia btrfs         defaults,noatime       0 1  

@@ -1,0 +1,10 @@
+#required by =x11-misc/tint2-9999 (argument)
+=x11-misc/tint2-9999 **
+# required by @selected
+# required by @world (argument)
+=media-sound/spotify-0.9.1.55 **
+# required by cairo-dock-plugins (argument)
+=x11-plugins/cairo-dock-plugins-9999-r2 **
+# required by x11-plugins/cairo-dock-plugins-9999-r2::write2David
+# required by cairo-dock-plugins (argument)
+=x11-misc/cairo-dock-9999 **

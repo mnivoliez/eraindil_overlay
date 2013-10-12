@@ -1,0 +1,80 @@
+{
+   "available1080": {
+      "message": "Tunjuk video 1080p jika ada"
+   },
+   "available240": {
+      "message": "Tunjuk video 240p jika ada"
+   },
+   "available2k": {
+      "message": "Tunjuk video 2k jika ada"
+   },
+   "available360": {
+      "message": "Tunjuk video 360p jika ada"
+   },
+   "available480": {
+      "message": "Tunjuk video 480p jika ada"
+   },
+   "available720": {
+      "message": "Tunjuk video 720p jika ada"
+   },
+   "availablemp3": {
+      "message": "Tunjuk MP3"
+   },
+   "availablewebm": {
+      "message": "Tunjuk video WebM jika ada"
+   },
+   "buttonstyle": {
+      "message": "Gaya butang"
+   },
+   "clasicdownload": {
+      "message": "Muat turun klasik"
+   },
+   "description": {
+      "message": "Muat turun video dari Youtube! Ianya mudah... "
+   },
+   "disableflv": {
+      "message": "Lumpuh video FLV"
+   },
+   "includenick": {
+      "message": "Sertakan nama pemuat naik sebelum tajuk"
+   },
+   "includequality": {
+      "message": "Sertakan kualiti sebelum tajuk"
+   },
+   "installmessage": {
+      "message": "Chrome Youtube Downloader kini telah dipasang!"
+   },
+   "language": {
+      "message": "id"
+   },
+   "loadingsettings": {
+      "message": "Memuat tetapan"
+   },
+   "nickname": {
+      "message": "Azrin Anuar"
+   },
+   "oneclickdownload": {
+      "message": "Muat turun satu klik"
+   },
+   "oneclicktext": {
+      "message": "Jika video terdapat dalam resolusi yang dipilih, maka secara automatik ditawarkan untuk muat turun, sekiranya tidak, resolusi yang lebih rendah terdekat ditawarkan untuk muat turun."
+   },
+   "saved": {
+      "message": "Tetapan disimpan"
+   },
+   "settingspagetitle": {
+      "message": "Chrome Youtube Downloader - Tetapan"
+   },
+   "translated": {
+      "message": "Diterjemah oleh:"
+   },
+   "updatemessage": {
+      "message": "Chrome Youtube Downloader kini telah dikemaskini!"
+   },
+   "videoformats": {
+      "message": "Format video"
+   },
+   "videotitle": {
+      "message": "Tajuk video"
+   }
+}

@@ -1,0 +1,99 @@
+﻿/* style download list */
+#styleul { 
+	position:absolute;
+	height:12px; 
+	right:0px; 
+	top:0px; 
+	padding: 2px; 
+	border-bottom: 1px solid #ccc; 
+	border-left: 1px solid #ccc; 
+	background-color:white; 
+	border-radius: 0px 3px 0px 3px; 
+}
+/* iframe for download display none */
+#watch-actions-center-clasic iframe, #watch-actions-center-new iframe{
+	display:none;
+}
+/* styling button */
+#watch-actions-center-clasic, #watch-actions-center-new, #watch7-subscription-container {
+	display:inline;
+	margin-left:6px;
+}
+#stylelist a {
+	text-decoration:none;
+}	
+#watch-actions-center-new span #download span a {
+	color:#333;
+	border-color: 1px solid #ccc;
+ 	text-decoration:none;
+	vertical-align:middle;
+}
+#watch-actions-center-clasic #download span, #watch-actions-center-clasic button.yt-uix-button-subscribe-branded {
+	padding: 0 6px 0 6px !important;
+	color:#333 !important;	
+}
+#download span .yt-uix-button-content {
+	color:#333 !important;	
+	vertical-align:middle;
+}
+#download span.yt-uix-button-content a {
+	padding: 0 6px 0 6px;
+	color:#333 !important;	
+}
+#menu{
+	margin-left: 1px;
+}
+#menu, #download{
+	-webkit-box-shadow: none ;
+	box-shadow: none;
+}
+#menu .yt-uix-button-content {
+	margin: 6px 0px;
+}
+#menu  span .yt-uix-button-arrow {
+	border-top-color: #333 !important;
+}
+/* blue focus fix */
+#menu.yt-uix-button-subscribe-branded:focus , #menu.yt-uix-button-subscribe-branded:focus , #menu.yt-uix-button-default:focus{    
+	outline: none;
+	box-shadow: 0 0 0px;
+	border-color: none;
+	
+}
+#menu.yt-uix-button-subscribe-branded,#download.yt-uix-button-subscribe-branded{
+	background-image: linear-gradient(to top,#e1e1e1 0,#fefefe 100%);
+	border: 1px solid #ccc;
+	/*border-bottom-width: 0px;*/
+}
+#menu.yt-uix-button-subscribe-branded:hover,#download.yt-uix-button-subscribe-branded:hover{
+	border: 1px solid #999999;
+	/*border-bottom-width: 0px;*/
+}
+/* other buttons fix */ 
+button.yt-subscription-button, .yt-subscription-button-subscriber-count-branded-horizontal, .yt-uix-button-group {
+	margin-top: -1px;
+}
+.yt-uix-button-subscribed-branded.hover-enabled:hover, .yt-uix-button-subscribed-unbranded.hover-enabled:hover {
+	margin-right:1px;
+}
+/* tooltip reverse to right (file size) */
+div.yt-uix-tooltip-tip-reverse div.yt-uix-tooltip-tip-body {
+	left:85px !important;
+	top:-24px !important;
+	/*left:4px !important*/
+}
+.yt-uix-tooltip-tip-reverse {
+	right:auto !important;
+	/*left:4px !important*/
+}
+.yt-uix-tooltip-tip-reverse .yt-uix-tooltip-tip-arrow{
+	right:auto !important;
+	left:80px !important;
+	top:-18px !important;
+	border-width:5px 5px 5px 0px !important;
+	border-right-color: #000 !important;
+	opacity: .79 !important;
+	border-top-color:transparent !important;
+	border-bottom-color:transparent !important;
+	border-left-color:transparent !important;
+}

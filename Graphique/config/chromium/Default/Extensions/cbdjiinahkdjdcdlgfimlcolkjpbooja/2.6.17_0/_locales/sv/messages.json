@@ -1,0 +1,65 @@
+{
+   "available1080": {
+      "message": "Visa 1080p-uppl\u00F6sning om det \u00E4r tillg\u00E4ngligt"
+   },
+   "available240": {
+      "message": "Visa 240p-uppl\u00F6sning om det \u00E4r tillg\u00E4ngligt"
+   },
+   "available2k": {
+      "message": "Visa 2k-uppl\u00F6sning om det \u00E4r tillg\u00E4ngligt"
+   },
+   "available360": {
+      "message": "Visa 360p-uppl\u00F6sning om det \u00E4r tillg\u00E4ngligt"
+   },
+   "available480": {
+      "message": "Visa 480p-uppl\u00F6sning om det \u00E4r tillg\u00E4ngligt"
+   },
+   "available720": {
+      "message": "Visa 720p-uppl\u00F6sning om det \u00E4r tillg\u00E4ngligt"
+   },
+   "availablemp3": {
+      "message": "Visa mp3"
+   },
+   "availablewebm": {
+      "message": "Visa WebM-videor om de finns"
+   },
+   "buttonstyle": {
+      "message": "Knappens utseende"
+   },
+   "clasicdownload": {
+      "message": "Klassisk nedladdning"
+   },
+   "description": {
+      "message": "Ladda ner videor fr\u00E5n youtube! Det \u00E4r enkelt..."
+   },
+   "disableflv": {
+      "message": "Inaktivera FLV-videor"
+   },
+   "includenick": {
+      "message": "S\u00E4tt uppladdarens anv\u00E4ndarnamn f\u00F6re titeln"
+   },
+   "includequality": {
+      "message": "S\u00E4tt videons uppl\u00F6sning efter titeln"
+   },
+   "nickname": {
+      "message": "Translated by: andersmoldin"
+   },
+   "oneclickdownload": {
+      "message": "Enklicks-nedladdning"
+   },
+   "oneclicktext": {
+      "message": "Om videon finns tillg\u00E4nglig i den valda uppl\u00F6sningen erbjuds den automatiskt f\u00F6r nedladdning, annars laddas den ner i n\u00E4rmast l\u00E4gsta uppl\u00F6sning."
+   },
+   "saved": {
+      "message": "Inst\u00E4llningar sparade"
+   },
+   "settingspagetitle": {
+      "message": "Chrome YouTube Downloader - Inst\u00E4llningar"
+   },
+   "videoformats": {
+      "message": "Videoformat"
+   },
+   "videotitle": {
+      "message": "Videotitel"
+   }
+}

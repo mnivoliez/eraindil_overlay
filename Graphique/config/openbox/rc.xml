@@ -335,6 +335,26 @@
         <execute>scrot '%Y-%m-%d_$wx$h.png' -e 'mv $f /media/multimedia/Images/Capture_ecran/'  </execute>
       </action>
     </keybind>
+    <keybind key="XF86AudioPlay">
+		<action name="execute">
+			<execute>/media/utilitaire/Install/Programme/nightingale/nightingale -pause</execute>
+		</action>
+    </keybind>
+    <keybind key="XF86AudioStop">
+		<action name="execute">
+			<execute>/media/utilitaire/Install/Programme/nightingale/nightingale -stop</execute>
+		</action>
+    </keybind>
+    <keybind key="XF86AudioNext">
+		<action name="execute">
+			<execute>/media/utilitaire/Install/Programme/nightingale/nightingale -next</execute>
+		</action>
+    </keybind>
+    <keybind key="XF86AudioPrev">
+		<action name="execute">
+			<execute>/media/utilitaire/Install/Programme/nightingale/nightingale -previous</execute>
+		</action>
+    </keybind>
     <keybind key="A-Print">
       <action name="Execute">
         <execute>scrot '%Y-%m-%d_$wx$h.png' -sbe 'mv $f /media/multimedia/Images/Capture_ecran/' </execute>

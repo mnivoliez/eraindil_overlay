@@ -1,0 +1,80 @@
+{
+   "available1080": {
+      "message": "Afficher les vid\u00E9os 1080p si disponible"
+   },
+   "available240": {
+      "message": "Afficher les vid\u00E9os 240p si disponible"
+   },
+   "available2k": {
+      "message": "Afficher les vid\u00E9os 2k si disponible"
+   },
+   "available360": {
+      "message": "Afficher les vid\u00E9os 360p si disponible"
+   },
+   "available480": {
+      "message": "Afficher les vid\u00E9os 480p si disponible"
+   },
+   "available720": {
+      "message": "Afficher les vid\u00E9os 720p si disponible"
+   },
+   "availablemp3": {
+      "message": "Afficher les MP3"
+   },
+   "availablewebm": {
+      "message": "Afficher les vid\u00E9os WebM si disponible"
+   },
+   "buttonstyle": {
+      "message": "Style des Boutons"
+   },
+   "clasicdownload": {
+      "message": "Tel\u00E9chargement Classique"
+   },
+   "description": {
+      "message": "T\u00E9l\u00E9charger des vid\u00E9os \u00E0 partir de youtube! C'est facile..."
+   },
+   "disableflv": {
+      "message": "D\u00E9sactiver les vid\u00E9os FLV"
+   },
+   "includenick": {
+      "message": "Inclure le nom d'utilisateur de l'uploader avant le titre"
+   },
+   "includequality": {
+      "message": "Inclure la qualit\u00E9 derri\u00E8re le titre"
+   },
+   "installmessage": {
+      "message": "Chrome Youtube Downloader est \u00E0 pr\u00E9sent install\u00E9!"
+   },
+   "language": {
+      "message": "fr"
+   },
+   "loadingsettings": {
+      "message": "Chargement des param\u00E8tres"
+   },
+   "nickname": {
+      "message": "slam"
+   },
+   "oneclickdownload": {
+      "message": "T\u00E9l\u00E9charger en un Clic"
+   },
+   "oneclicktext": {
+      "message": "Si une vid\u00E9o est disponible avec la r\u00E9solution s\u00E9lectionn\u00E9e elle est automatiquement offerte en t\u00E9l\u00E9chargement, mais si elle n'est pas disponible en t\u00E9l\u00E9chargement elle sera offerte avec la la basse r\u00E9solution la plus proche"
+   },
+   "saved": {
+      "message": "Options Sauvegard\u00E9es"
+   },
+   "settingspagetitle": {
+      "message": "Chrome Youtube Downloader - Param\u00E8tres"
+   },
+   "translated": {
+      "message": "Traduit par:"
+   },
+   "updatemessage": {
+      "message": "Chrome Youtube Downloader est \u00E0 jour!"
+   },
+   "videoformats": {
+      "message": "Formats des Vid\u00E9os"
+   },
+   "videotitle": {
+      "message": "Titre des Vid\u00E9os"
+   }
+}

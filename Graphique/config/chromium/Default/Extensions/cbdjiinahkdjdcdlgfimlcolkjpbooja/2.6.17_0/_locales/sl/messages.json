@@ -1,0 +1,80 @@
+{
+   "available1080": {
+      "message": "Poka\u017Ei 1080p video \u010De je na voljo"
+   },
+   "available240": {
+      "message": "Poka\u017Ei 240p video \u010De je na voljo"
+   },
+   "available2k": {
+      "message": "Poka\u017Ei 2k video \u010De je na voljo"
+   },
+   "available360": {
+      "message": "Poka\u017Ei 360p video \u010De je na voljo"
+   },
+   "available480": {
+      "message": "Poka\u017Ei 480p video \u010De je na voljo"
+   },
+   "available720": {
+      "message": "Poka\u017Ei 720p video \u010De je na voljo"
+   },
+   "availablemp3": {
+      "message": "Poka\u017Ei MP3"
+   },
+   "availablewebm": {
+      "message": "Poka\u017Ei WebM video \u010De je na voljo"
+   },
+   "buttonstyle": {
+      "message": "Stil"
+   },
+   "clasicdownload": {
+      "message": "Klasi\u010Den prenos"
+   },
+   "description": {
+      "message": "Nalo\u017Eite vide z youtube! Lahko je...."
+   },
+   "disableflv": {
+      "message": "Onemogo\u010Dite FLV vide"
+   },
+   "includenick": {
+      "message": "Dodaj ime prena\u0161alca pred naslovom videa"
+   },
+   "includequality": {
+      "message": "Dodaj resolucijo za naslovom"
+   },
+   "installmessage": {
+      "message": "Chrome YouTube Downloader je sedaj name\u0161\u010Den!"
+   },
+   "language": {
+      "message": "sl"
+   },
+   "loadingsettings": {
+      "message": "Nalaganje nastavitev..."
+   },
+   "nickname": {
+      "message": "vex3um"
+   },
+   "oneclickdownload": {
+      "message": "/(we dont have phrase like that, just type: Prenos(people will understand)"
+   },
+   "oneclicktext": {
+      "message": "\u010Ce je video na voljo v izbrani resoluciji je samodejno ponujen prenos, toda \u010De video ni na voljo za prenos v izbrani resoluciji je ponujena najbli\u017Eja ni\u017Eja resolucija videa."
+   },
+   "saved": {
+      "message": "Nastavitve shranjene"
+   },
+   "settingspagetitle": {
+      "message": "Chrome YouTube Downloader - Nastavitve"
+   },
+   "translated": {
+      "message": "Prevedel:"
+   },
+   "updatemessage": {
+      "message": "Chrome YouTube Downloader je posodobljen!"
+   },
+   "videoformats": {
+      "message": "Format"
+   },
+   "videotitle": {
+      "message": "Naslov"
+   }
+}

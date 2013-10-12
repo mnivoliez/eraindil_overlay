@@ -1,0 +1,219 @@
+<html>
+<head>
+<title>Options</title>
+
+<script type="text/javascript" src="/lib/vendor/jquery.min.js"></script>
+<script type="text/javascript" src="/lib/vendor/jquery.iphone-switch.min.js"></script>
+<script type="text/javascript" src="/lib/vendor/au.min.js"></script>
+<script type="text/javascript" src="/lib/mappings.js"></script>
+
+<style>
+    body {
+      margin:0; padding:0;
+      font-family: Helvetica, Arial, Tahoma, sans-serif;
+      background:#333;
+    }
+
+    #container {
+      position: relative;
+      padding:20px;
+      margin:15px auto;
+      max-width:1240px;
+      background:url(/assets/img/fSMR.bg.jpg);
+      border-radius:10px;
+      box-shadow:0 0 10px #111;
+    }
+
+    #placeholder,
+    #module {
+      margin-bottom:40px;
+    }
+
+    #module {
+      position: relative;
+      top: 0;
+      left: 0;
+      border: 0;}
+
+table {
+  border-spacing: 0px;
+}
+tr { }
+span {
+position: relative;
+padding: 5px;
+z-index: 100;
+background: rgb(53, 53, 53);
+color: #fff;
+border-radius: 5px 5px;
+-moz-border-radius: 5px;
+-webkit-border-radius: 5px;
+text-align: center;
+text-indent: 0;
+font: normal bold 10px/13px Tahoma,sans-serif;
+white-space: nowrap;
+box-shadow: 2px 2px 2px rgba(0, 0, 0, 0.1);
+-webkit-box-shadow: 2px 2px rgba(0, 0, 0, 0.1);
+-moz-box-shadow: 2px 2px rgba(0, 0, 0, 0.1);
+}
+td {
+height: 64px;
+padding-right: 10px;
+padding-bottom: 15px;
+width: 64px;
+align: center;
+text-align: center;
+border-spacing: 0px;
+ }
+h1{font-size:24px; }
+h2{font-size:18px;margin:20px 0 10px;}
+h1, h2  { text-shadow:0 1px 0 #f9f9f9 }
+.pointer { cursor:pointer; }
+.left { float:left }
+.clear { clear:both }
+
+.item {
+  float: left;
+  width: 110px;
+  height:130px;
+  /*-------------*/
+  position: relative;
+  text-align:center;
+  padding:5px;
+}
+
+.item img, .item embed, .item iframe {
+  max-height:100px;
+  max-width:100px;
+}
+
+.img-container {
+  width:110px;
+  height:100px;
+  pading-top:5px;
+  border-radius: 10px;
+  -webkit-transition:background-color .2s ease-out;
+  background: rgba(255, 255, 255, .5);
+  box-shadow: 0 0 15px rgba(0,0,0,.02);
+}
+
+.item:hover .img-container {
+  /*background: rgba(0, 0, 0, .1);*/
+  background: rgba(255, 255, 255, .9);
+  box-shadow: 0 0 15px rgba(0,0,0,.08);
+}
+
+.add { display:none;  }
+.item:hover .add { display:block; }
+
+.item .text {
+  background: #333;
+  color: #EEE;
+  padding: 5px 8px;
+  border-radius: 10px;
+  font-family: verdana;
+  font-size: 11px;
+  box-shadow: #333 0 0 6px;
+  font-weight: bold;
+  color: #CCC;
+  width:100px;
+  text-align:center;
+  margin-top:5px;
+}
+
+.item button {
+   position:absolute;
+   color:#f1f1f1;
+   padding:2px 6px 3px;
+   line-height:14px;
+   font-size:10px;
+   font-weight:bold;
+   border-radius:16px;
+   border: 2px solid white;
+   cursor:pointer;
+   left:-3px;
+   top:-3px;
+   box-shadow: 0 0 8px rgba(0,0,0,.4);
+}
+
+.item .remove { background:#c31000;}
+.item .add { background:green; }
+
+#rages, #favourites { overflow:hidden; padding:8px; }
+
+#alphabet { margin:0 0 20px; }
+#alphabet span { cursor:pointer; }
+#add-input { background:#f1f1f1; border:1px solid #aaa; border-radius:5px; padding:2px 5px; }
+
+#logo {
+    margin-bottom: -15px;
+    border-radius: 3px;
+    border: 2px solid white;
+    position: absolute;
+    right: 15px;
+    top: 15px;
+    box-shadow: 0 0 10px rgba(0,0,0,.5);
+}
+
+#bookmark-input {
+  background: rgba(255, 255, 255, .5);
+  box-shadow: 0 0 15px rgba(0,0,0,.02);
+  border: 0;
+  padding: 3px 5px;
+  font-weight: bold;
+  color: #444;
+  border-radius: 5px;
+  text-shadow: 0 1px 0 #eee;
+  /*text-align: center;*/
+  -webkit-transition:background-color .2s ease-out;
+}
+#bookmark-input:focus { background: rgba(255, 255, 255, .8); }
+#bookmark-add { padding:2px 15px; }
+
+#version-info a {
+  color:#c31000;
+}
+
+#marketingtxt { margin:3px 15px; font-style:italic; }
+</style>
+</head>
+<body>
+<div id="container">
+  <div id="placeholder">
+    <img src="/assets/icon/icon48.png" id="logo">
+    <h1>Troll Emoticons Settings</h1>
+
+  <div id="version-info"></div>
+
+  <h1>Bookmarks</h1>
+
+  <h2>Add by name</h2>
+
+  <b>:<input type="text" id="bookmark-input">:</b> <input type="button" value="Add" id="bookmark-add">
+  <br /><br /> <br />
+
+  <div id="favourites"></div>
+
+
+  <h2 style="margin:40px 0 30px;padding-top:25px;border-top:3px dashed #fff;">Click to add</h2>
+
+  <div id="alphabet"></div>
+  <div id="rages"></div>
+  <div style="
+  padding: 10px;
+  background: #f1f1f1;
+  border-radius: 8px;
+  border: 1px solid #ccc;
+  ">
+  <div class="left" id="1"></div>
+  <div id="ajax" class="left">
+    <p id="marketingtxt">Disable Advertising</p>
+  </div>
+  <div class="clear"></div>
+  </div>
+</div>
+
+<script type="text/javascript" src="/lib/options.js"></script>
+
+</body>
+</html>

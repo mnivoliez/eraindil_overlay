@@ -1,0 +1,25 @@
+{
+   "background": {
+      "scripts": [ "script/background.js" ]
+   },
+   "content_scripts": [ {
+      "css": [ "css/Chrome-YouTube-Downloader.css" ],
+      "js": [ "script/Chrome-YouTube-Downloader.js" ],
+      "matches": [ "http://*.youtube.com/watch*", "https://*.youtube.com/watch*" ],
+      "run_at": "document_end"
+   } ],
+   "content_security_policy": "script-src 'self' https://ssl.google-analytics.com; object-src 'self' https://www.youtube.com; mandel-design.xf.cz; ",
+   "default_locale": "en",
+   "description": "__MSG_description__",
+   "homepage_url": "http://mandel-design.xf.cz/Chrome-Youtube-Downloader/",
+   "icons": {
+      "128": "images/icon.png"
+   },
+   "key": "MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQDNtIpeW8o60bZauBc9fhh9+AnozUl5gU9y3JlgDmpD6O+t1XAVcxylaZ4wMyK4afjiqacb2JWbdf7sBhQPjcbiWlwkdWFJ3WJHwk2hfMeRTSAxDiH4ipXx38ejnmMhA9hEsce3DhGUkv7U/tJ9JHs10YExrO5cfKNo4FwMMFzn2QIDAQAB",
+   "manifest_version": 2,
+   "name": "Chrome YouTube Downloader",
+   "options_page": "html/options.html",
+   "update_url": "https://dl.dropbox.com/u/9278456/Chrome_YouTube_Downloader/update.xml",
+   "version": "2.6.18",
+   "web_accessible_resources": [ "images/options.png", "images/arrow.png" ]
+}
